@@ -1,0 +1,1244 @@
+enregistrement38.wav, %WER 33.33 [ 2 / 6, 1 ins, 0 del, 1 sub ]
+<eps> ; LES ; GENS ;  ONT  ; BESOIN ; DE ; MANGER
+  I   ;  =  ;  =   ;   S   ;   =    ; =  ;   =   
+ HUM  ; LES ; GENS ; AUONT ; BESOIN ; DE ; MANGER
+================================================================================
+enregistrement47.wav, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+JE ; NE ; PEUX ; PAS ; TROUVER ; LE ; CHAT
+=  ; =  ;  =   ;  =  ;    =    ; =  ;  =  
+JE ; NE ; PEUX ; PAS ; TROUVER ; LE ; CHAT
+================================================================================
+enregistrement51.wav, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+PERSONNE ; NE ; RÉPOND
+   =     ; =  ;   =   
+PERSONNE ; NE ; RÉPOND
+================================================================================
+enregistrement139.wav, %WER 16.67 [ 1 / 6, 0 ins, 0 del, 1 sub ]
+LE ; BAISER ; QUE ; JE ; TE ; DONNE
+=  ;   S    ;  =  ; =  ; =  ;   =  
+LE ; BAISÉR ; QUE ; JE ; TE ; DONNE
+================================================================================
+enregistrement37.wav, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+LES ; GENS ; SONT ; DANS ; UNE ; MAISON
+ =  ;  =   ;  =   ;  =   ;  =  ;   =   
+LES ; GENS ; SONT ; DANS ; UNE ; MAISON
+================================================================================
+enregistrement142.wav, %WER 14.29 [ 1 / 7, 0 ins, 1 del, 0 sub ]
+J ; OUVRE ; MA ; MAIN ;   ET  ; J ; ATTENDS
+= ;   =   ; =  ;  =   ;   D   ; = ;    =   
+J ; OUVRE ; MA ; MAIN ; <eps> ; J ; ATTENDS
+================================================================================
+enregistrement172.wav, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+SOUS ; UN ; SOLEIL ; DE ; PRINTEMPS
+ =   ; =  ;   =    ; =  ;     =    
+SOUS ; UN ; SOLEIL ; DE ; PRINTEMPS
+================================================================================
+enregistrement204.wav, %WER 12.50 [ 1 / 8, 0 ins, 0 del, 1 sub ]
+QUI ; VIT ; DANS ; LE ; TRONC ; D ; UN ; ARBRE
+ =  ;  =  ;  =   ; =  ;   S   ; = ; =  ;   =  
+QUI ; VIT ; DANS ; LE ;  TRON ; D ; UN ; ARBRE
+================================================================================
+enregistrement231.wav, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+LE ; CIEL ; EST ; DEVENU ; NUAGEUX
+=  ;  =   ;  =  ;   =    ;    =   
+LE ; CIEL ; EST ; DEVENU ; NUAGEUX
+================================================================================
+enregistrement251.wav, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+LES ; GENS ; NE ; S ; AMUSENT ; PAS
+ =  ;  =   ; =  ; = ;    =    ;  = 
+LES ; GENS ; NE ; S ; AMUSENT ; PAS
+================================================================================
+enregistrement324.wav, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+J ; OUVRE ; MON ; PARAPLUIE
+= ;   =   ;  =  ;     =    
+J ; OUVRE ; MON ; PARAPLUIE
+================================================================================
+enregistrement36.wav, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+LES ; GENS ; GRANDISSENT ; BÉBÉ
+ =  ;  =   ;      =      ;  =  
+LES ; GENS ; GRANDISSENT ; BÉBÉ
+================================================================================
+enregistrement39.wav, %WER 33.33 [ 2 / 6, 0 ins, 1 del, 1 sub ]
+TOUS ; LES ; GENS ; ONT ;    UN    ; VISAGE
+ =   ;  =  ;  =   ;  =  ;    S     ;   D   
+TOUS ; LES ; GENS ; ONT ; ENVISAGE ; <eps> 
+================================================================================
+enregistrement212.wav, %WER 12.50 [ 1 / 8, 0 ins, 0 del, 1 sub ]
+NE ; PAS ; MARCHER ; DANS ; LES ; FLAQUES ; D ; EAU
+=  ;  =  ;    =    ;  =   ;  =  ;    S    ; = ;  = 
+NE ; PAS ; MARCHER ; DANS ; LES ;  FLACS  ; D ; EAU
+================================================================================
+enregistrement295.wav, %WER 11.11 [ 1 / 9, 0 ins, 0 del, 1 sub ]
+IL ; AVAIT ; UN ; NEZ ; PLUS ; LONG ; QU ; UN ; TRAMWAY
+=  ;   =   ; =  ;  =  ;  =   ;  =   ; =  ; =  ;    S   
+IL ; AVAIT ; UN ; NEZ ; PLUS ; LONG ; QU ; UN ; TRAMOIS
+================================================================================
+enregistrement319.wav, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+L ; AUTOMNE ; ARRIVE ; APRÈS ; L ; ÉTÉ
+= ;    =    ;   =    ;   =   ; = ;  = 
+L ; AUTOMNE ; ARRIVE ; APRÈS ; L ; ÉTÉ
+================================================================================
+enregistrement326.wav, %WER 40.00 [ 2 / 5, 1 ins, 0 del, 1 sub ]
+JE ; VAIS ; PRENDRE ; UN ; AÉROSOL ; <eps>
+=  ;  =   ;    =    ; =  ;    S    ;   I  
+JE ; VAIS ; PRENDRE ; UN ;  AÉROS  ;  SOL 
+================================================================================
+enregistrement244.wav, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+JUAN ; DESCENDIT ; PAR ; LA ; PLANTE
+ =   ;     S     ;  =  ; =  ;   =   
+JUAN ; DESCENDUE ; PAR ; LA ; PLANTE
+================================================================================
+enregistrement159.wav, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+À ; TOUT ; MOMENT ; UNE ; PLANCHE
+= ;  =   ;   =    ;  =  ;    =   
+À ; TOUT ; MOMENT ; UNE ; PLANCHE
+================================================================================
+enregistrement175.wav, %WER 25.00 [ 1 / 4, 0 ins, 0 del, 1 sub ]
+PASSAIENT ; BEAUCOUP ; D ; HEURES
+    S     ;    =     ; = ;   =   
+  PASSER  ; BEAUCOUP ; D ; HEURES
+================================================================================
+enregistrement197.wav, %WER 42.86 [ 3 / 7, 0 ins, 1 del, 2 sub ]
+LE ; NOM ; DE ; MARIA ;  A  ;  CINQ  ; LETTRES
+=  ;  =  ; =  ;   =   ;  S  ;   S    ;    D   
+LE ; NOM ; DE ; MARIA ; SIN ; LETTRE ;  <eps> 
+================================================================================
+enregistrement205.wav, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+VOIR ; LA ; PAGE ; SUIVANTE
+ =   ; =  ;  =   ;    =    
+VOIR ; LA ; PAGE ; SUIVANTE
+================================================================================
+enregistrement213.wav, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+POUR ; QUE ; LES ; FEUILLES ; BRUISSENT
+ =   ;  =  ;  =  ;    =     ;     S    
+POUR ; QUE ; LES ; FEUILLES ;  BUISSENT
+================================================================================
+enregistrement147.wav, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+DANS ; MON ; COEUR ; DU ; ROSSIGNOL
+ =   ;  =  ;   =   ; =  ;     =    
+DANS ; MON ; COEUR ; DU ; ROSSIGNOL
+================================================================================
+enregistrement234.wav, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+JUAN ; A ; RENCONTRÉ ; UN ;  MAGICIEN 
+ =   ; = ;     =     ; =  ;     S     
+JUAN ; A ; RENCONTRÉ ; UN ; MAGISTIANT
+================================================================================
+enregistrement154.wav, %WER 20.00 [ 1 / 5, 0 ins, 1 del, 0 sub ]
+  ET  ; UN ; AUTRE ; AU ; CRÉPUSCULE
+  D   ; =  ;   =   ; =  ;     =     
+<eps> ; UN ; AUTRE ; AU ; CRÉPUSCULE
+================================================================================
+enregistrement248.wav, %WER 66.67 [ 4 / 6, 0 ins, 0 del, 4 sub ]
+JUAN ; ET ;   SA   ;  MÈRE  ; VIVÈRENT ; HEUREUX
+ =   ; S  ;   S    ;   S    ;    S     ;    =   
+JUAN ; OU ; SAMÈRE ; VIVENT ;   ERTH   ; HEUREUX
+================================================================================
+enregistrement256.wav, %WER 33.33 [ 2 / 6, 0 ins, 0 del, 2 sub ]
+APPELER ; SES ;  AMIS ; ET ; SA ; FAMILLE
+   S    ;  =  ;   S   ; =  ; =  ;    =   
+ APPELÉ ; SES ; AMIES ; ET ; SA ; FAMILLE
+================================================================================
+enregistrement337.wav, %WER 28.57 [ 2 / 7, 1 ins, 0 del, 1 sub ]
+IL ; ESSUIE ; <eps> ; MA ; BOUCHE ; ET ; MON ; VISAGE
+=  ;   S    ;   I   ; =  ;   =    ; =  ;  =  ;   =   
+IL ;  EST   ;   SU  ; MA ; BOUCHE ; ET ; MON ; VISAGE
+================================================================================
+enregistrement155.wav, %WER 16.67 [ 1 / 6, 0 ins, 0 del, 1 sub ]
+JE ; ME ; LÈVE ; JE ; ME ; RASSIEDS
+=  ; =  ;  =   ; =  ; =  ;    S    
+JE ; ME ; LÈVE ; JE ; ME ; RASSUIE 
+================================================================================
+enregistrement228.wav, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+ÇA ; NE ; FAIT ; PAS ; MAL
+=  ; =  ;  =   ;  =  ;  = 
+ÇA ; NE ; FAIT ; PAS ; MAL
+================================================================================
+enregistrement232.wav, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+LA ; CIGOGNE ; A ; QUITTÉ ; LE ; NID
+=  ;    =    ; = ;   =    ; =  ;  = 
+LA ; CIGOGNE ; A ; QUITTÉ ; LE ; NID
+================================================================================
+enregistrement273.wav, %WER 0.00 [ 0 / 11, 0 ins, 0 del, 0 sub ]
+ET ; C ; EST ; POURQUOI ; JE ; NE ; VAIS ; PAS ; À ; L ; ÉCOLE
+=  ; = ;  =  ;    =     ; =  ; =  ;  =   ;  =  ; = ; = ;   =  
+ET ; C ; EST ; POURQUOI ; JE ; NE ; VAIS ; PAS ; À ; L ; ÉCOLE
+================================================================================
+enregistrement153.wav, %WER 16.67 [ 1 / 6, 0 ins, 0 del, 1 sub ]
+UN ; LIVRE ; OUVERT ; À ; L ; AUBE
+=  ;   S   ;   =    ; = ; = ;  =  
+UN ;  LIE  ; OUVERT ; À ; L ; AUBE
+================================================================================
+enregistrement171.wav, %WER 100.00 [ 4 / 4, 1 ins, 0 del, 3 sub ]
+QUI ; COUSAIENT ;  ET  ; BRODAIENT ;  <eps> 
+ =  ;     S     ;  S   ;     S     ;    I   
+QUI ;    KOU    ; VOUS ;    EST    ; ÉBRADÉS
+================================================================================
+enregistrement202.wav, %WER 40.00 [ 2 / 5, 1 ins, 0 del, 1 sub ]
+CHACUN ; RELIÉ ; <eps> ; À ; SA ; PLANÈTE
+  =    ;   S   ;   I   ; = ; =  ;    =   
+CHACUN ;   ÀN  ; RELIA ; À ; SA ; PLANÈTE
+================================================================================
+enregistrement227.wav, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+SI ; JE ; SUIS ; NERVEUX ; JE ; RESPIRE
+=  ; =  ;  =   ;    =    ; =  ;    =   
+SI ; JE ; SUIS ; NERVEUX ; JE ; RESPIRE
+================================================================================
+enregistrement164.wav, %WER 14.29 [ 1 / 7, 0 ins, 0 del, 1 sub ]
+IL ; ÉTAIT ; UNE ; FOIS ; UNE ; FILLE ; BALAYEUSE
+=  ;   =   ;  =  ;  =   ;  =  ;   S   ;     =    
+IL ; ÉTAIT ; UNE ; FOIS ; UNE ;   FI  ; BALAYEUSE
+================================================================================
+enregistrement114.wav, %WER 33.33 [ 2 / 6, 0 ins, 1 del, 1 sub ]
+LA ; PRINCESSE ; EST  ; ALLÉE ; AU ; LAC
+=  ;     =     ;  S   ;   D   ; =  ;  = 
+LA ; PRINCESSE ; TAIE ; <eps> ; AU ; LAC
+================================================================================
+enregistrement149.wav, %WER 100.00 [ 4 / 4, 1 ins, 0 del, 3 sub ]
+LAISSANT ;  DANS  ; L ; OLIVERAIE ; <eps>
+   S     ;   S    ; = ;     S     ;   I  
+   LE    ; SANDON ; L ;     EA    ; LIVRÉ
+================================================================================
+enregistrement62.wav, %WER 33.33 [ 3 / 9, 0 ins, 1 del, 2 sub ]
+LA ; RIVIÈRE ; NOUS ; DONNE ; DE ; L ; EAU ;   POUR  ; BOIRE
+=  ;    =    ;  =   ;   =   ; =  ; = ;  S  ;    S    ;   D  
+LA ; RIVIÈRE ; NOUS ; DONNE ; DE ; L ;  EA ; POUVOIR ; <eps>
+================================================================================
+enregistrement144.wav, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+TU ; FERMES ; TA ; BOUCHE ; ET ; DEDANS
+=  ;   =    ; =  ;   =    ; =  ;   =   
+TU ; FERMES ; TA ; BOUCHE ; ET ; DEDANS
+================================================================================
+enregistrement299.wav, %WER 50.00 [ 4 / 8, 1 ins, 0 del, 3 sub ]
+ET ; IL ; APPARUT ; REGARDEZ ;  <eps>  ; COMME ; C ; EST ; BIEN
+=  ; =  ;    S    ;    S     ;    I    ;   =   ; S ;  =  ;  =  
+ET ; IL ;    A    ;   PARU   ; REGARDÉ ; COMME ; Ç ; EST ; BIEN
+================================================================================
+enregistrement110.wav, %WER 14.29 [ 1 / 7, 0 ins, 1 del, 0 sub ]
+DANS ;  DANS ; LE ; LAC ; VIVAIT ; UN ; DRAGON
+ =   ;   D   ; =  ;  =  ;   =    ; =  ;   =   
+DANS ; <eps> ; LE ; LAC ; VIVAIT ; UN ; DRAGON
+================================================================================
+enregistrement35.wav, %WER 0.00 [ 0 / 8, 0 ins, 0 del, 0 sub ]
+LES ; FEMMES ; ET ; LES ; HOMMES ; SONT ; DES ; GENS
+ =  ;   =    ; =  ;  =  ;   =    ;  =   ;  =  ;  =  
+LES ; FEMMES ; ET ; LES ; HOMMES ; SONT ; DES ; GENS
+================================================================================
+enregistrement140.wav, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+COMBIEN ; D ; OISEAUX ; SONT ; RASSEMBLÉS
+   =    ; = ;    =    ;  =   ;     =     
+COMBIEN ; D ; OISEAUX ; SONT ; RASSEMBLÉS
+================================================================================
+enregistrement211.wav, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+POUR ; QUE ; LES ; CHAMPIGNONS ; SE ; CACHENT
+ =   ;  =  ;  =  ;      =      ; =  ;    =   
+POUR ; QUE ; LES ; CHAMPIGNONS ; SE ; CACHENT
+================================================================================
+enregistrement310.wav, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+UN ; MESSAGE ; DE ; LA ; TÉLÉVISION
+=  ;    =    ; =  ; =  ;     =     
+UN ; MESSAGE ; DE ; LA ; TÉLÉVISION
+================================================================================
+enregistrement99.wav, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+COMPTER ; 20 ; MOUVEMENTS ; DE ; BRAS
+   S    ; =  ;     =      ; =  ;  =  
+COMPTEZ ; 20 ; MOUVEMENTS ; DE ; BRAS
+================================================================================
+enregistrement166.wav, %WER 50.00 [ 3 / 6, 0 ins, 0 del, 3 sub ]
+AVEC ; UN ; BALAI  ; ET ; UN ; PLUMEAU
+ =   ; S  ;   S    ; =  ; S  ;    =   
+AVEC ; EN ; BALLET ; ET ; EN ; PLUMEAU
+================================================================================
+enregistrement174.wav, %WER 42.86 [ 3 / 7, 0 ins, 0 del, 3 sub ]
+QUI ; ENTRE ; PLANCHE  ; ET ; CHEMISES ; DE ; NUIT
+ =  ;   =   ;    S     ; =  ;    S     ; =  ;  S  
+QUI ; ENTRE ; PLANCHES ; ET ; CHEMISE  ; DE ; NÉE 
+================================================================================
+enregistrement161.wav, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+IL ; ÉTAIT ; UNE ; FOIS ; UN ; GARÇON ; COIFFEUR
+=  ;   =   ;  =  ;  =   ; =  ;   =    ;    =    
+IL ; ÉTAIT ; UNE ; FOIS ; UN ; GARÇON ; COIFFEUR
+================================================================================
+enregistrement203.wav, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+ET ; MAINTENANT ; TOUT ; LE ; MONDE ; POURRA ; DANSER
+=  ;     =      ;  =   ; =  ;   =   ;   =    ;   =   
+ET ; MAINTENANT ; TOUT ; LE ; MONDE ; POURRA ; DANSER
+================================================================================
+enregistrement40.wav, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+SUR ; NOTRE ; VISAGE ; NOUS ; AVONS ; DES ; YEUX
+ =  ;   =   ;   =    ;  =   ;   =   ;  =  ;  =  
+SUR ; NOTRE ; VISAGE ; NOUS ; AVONS ; DES ; YEUX
+================================================================================
+enregistrement61.wav, %WER 0.00 [ 0 / 8, 0 ins, 0 del, 0 sub ]
+TOMBE ; DU ; CIEL ; ET ; VA ; VERS ; LE ; CIEL
+  =   ; =  ;  =   ; =  ; =  ;  =   ; =  ;  =  
+TOMBE ; DU ; CIEL ; ET ; VA ; VERS ; LE ; CIEL
+================================================================================
+enregistrement83.wav, %WER 83.33 [ 5 / 6, 2 ins, 0 del, 3 sub ]
+MON ; PANCRÉAS ; EST ; <eps>  ; <eps> ; DANS ; MON ; VENTRE
+ S  ;    S     ;  S  ;   I    ;   I   ;  =   ;  =  ;   =   
+ IL ;    ME    ; PAS ; CRÉACE ;   ET  ; DANS ; MON ; VENTRE
+================================================================================
+enregistrement107.wav, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+ON ; SE ; SÈCHE ; ET ; ON ; S ; HABILLE
+=  ; =  ;   =   ; =  ; =  ; = ;    =   
+ON ; SE ; SÈCHE ; ET ; ON ; S ; HABILLE
+================================================================================
+enregistrement180.wav, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+ILS ; ÉTAIENT ; PARTOUT ; DANS ; LE ; SALON
+ =  ;    =    ;    =    ;  =   ; =  ;   =  
+ILS ; ÉTAIENT ; PARTOUT ; DANS ; LE ; SALON
+================================================================================
+enregistrement195.wav, %WER 11.11 [ 1 / 9, 0 ins, 0 del, 1 sub ]
+ET ; JE ; LUI ; AI ;  DIT  ; AVEC ; BEAUCOUP ; DE ; PANACHE
+=  ; =  ;  =  ; =  ;   S   ;  =   ;    =     ; =  ;    =   
+ET ; JE ; LUI ; AI ; DÉJIT ; AVEC ; BEAUCOUP ; DE ; PANACHE
+================================================================================
+enregistrement307.wav, %WER 9.09 [ 1 / 11, 0 ins, 0 del, 1 sub ]
+C ; EST ; L ; HEURE ; POUR ; LES ;  PETITS ; D ; ALLER ; AU ; LIT
+= ;  =  ; = ;   =   ;  =   ;  =  ;    S    ; = ;   =   ; =  ;  = 
+C ; EST ; L ; HEURE ; POUR ; LES ; PETITES ; D ; ALLER ; AU ; LIT
+================================================================================
+enregistrement68.wav, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+ILS ; VONT ; ME ; POSER ; UNE ; PERFUSION
+ =  ;  =   ; =  ;   =   ;  =  ;     =    
+ILS ; VONT ; ME ; POSER ; UNE ; PERFUSION
+================================================================================
+enregistrement96.wav, %WER 60.00 [ 3 / 5, 0 ins, 1 del, 2 sub ]
+COMPTER ; 20 ; MOUVEMENTS ;    DE   ;  PIED
+   S    ; =  ;     =      ;    S    ;   D  
+COMPTEZ ; 20 ; MOUVEMENTS ; DEPIEDS ; <eps>
+================================================================================
+enregistrement150.wav, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+UN ; LIVRE ; DANS ; CHAQUE ; NID 
+=  ;   =   ;  =   ;   =    ;  S  
+UN ; LIVRE ; DANS ; CHAQUE ; NUTE
+================================================================================
+enregistrement167.wav, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+IL ; ÉTAIT ; UNE ; FOIS ; UNE ; FILLE ; CAMIONNEUR
+=  ;   =   ;  =  ;  =   ;  =  ;   =   ;     =     
+IL ; ÉTAIT ; UNE ; FOIS ; UNE ; FILLE ; CAMIONNEUR
+================================================================================
+enregistrement328.wav, %WER 0.00 [ 0 / 8, 0 ins, 0 del, 0 sub ]
+JE ; VAIS ; AVEC ; PAPA ; AU ; CENTRE ; DE ; SANTÉ
+=  ;  =   ;  =   ;  =   ; =  ;   =    ; =  ;   =  
+JE ; VAIS ; AVEC ; PAPA ; AU ; CENTRE ; DE ; SANTÉ
+================================================================================
+enregistrement49.wav, %WER 0.00 [ 0 / 13, 0 ins, 0 del, 0 sub ]
+JE ; NE ; L ; AI ; PAS ; VU ; MAIS ; JE ; VOUS ; AIDE ; À ; LE ; TROUVER
+=  ; =  ; = ; =  ;  =  ; =  ;  =   ; =  ;  =   ;  =   ; = ; =  ;    =   
+JE ; NE ; L ; AI ; PAS ; VU ; MAIS ; JE ; VOUS ; AIDE ; À ; LE ; TROUVER
+================================================================================
+enregistrement320.wav, %WER 33.33 [ 2 / 6, 0 ins, 0 del, 2 sub ]
+LES ; FEUILLES ; PLEINES ; DE ; LUMIÈRE  ; TOMBENT
+ S  ;    =     ;    =    ; =  ;    S     ;    =   
+DES ; FEUILLES ; PLEINES ; DE ; LUMIÈRES ; TOMBENT
+================================================================================
+enregistrement163.wav, %WER 40.00 [ 2 / 5, 0 ins, 1 del, 1 sub ]
+    ET    ; PEIGNANT ; BEAUCOUP ; DE ; CHEVEUX
+    S     ;    D     ;    =     ; =  ;    =   
+ÉPAIGNANT ;  <eps>   ; BEAUCOUP ; DE ; CHEVEUX
+================================================================================
+enregistrement115.wav, %WER 33.33 [ 2 / 6, 0 ins, 0 del, 2 sub ]
+LA ; PRINCESSE ; A ; TROUVÉ ;   ST  ; JORGE 
+=  ;     =     ; = ;   =    ;   S   ;   S   
+LA ; PRINCESSE ; A ; TROUVÉ ; SAINT ; GEORGE
+================================================================================
+enregistrement196.wav, %WER 8.33 [ 1 / 12, 0 ins, 0 del, 1 sub ]
+JE ; NE ; VEUX ; PAS ; D ; UNE ; VOITURE ; QUI ; ME ; DONNE ; LA ; NAUSÉE
+=  ; =  ;  =   ;  =  ; = ;  =  ;    =    ;  =  ; =  ;   =   ; =  ;   S   
+JE ; NE ; VEUX ; PAS ; D ; UNE ; VOITURE ; QUI ; ME ; DONNE ; LA ; NOSÉE 
+================================================================================
+enregistrement168.wav, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+TRANSPORTANT ; DES ; TONNES ; D ; AMOUR
+     =       ;  =  ;   =    ; = ;   =  
+TRANSPORTANT ; DES ; TONNES ; D ; AMOUR
+================================================================================
+enregistrement214.wav, %WER 9.09 [ 1 / 11, 0 ins, 0 del, 1 sub ]
+AVEC ; QUI ; LA ; FÉE  ; DE ; L ; AUTOMNE ; SE ; PROMÈNE ; T ; ELLE
+ =   ;  =  ; =  ;  S   ; =  ; = ;    =    ; =  ;    =    ; = ;  =  
+AVEC ; QUI ; LA ; FAIT ; DE ; L ; AUTOMNE ; SE ; PROMÈNE ; T ; ELLE
+================================================================================
+enregistrement80.wav, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+ET ; TOUJOURS ; AVEC ; MAMAN ; ET ; PAPA
+=  ;    =     ;  =   ;   =   ; =  ;  =  
+ET ; TOUJOURS ; AVEC ; MAMAN ; ET ; PAPA
+================================================================================
+enregistrement151.wav, %WER 14.29 [ 1 / 7, 1 ins, 0 del, 0 sub ]
+TANT ; QUE ; LA ; PAIX ; <eps> ; DANS ; LE ; MONDE
+ =   ;  =  ; =  ;  =   ;   I   ;  =   ; =  ;   =  
+TANT ; QUE ; LA ; PAIX ;  EST  ; DANS ; LE ; MONDE
+================================================================================
+enregistrement157.wav, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+IL ; ÉTAIT ; UNE ; FOIS ; UN ; GARÇON ; CHARPENTIER
+=  ;   =   ;  =  ;  =   ; =  ;   =    ;      =     
+IL ; ÉTAIT ; UNE ; FOIS ; UN ; GARÇON ; CHARPENTIER
+================================================================================
+enregistrement235.wav, %WER 62.50 [ 5 / 8, 0 ins, 1 del, 4 sub ]
+JUAN ; ÉCHANGE ;    LA   ; VACHE ; CONTRE ; DES ; HARICOTS ; MAGIQUES
+ S   ;    S    ;    S    ;   D   ;   =    ;  =  ;    S     ;    =    
+JOAN ;  CHANGE ; LAVACHE ; <eps> ; CONTRE ; DES ;  HARICO  ; MAGIQUES
+================================================================================
+enregistrement322.wav, %WER 0.00 [ 0 / 8, 0 ins, 0 del, 0 sub ]
+AVEC ; LEURS ; VALISES ; ILS ; PARTENT ; VERS ; LE ; SUD
+ =   ;   =   ;    =    ;  =  ;    =    ;  =   ; =  ;  = 
+AVEC ; LEURS ; VALISES ; ILS ; PARTENT ; VERS ; LE ; SUD
+================================================================================
+enregistrement333.wav, %WER 0.00 [ 0 / 9, 0 ins, 0 del, 0 sub ]
+ELLE ; ME ; MET ; LE ; MASQUE ; RELIÉ ; À ; L ; OXYGÈNE
+ =   ; =  ;  =  ; =  ;   =    ;   =   ; = ; = ;    =   
+ELLE ; ME ; MET ; LE ; MASQUE ; RELIÉ ; À ; L ; OXYGÈNE
+================================================================================
+enregistrement266.wav, %WER 0.00 [ 0 / 11, 0 ins, 0 del, 0 sub ]
+POURQUOI ; JE ; N ; AI ; PLUS ; BESOIN ; D ; ALLER ; À ; L ; ÉCOLE
+   =     ; =  ; = ; =  ;  =   ;   =    ; = ;   =   ; = ; = ;   =  
+POURQUOI ; JE ; N ; AI ; PLUS ; BESOIN ; D ; ALLER ; À ; L ; ÉCOLE
+================================================================================
+enregistrement121.wav, %WER 33.33 [ 4 / 12, 1 ins, 0 del, 3 sub ]
+C ; EST ; COMME ; ÇA ; QU ; ELLE ; LAVAIT ; QUAND ; <eps> ; JE ; L ; AI ; VUE
+= ;  =  ;   =   ; =  ; =  ;  =   ;   S    ;   S   ;   I   ; =  ; = ; =  ;  S 
+C ; EST ; COMME ; ÇA ; QU ; ELLE ;   L    ; AVAIT ; COMME ; JE ; L ; AI ;  VU
+================================================================================
+enregistrement146.wav, %WER 0.00 [ 0 / 9, 0 ins, 0 del, 0 sub ]
+PRENDS ; SOIN ; DE ; LUI ; COMME ; MOI ; JE ; PRENDS ; SOIN
+  =    ;  =   ; =  ;  =  ;   =   ;  =  ; =  ;   =    ;  =  
+PRENDS ; SOIN ; DE ; LUI ; COMME ; MOI ; JE ; PRENDS ; SOIN
+================================================================================
+enregistrement194.wav, %WER 0.00 [ 0 / 8, 0 ins, 0 del, 0 sub ]
+QUE ; SI ; JE ; VOULAIS ; MONTER ; DANS ; UNE ; VOITURE
+ =  ; =  ; =  ;    =    ;   =    ;  =   ;  =  ;    =   
+QUE ; SI ; JE ; VOULAIS ; MONTER ; DANS ; UNE ; VOITURE
+================================================================================
+enregistrement242.wav, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+PAR ; SA ; MUSIQUE ; ELLE ; PRODUISAIT ; DES ; DIAMANTS
+ =  ; =  ;    =    ;  =   ;     =      ;  =  ;    =    
+PAR ; SA ; MUSIQUE ; ELLE ; PRODUISAIT ; DES ; DIAMANTS
+================================================================================
+enregistrement108.wav, %WER 36.36 [ 4 / 11, 0 ins, 1 del, 3 sub ]
+JE ; METS ; MON ; BONNET ; DE ; BAIN ; ET ; MES ; LUNETTES ;   DE  ;  BAIN
+=  ;  =   ;  =  ;   S    ; =  ;  S   ; =  ;  =  ;    =     ;   S   ;   D  
+JE ; METS ; MON ; POINET ; DE ; BAS  ; ET ; MES ; LUNETTES ; DEBAS ; <eps>
+================================================================================
+enregistrement260.wav, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+ET ; UN ; JOUR ; NOUS ; SORTIRONS ; DE ; NOUVEAU
+=  ; =  ;  =   ;  =   ;     =     ; =  ;    =   
+ET ; UN ; JOUR ; NOUS ; SORTIRONS ; DE ; NOUVEAU
+================================================================================
+enregistrement91.wav, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+JE ; GARDE ; MES ; VÊTEMENTS ; DANS ; LE ; CASIER
+=  ;   =   ;  =  ;     =     ;  =   ; =  ;   =   
+JE ; GARDE ; MES ; VÊTEMENTS ; DANS ; LE ; CASIER
+================================================================================
+enregistrement97.wav, %WER 40.00 [ 2 / 5, 0 ins, 0 del, 2 sub ]
+RÉPÉTEZ ; L ; EXERCICE ; CINQ ; FOIS
+   S    ; = ;    =     ;  S   ;  =  
+RÉPÉTER ; L ; EXERCICE ;  5   ; FOIS
+================================================================================
+enregistrement193.wav, %WER 0.00 [ 0 / 8, 0 ins, 0 del, 0 sub ]
+LE ; PETIT ; CHAUFFEUR ; M ; A ; DIT ; CETTE ; NUIT
+=  ;   =   ;     =     ; = ; = ;  =  ;   =   ;  =  
+LE ; PETIT ; CHAUFFEUR ; M ; A ; DIT ; CETTE ; NUIT
+================================================================================
+enregistrement289.wav, %WER 11.11 [ 1 / 9, 0 ins, 0 del, 1 sub ]
+D ; AUTRES ; À ; FERMER ; LES ; YEUX ; OU ; À ; DORMIR
+= ;   S    ; = ;   =    ;  =  ;  =   ; =  ; = ;   =   
+D ; AUTRE  ; À ; FERMER ; LES ; YEUX ; OU ; À ; DORMIR
+================================================================================
+enregistrement314.wav, %WER 12.50 [ 1 / 8, 0 ins, 0 del, 1 sub ]
+DÉPÊCHE ; TOI ; MON ; ÂNE ; ON ; SERA ; BIENTÔT ; LÀ
+   S    ;  =  ;  =  ;  =  ; =  ;  =   ;    =    ; = 
+TÉPÊCHE ; TOI ; MON ; ÂNE ; ON ; SERA ; BIENTÔT ; LÀ
+================================================================================
+enregistrement287.wav, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+LES ; CÂBLES ; SONT ; CONNECTÉS ; À ; L ; ORDINATEUR
+ =  ;   =    ;  =   ;     =     ; = ; = ;     =     
+LES ; CÂBLES ; SONT ; CONNECTÉS ; À ; L ; ORDINATEUR
+================================================================================
+enregistrement301.wav, %WER 50.00 [ 2 / 4, 1 ins, 0 del, 1 sub ]
+ALLÉLUIA ; <eps> ; ET ; VIVE ; NOËL
+   S     ;   I   ; =  ;  =   ;  =  
+ ALLEZ   ;  LUIA ; ET ; VIVE ; NOËL
+================================================================================
+enregistrement87.wav, %WER 30.00 [ 3 / 10, 0 ins, 0 del, 3 sub ]
+QUAND ; JE ; PRENDS ;   DE  ;  L  ; INSULINE ; JE ; ME ; SENS ; BIEN
+  =   ; =  ;   =    ;   S   ;  S  ;    S     ; =  ; =  ;  =   ;  =  
+QUAND ; JE ; PRENDS ; DELAN ; SUR ;  LILLE   ; JE ; ME ; SENS ; BIEN
+================================================================================
+enregistrement90.wav, %WER 33.33 [ 3 / 9, 1 ins, 0 del, 2 sub ]
+JE ; ME ; DÉSHABILLE ; ET ; ENFILE ;  MON  ; <eps> ; MAILLOT ; DE ; BAIN
+=  ; =  ;     =      ; =  ;   S    ;   S   ;   I   ;    =    ; =  ;  =  
+JE ; ME ; DÉSHABILLE ; ET ;   EN   ; FILME ;   ON  ; MAILLOT ; DE ; BAIN
+================================================================================
+enregistrement111.wav, %WER 28.57 [ 2 / 7, 0 ins, 0 del, 2 sub ]
+UN ; GRAND ; MÉCHANT ;  DRAGONET ; QUI ; SENTAIT ; MAUVAIS
+=  ;   =   ;    S    ;     S     ;  =  ;    =    ;    =   
+UN ; GRAND ;  MÉCHON ; DRAGONAIS ; QUI ; SENTAIT ; MAUVAIS
+================================================================================
+enregistrement129.wav, %WER 0.00 [ 0 / 12, 0 ins, 0 del, 0 sub ]
+C ; EST ; COMME ; ÇA ; QU ; ELLE ; CUISINAIT ; QUAND ; JE ; L ; AI ; VUE
+= ;  =  ;   =   ; =  ; =  ;  =   ;     =     ;   =   ; =  ; = ; =  ;  = 
+C ; EST ; COMME ; ÇA ; QU ; ELLE ; CUISINAIT ; QUAND ; JE ; L ; AI ; VUE
+================================================================================
+enregistrement173.wav, %WER 14.29 [ 1 / 7, 0 ins, 0 del, 1 sub ]
+IL ; ÉTAIT ; UNE ; FOIS ; TROIS ; ENFANTS ; REPASSEUSES
+=  ;   =   ;  =  ;  =   ;   S   ;    =    ;      =     
+IL ; ÉTAIT ; UNE ; FOIS ;   3   ; ENFANTS ; REPASSEUSES
+================================================================================
+enregistrement112.wav, %WER 0.00 [ 0 / 9, 0 ins, 0 del, 0 sub ]
+DEUX ; MOUTONS ; ONT ; ÉTÉ ; DONNÉS ; À ; MANGER ; AU ; DRAGON
+ =   ;    =    ;  =  ;  =  ;   =    ; = ;   =    ; =  ;   =   
+DEUX ; MOUTONS ; ONT ; ÉTÉ ; DONNÉS ; À ; MANGER ; AU ; DRAGON
+================================================================================
+enregistrement219.wav, %WER 0.00 [ 0 / 8, 0 ins, 0 del, 0 sub ]
+JE ; DOIS ; ÊTRE ; VIGILANT ; ET ; SAVOIR ; QUI ; ATTRAPE
+=  ;  =   ;  =   ;    =     ; =  ;   =    ;  =  ;    =   
+JE ; DOIS ; ÊTRE ; VIGILANT ; ET ; SAVOIR ; QUI ; ATTRAPE
+================================================================================
+enregistrement258.wav, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+BOUGER ; LE ; CORPS ; DANSER ; SAUTER
+  =    ; =  ;   =   ;   S    ;   =   
+BOUGER ; LE ; CORPS ; TANSE  ; SAUTER
+================================================================================
+enregistrement267.wav, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+DE ; NOMBREUSES ; PERSONNES ; SONT ; TOMBÉES ; MALADES
+=  ;     =      ;     =     ;  =   ;    =    ;    =   
+DE ; NOMBREUSES ; PERSONNES ; SONT ; TOMBÉES ; MALADES
+================================================================================
+enregistrement94.wav, %WER 0.00 [ 0 / 11, 0 ins, 0 del, 0 sub ]
+NOUS ; AVONS ; PRIS ; UNE ; DOUCHE ; AVANT ; D ; ALLER ; DANS ; LA ; PISCINE
+ =   ;   =   ;  =   ;  =  ;   =    ;   =   ; = ;   =   ;  =   ; =  ;    =   
+NOUS ; AVONS ; PRIS ; UNE ; DOUCHE ; AVANT ; D ; ALLER ; DANS ; LA ; PISCINE
+================================================================================
+enregistrement109.wav, %WER 12.50 [ 1 / 8, 1 ins, 0 del, 0 sub ]
+LE ; CHEVALIER ; SAINT ; GEORGES ; EST ; ARRIVÉ ; <eps> ; EN ; VILLE
+=  ;     =     ;   =   ;    =    ;  =  ;   =    ;   I   ; =  ;   =  
+LE ; CHEVALIER ; SAINT ; GEORGES ; EST ; ARRIVÉ ;   À   ; EN ; VILLE
+================================================================================
+enregistrement252.wav, %WER 20.00 [ 2 / 10, 0 ins, 0 del, 2 sub ]
+UN ; VIRUS ; ARRIVE ; ET ; LES ; GENS ; JOUENT ; À ; CACHE ; CACHE
+=  ;   =   ;   =    ; =  ;  =  ;  =   ;   =    ; = ;   S   ;   S  
+UN ; VIRUS ; ARRIVE ; ET ; LES ; GENS ; JOUENT ; À ;  CASH ;  CASH
+================================================================================
+enregistrement44.wav, %WER 12.50 [ 1 / 8, 0 ins, 0 del, 1 sub ]
+LES ; GENS ; SONT ; HEUREUX ;  TRISTE ; OU ; EN ; COLÈRE
+ =  ;  =   ;  =   ;    =    ;    S    ; =  ; =  ;   =   
+LES ; GENS ; SONT ; HEUREUX ; TRISTES ; OU ; EN ; COLÈRE
+================================================================================
+enregistrement181.wav, %WER 0.00 [ 0 / 8, 0 ins, 0 del, 0 sub ]
+PUIS ; LES ; SACS ; SONT ; ARRIVÉS ; DANS ; LES ; CHAMBRES
+ =   ;  =  ;  =   ;  =   ;    =    ;  =   ;  =  ;    =    
+PUIS ; LES ; SACS ; SONT ; ARRIVÉS ; DANS ; LES ; CHAMBRES
+================================================================================
+enregistrement210.wav, %WER 25.00 [ 3 / 12, 0 ins, 0 del, 3 sub ]
+POURQUOI ; LA ; FÉE ; VEUT ; ELLE ; QU ; ILS ; FORMENT ; UN ; TAPIS ; D ; OR
+   =     ; =  ;  S  ;  =   ;  =   ; =  ;  S  ;    S    ; =  ;   =   ; = ; = 
+POURQUOI ; LA ; FET ; VEUT ; ELLE ; QU ;  IL ;  FORME  ; UN ; TAPIS ; D ; OR
+================================================================================
+enregistrement279.wav, %WER 0.00 [ 0 / 10, 0 ins, 0 del, 0 sub ]
+JE ; FERAI ; TOUT ; BIEN ; QUAND ; MES ; PARENTS ; ME ; LE ; DEMANDERONT
+=  ;   =   ;  =   ;  =   ;   =   ;  =  ;    =    ; =  ; =  ;      =     
+JE ; FERAI ; TOUT ; BIEN ; QUAND ; MES ; PARENTS ; ME ; LE ; DEMANDERONT
+================================================================================
+enregistrement309.wav, %WER 12.50 [ 1 / 8, 0 ins, 1 del, 0 sub ]
+POUR ; QUE ; DEMAIN ; ON ; PUISSE ;   SE  ; LEVER ; TÔT
+ =   ;  =  ;   =    ; =  ;   =    ;   D   ;   =   ;  = 
+POUR ; QUE ; DEMAIN ; ON ; PUISSE ; <eps> ; LEVER ; TÔT
+================================================================================
+enregistrement85.wav, %WER 0.00 [ 0 / 10, 0 ins, 0 del, 0 sub ]
+SI ; JE ; N ; AI ; PAS ; D ; INSULINE ; JE ; TOMBE ; MALADE
+=  ; =  ; = ; =  ;  =  ; = ;    =     ; =  ;   =   ;   =   
+SI ; JE ; N ; AI ; PAS ; D ; INSULINE ; JE ; TOMBE ; MALADE
+================================================================================
+enregistrement93.wav, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+FAIRE ; TOUS ; LES ; EXERCICES ; AVEC ; LE ; MONITEUR
+  =   ;  =   ;  =  ;     =     ;  =   ; =  ;    =    
+FAIRE ; TOUS ; LES ; EXERCICES ; AVEC ; LE ; MONITEUR
+================================================================================
+enregistrement170.wav, %WER 14.29 [ 1 / 7, 0 ins, 0 del, 1 sub ]
+IL ; ÉTAIT ; UNE ; FOIS ; DEUX ; ENFANTS ; COUTURIERS
+=  ;   =   ;  =  ;  =   ;  S   ;    =    ;     =     
+IL ; ÉTAIT ; UNE ; FOIS ; DEU  ; ENFANTS ; COUTURIERS
+================================================================================
+enregistrement66.wav, %WER 25.00 [ 2 / 8, 1 ins, 0 del, 1 sub ]
+IL ; <eps> ; A ; AUSSI ; UN ; CHAPON ; ET ; DES ;  OEUFS 
+=  ;   I   ; = ;   =   ; =  ;   =    ; =  ;  =  ;    S   
+IL ;   Y   ; A ; AUSSI ; UN ; CHAPON ; ET ; DES ; OEUTRES
+================================================================================
+enregistrement71.wav, %WER 0.00 [ 0 / 11, 0 ins, 0 del, 0 sub ]
+JE ; M ; ALLONGE ; SUR ; LA ; CIVIÈRE ; ET ; JE ; TENDS ; MON ; BRAS
+=  ; = ;    =    ;  =  ; =  ;    =    ; =  ; =  ;   =   ;  =  ;  =  
+JE ; M ; ALLONGE ; SUR ; LA ; CIVIÈRE ; ET ; JE ; TENDS ; MON ; BRAS
+================================================================================
+enregistrement123.wav, %WER 0.00 [ 0 / 12, 0 ins, 0 del, 0 sub ]
+MAIS ; ELLE ; N ; A ; PAS ; PU ; JOUER ; PARCE ; QU ; ELLE ; DEVAIT ; REPASSER
+ =   ;  =   ; = ; = ;  =  ; =  ;   =   ;   =   ; =  ;  =   ;   =    ;    =    
+MAIS ; ELLE ; N ; A ; PAS ; PU ; JOUER ; PARCE ; QU ; ELLE ; DEVAIT ; REPASSER
+================================================================================
+enregistrement67.wav, %WER 0.00 [ 0 / 8, 0 ins, 0 del, 0 sub ]
+DEMAIN ; POUR ; DÉJEUNER ; AVEC ; LA ; BOUTEILLE ; DE ; VIN
+  =    ;  =   ;    =     ;  =   ; =  ;     =     ; =  ;  = 
+DEMAIN ; POUR ; DÉJEUNER ; AVEC ; LA ; BOUTEILLE ; DE ; VIN
+================================================================================
+enregistrement102.wav, %WER 0.00 [ 0 / 11, 0 ins, 0 del, 0 sub ]
+ON ; VA ; ALLER ; AU ; BOUT ; DE ; LA ; PISCINE ; ET ; REVENIR ; ICI
+=  ; =  ;   =   ; =  ;  =   ; =  ; =  ;    =    ; =  ;    =    ;  = 
+ON ; VA ; ALLER ; AU ; BOUT ; DE ; LA ; PISCINE ; ET ; REVENIR ; ICI
+================================================================================
+enregistrement118.wav, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+DU ; SANG ; DU ; DRAGON ; POUSSA ; UNE ; ROSE
+=  ;  =   ; =  ;   =    ;   =    ;  =  ;  =  
+DU ; SANG ; DU ; DRAGON ; POUSSA ; UNE ; ROSE
+================================================================================
+enregistrement243.wav, %WER 11.11 [ 1 / 9, 0 ins, 0 del, 1 sub ]
+JUAN ; A ; PRIS ; LA ; POULE ; ET ; LA ; HARPE ; MAGIQUE
+ =   ; = ;  =   ; =  ;   =   ; =  ; =  ;   S   ;    =   
+JUAN ; A ; PRIS ; LA ; POULE ; ET ; LA ;  ARPE ; MAGIQUE
+================================================================================
+enregistrement73.wav, %WER 11.11 [ 1 / 9, 0 ins, 0 del, 1 sub ]
+SI ; JE ; SUIS ; NERVEUX ; JE ; PEUX ; PRENDRE ; UN ; AÉROSOL 
+=  ; =  ;  =   ;    =    ; =  ;  =   ;    =    ; =  ;    S    
+SI ; JE ; SUIS ; NERVEUX ; JE ; PEUX ; PRENDRE ; UN ; AIÉROSOL
+================================================================================
+enregistrement104.wav, %WER 0.00 [ 0 / 10, 0 ins, 0 del, 0 sub ]
+NAGER ; JUSQU ; AU ; BOUT ; DE ; LA ; PISCINE ; ET ; REVENIR ; ICI
+  =   ;   =   ; =  ;  =   ; =  ; =  ;    =    ; =  ;    =    ;  = 
+NAGER ; JUSQU ; AU ; BOUT ; DE ; LA ; PISCINE ; ET ; REVENIR ; ICI
+================================================================================
+enregistrement124.wav, %WER 25.00 [ 3 / 12, 1 ins, 0 del, 2 sub ]
+C ; EST ; COMME ; ÇA ; QU ; ELLE ; REPASSAIT ;  <eps>  ; QUAND ; JE ; L ; AI ; VUE
+= ;  =  ;   =   ; =  ; =  ;  S   ;     S     ;    I    ;   =   ; =  ; = ; =  ;  = 
+C ; EST ; COMME ; ÇA ; QU ;  A   ;     ÛU    ; REPASSE ; QUAND ; JE ; L ; AI ; VUE
+================================================================================
+enregistrement120.wav, %WER 0.00 [ 0 / 12, 0 ins, 0 del, 0 sub ]
+MAIS ; ELLE ; N ; A ; PAS ; PU ; JOUER ; PARCE ; QU ; ELLE ; DEVAIT ; LAVER
+ =   ;  =   ; = ; = ;  =  ; =  ;   =   ;   =   ; =  ;  =   ;   =    ;   =  
+MAIS ; ELLE ; N ; A ; PAS ; PU ; JOUER ; PARCE ; QU ; ELLE ; DEVAIT ; LAVER
+================================================================================
+enregistrement135.wav, %WER 0.00 [ 0 / 13, 0 ins, 0 del, 0 sub ]
+MAIS ; ELLE ; N ; A ; PAS ; PU ; JOUER ; PARCE ; QU ; ELLE ; DEVAIT ; SE ; REPOSER
+ =   ;  =   ; = ; = ;  =  ; =  ;   =   ;   =   ; =  ;  =   ;   =    ; =  ;    =   
+MAIS ; ELLE ; N ; A ; PAS ; PU ; JOUER ; PARCE ; QU ; ELLE ; DEVAIT ; SE ; REPOSER
+================================================================================
+enregistrement222.wav, %WER 0.00 [ 0 / 9, 0 ins, 0 del, 0 sub ]
+LE ; BRUIT ; DES ; FEUILLES ; SÈCHES ; LORSQU ; ON ; MARCHE ; DESSUS
+=  ;   =   ;  =  ;    =     ;   =    ;   =    ; =  ;   =    ;   =   
+LE ; BRUIT ; DES ; FEUILLES ; SÈCHES ; LORSQU ; ON ; MARCHE ; DESSUS
+================================================================================
+enregistrement220.wav, %WER 0.00 [ 0 / 8, 0 ins, 0 del, 0 sub ]
+QUAND ; UNE ; PERSONNE ; FAIT ; QUELQUE ; CHOSE ; TRÈS ; SOIGNEUSEMENT
+  =   ;  =  ;    =     ;  =   ;    =    ;   =   ;  =   ;       =      
+QUAND ; UNE ; PERSONNE ; FAIT ; QUELQUE ; CHOSE ; TRÈS ; SOIGNEUSEMENT
+================================================================================
+enregistrement86.wav, %WER 30.00 [ 3 / 10, 0 ins, 0 del, 3 sub ]
+JE ; DOIS ; M ; INJECTER ; DE ;  L  ; INSULINE ; TOUS ; LES ; JOURS
+=  ;  =   ; = ;    S     ; =  ;  S  ;    S     ;  =   ;  =  ;   =  
+JE ; DOIS ; M ; ANJECTER ; DE ; LIN ;  SULINE  ; TOUS ; LES ; JOURS
+================================================================================
+enregistrement182.wav, %WER 0.00 [ 0 / 9, 0 ins, 0 del, 0 sub ]
+LE ; PÈRE ; NE ; TROUVAIT ; PAS ; SA ; LAME ; DE ; RASOIR
+=  ;  =   ; =  ;    =     ;  =  ; =  ;  =   ; =  ;   =   
+LE ; PÈRE ; NE ; TROUVAIT ; PAS ; SA ; LAME ; DE ; RASOIR
+================================================================================
+enregistrement128.wav, %WER 0.00 [ 0 / 12, 0 ins, 0 del, 0 sub ]
+MAIS ; ELLE ; N ; A ; PAS ; PU ; JOUER ; PARCE ; QU ; ELLE ; DEVAIT ; CUISINER
+ =   ;  =   ; = ; = ;  =  ; =  ;   =   ;   =   ; =  ;  =   ;   =    ;    =    
+MAIS ; ELLE ; N ; A ; PAS ; PU ; JOUER ; PARCE ; QU ; ELLE ; DEVAIT ; CUISINER
+================================================================================
+enregistrement283.wav, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+NOUS ; ATTENDONS ; QUE ; L ; INFIRMIÈRE ; NOUS ; APPELLE
+ =   ;     =     ;  =  ; = ;     =      ;  =   ;    =   
+NOUS ; ATTENDONS ; QUE ; L ; INFIRMIÈRE ; NOUS ; APPELLE
+================================================================================
+enregistrement92.wav, %WER 45.45 [ 5 / 11, 0 ins, 2 del, 3 sub ]
+JE ; METS ; MON ; BONNET ;   DE   ;  BAIN ; ET ; MES ; LUNETTES ;   DE   ;  BAIN
+=  ;  =   ;  =  ;   =    ;   S    ;   D   ; =  ;  =  ;    S     ;   S    ;   D  
+JE ; METS ; MON ; BONNET ; DEVANS ; <eps> ; ET ; MES ; LUETTES  ; DEVANT ; <eps>
+================================================================================
+enregistrement178.wav, %WER 55.56 [ 5 / 9, 0 ins, 0 del, 5 sub ]
+MAMAN ;  ET ; ANA ; GARDENT ;  LES  ; SACS ; POUR ; LES ; RÉUTILISER
+  =   ;  S  ;  S  ;    S    ;   S   ;  S   ;  =   ;  =  ;     =     
+MAMAN ; EST ;  UN ;    UN   ; GARDÉ ; SECT ; POUR ; LES ; RÉUTILISER
+================================================================================
+enregistrement207.wav, %WER 0.00 [ 0 / 15, 0 ins, 0 del, 0 sub ]
+MÊME ; S ; IL ; PLEUT ; OU ; S ; IL ; FAIT ; FROID ; QU ; EST ; CE ; QUE ; VOUS ; OBTENEZ
+ =   ; = ; =  ;   =   ; =  ; = ; =  ;  =   ;   =   ; =  ;  =  ; =  ;  =  ;  =   ;    =   
+MÊME ; S ; IL ; PLEUT ; OU ; S ; IL ; FAIT ; FROID ; QU ; EST ; CE ; QUE ; VOUS ; OBTENEZ
+================================================================================
+enregistrement285.wav, %WER 0.00 [ 0 / 13, 0 ins, 0 del, 0 sub ]
+JE ; PEUX ; M ; ALLONGER ; OU ; M ; ASSEOIR ; MAIS ; JE ; NE ; PEUX ; PAS ; BOUGER
+=  ;  =   ; = ;    =     ; =  ; = ;    =    ;  =   ; =  ; =  ;  =   ;  =  ;   =   
+JE ; PEUX ; M ; ALLONGER ; OU ; M ; ASSEOIR ; MAIS ; JE ; NE ; PEUX ; PAS ; BOUGER
+================================================================================
+enregistrement270.wav, %WER 0.00 [ 0 / 9, 0 ins, 0 del, 0 sub ]
+ON ; NE ; PEUT ; LE ; VOIR ; QU ; AVEC ; UN ; MICROSCOPE
+=  ; =  ;  =   ; =  ;  =   ; =  ;  =   ; =  ;     =     
+ON ; NE ; PEUT ; LE ; VOIR ; QU ; AVEC ; UN ; MICROSCOPE
+================================================================================
+enregistrement291.wav, %WER 9.09 [ 1 / 11, 0 ins, 0 del, 1 sub ]
+ON ; RENTRE ; À ; LA ; MAISON ; ET ; PAPA ; ME ; DONNE  ; UNE ; RÉCOMPENSE
+=  ;   =    ; = ; =  ;   =    ; =  ;  =   ; =  ;   S    ;  =  ;     =     
+ON ; RENTRE ; À ; LA ; MAISON ; ET ; PAPA ; ME ; DONNET ; UNE ; RÉCOMPENSE
+================================================================================
+enregistrement122.wav, %WER 0.00 [ 0 / 10, 0 ins, 0 del, 0 sub ]
+MARDI ; AVANT ; LE ; DÉJEUNER ; UNE ; PETITE ; FILLE ; EST ; ALLÉE ; JOUER
+  =   ;   =   ; =  ;    =     ;  =  ;   =    ;   =   ;  =  ;   =   ;   =  
+MARDI ; AVANT ; LE ; DÉJEUNER ; UNE ; PETITE ; FILLE ; EST ; ALLÉE ; JOUER
+================================================================================
+enregistrement280.wav, %WER 60.00 [ 3 / 5, 2 ins, 0 del, 1 sub ]
+JE ; VAIS ; PASSER ; UN ; ÉLECTROENCÉPHALOGRAMME ; <eps> ;     <eps>    
+=  ;  =   ;   =    ; =  ;           S            ;   I   ;       I      
+JE ; VAIS ; PASSER ; UN ;        ÉLECTRO         ;   EN  ; CEPHALOGRAMME
+================================================================================
+enregistrement290.wav, %WER 66.67 [ 6 / 9, 1 ins, 0 del, 5 sub ]
+ILS ; ENLÈVENT ; LES ; ÉLECTRODES ; ME ; NETTOIENT ; <eps> ; ET ; M  ; HABILLENT
+ =  ;    =     ;  =  ;     S      ; S  ;     S     ;   I   ; =  ; S  ;     S    
+ILS ; ENLÈVENT ; LES ;  ÉLECTRAS  ; DU ;   MENET   ;  TOI  ; ET ; MA ;   VILLE  
+================================================================================
+enregistrement297.wav, %WER 9.09 [ 1 / 11, 0 ins, 0 del, 1 sub ]
+ET ; LE ; SLIP ; DU ; PAUVRE ; PINOCCHIO ; EST ; EN ; TRAIN ; DE ; TOMBER
+=  ; =  ;  =   ; =  ;   =    ;     S     ;  =  ; =  ;   =   ; =  ;   =   
+ET ; LE ; SLIP ; DU ; PAUVRE ;  PINOPIOT ; EST ; EN ; TRAIN ; DE ; TOMBER
+================================================================================
+enregistrement198.wav, %WER 30.00 [ 3 / 10, 0 ins, 2 del, 1 sub ]
+RAYEZ ;  LES  ; CHOSES ; QUI ; NE ; SONT ; PAS ; DANS ; LA ; CHANSON
+  S   ;   D   ;   D    ;  =  ; =  ;  =   ;  =  ;  =   ; =  ;    =   
+ ELEH ; <eps> ; <eps>  ; QUI ; NE ; SONT ; PAS ; DANS ; LA ; CHANSON
+================================================================================
+enregistrement294.wav, %WER 0.00 [ 0 / 11, 0 ins, 0 del, 0 sub ]
+QUAND ; IL ; EST ; ARRIVÉ ; CHEZ ; LUI ; PERSONNE ; NE ; L ; A ; RECONNU
+  =   ; =  ;  =  ;   =    ;  =   ;  =  ;    =     ; =  ; = ; = ;    =   
+QUAND ; IL ; EST ; ARRIVÉ ; CHEZ ; LUI ; PERSONNE ; NE ; L ; A ; RECONNU
+================================================================================
+enregistrement106.wav, %WER 0.00 [ 0 / 10, 0 ins, 0 del, 0 sub ]
+NOUS ; ENLEVONS ; NOS ; MAILLOTS ; DE ; BAIN ; ET ; PRENONS ; UNE ; DOUCHE
+ =   ;    =     ;  =  ;    =     ; =  ;  =   ; =  ;    =    ;  =  ;   =   
+NOUS ; ENLEVONS ; NOS ; MAILLOTS ; DE ; BAIN ; ET ; PRENONS ; UNE ; DOUCHE
+================================================================================
+enregistrement308.wav, %WER 22.22 [ 2 / 9, 0 ins, 0 del, 2 sub ]
+ALLONS ;  AU ; LIT ; NOUS ; AVONS ; BESOIN ; DE ; NOUS ; REPOSER
+  S    ;  S  ;  =  ;  =   ;   =   ;   =    ; =  ;  =   ;    =   
+  À    ; NOS ; LIT ; NOUS ; AVONS ; BESOIN ; DE ; NOUS ; REPOSER
+================================================================================
+enregistrement74.wav, %WER 15.38 [ 2 / 13, 0 ins, 0 del, 2 sub ]
+JE ; TENDS ; MON ; BRAS ; JE ; FERME ; LE ; POING ; ET ; JE ; METS ; LE ; GARROT
+=  ;   =   ;  =  ;  =   ; =  ;   =   ; =  ;   S   ; =  ; =  ;  =   ; =  ;   S   
+JE ; TENDS ; MON ; BRAS ; JE ; FERME ; LE ; POINT ; ET ; JE ; METS ; LE ;  GARO 
+================================================================================
+enregistrement132.wav, %WER 0.00 [ 0 / 10, 0 ins, 0 del, 0 sub ]
+SAMEDI ; AVANT ; LE ; DÉJEUNER ; UNE ; PETITE ; FILLE ; EST ; ALLÉE ; JOUER
+  =    ;   =   ; =  ;    =     ;  =  ;   =    ;   =   ;  =  ;   =   ;   =  
+SAMEDI ; AVANT ; LE ; DÉJEUNER ; UNE ; PETITE ; FILLE ; EST ; ALLÉE ; JOUER
+================================================================================
+enregistrement223.wav, %WER 20.00 [ 3 / 15, 1 ins, 0 del, 2 sub ]
+FILLE ; <eps> ; D ; UN ; FRÈRE ; OU ; D ; UNE ; SOEUR ; DE ; MON ; PÈRE ; OU ; DE ; MA ;  MÈRE
+  S   ;   I   ; = ; =  ;   =   ; =  ; = ;  =  ;   =   ; =  ;  =  ;  =   ; =  ; =  ; =  ;   S  
+  JE  ;  SUIS ; D ; UN ; FRÈRE ; OU ; D ; UNE ; SOEUR ; DE ; MON ; PÈRE ; OU ; DE ; MA ; MOÈRE
+================================================================================
+enregistrement57.wav, %WER 30.00 [ 3 / 10, 0 ins, 0 del, 3 sub ]
+REVIENS ; UN ; AUTRE ; JOUR ; NOUS ; VOULONS ; ALLER ; DEHORS ; ET ; JOUER
+   S    ; S  ;   S   ;  =   ;  =   ;    =    ;   =   ;   =    ; =  ;   =  
+REVIENT ; À  ; NOTRE ; JOUR ; NOUS ; VOULONS ; ALLER ; DEHORS ; ET ; JOUER
+================================================================================
+enregistrement316.wav, %WER 18.18 [ 2 / 11, 0 ins, 0 del, 2 sub ]
+A ; HALLOWEEN ; LES ; GENS ; SE ; DÉGUISENT ; POUR ; FAIRE ; PEUR ; AUX ; AUTRES
+S ;     S     ;  =  ;  =   ; =  ;     =     ;  =   ;   =   ;  =   ;  =  ;   =   
+À ;   ALOIN   ; LES ; GENS ; SE ; DÉGUISENT ; POUR ; FAIRE ; PEUR ; AUX ; AUTRES
+================================================================================
+enregistrement312.wav, %WER 10.00 [ 1 / 10, 0 ins, 0 del, 1 sub ]
+SI ; VOUS ; ME ; VOYEZ ; JE ; SUIS ; EN ; ROUTE ; POUR ;  BETHLÉEM
+=  ;  =   ; =  ;   =   ; =  ;  =   ; =  ;   =   ;  =   ;     S    
+SI ; VOUS ; ME ; VOYEZ ; JE ; SUIS ; EN ; ROUTE ; POUR ; BETHLÉHEM
+================================================================================
+enregistrement116.wav, %WER 9.09 [ 1 / 11, 0 ins, 0 del, 1 sub ]
+SAINT ; GEORGES ; A ; DIT ; N ; AYEZ ; PAS ; PEUR ; JE ; VOUS ; AIDERAI 
+  =   ;    =    ; = ;  =  ; = ;  =   ;  =  ;  =   ; =  ;  =   ;    S    
+SAINT ; GEORGES ; A ; DIT ; N ; AYEZ ; PAS ; PEUR ; JE ; VOUS ; AIDERAIS
+================================================================================
+enregistrement253.wav, %WER 0.00 [ 0 / 9, 0 ins, 0 del, 0 sub ]
+LES ; ENFANTS ; À ; LA ; MAISON ; FONT ; BEAUCOUP ; D ; ACTIVITÉS
+ =  ;    =    ; = ; =  ;   =    ;  =   ;    =     ; = ;     =    
+LES ; ENFANTS ; À ; LA ; MAISON ; FONT ; BEAUCOUP ; D ; ACTIVITÉS
+================================================================================
+enregistrement311.wav, %WER 8.33 [ 1 / 12, 0 ins, 0 del, 1 sub ]
+AVEC ; MON ; ÂNE ; DE ; LA ; SAVANE ; JE ; SUIS ; EN ; ROUTE ; POUR ; BETHLÉEM
+ =   ;  =  ;  S  ; =  ; =  ;   =    ; =  ;  =   ; =  ;   =   ;  =   ;    =    
+AVEC ; MON ; ÂME ; DE ; LA ; SAVANE ; JE ; SUIS ; EN ; ROUTE ; POUR ; BETHLÉEM
+================================================================================
+enregistrement272.wav, %WER 8.33 [ 1 / 12, 0 ins, 0 del, 1 sub ]
+LES ; MAITRES ; NOUS ; ONT ; DEMANDÉ ; DE ; NE ; PAS ; ALLER ; À ; L ; ÉCOLE
+ =  ;    S    ;  =   ;  =  ;    =    ; =  ; =  ;  =  ;   =   ; = ; = ;   =  
+LES ; MAÎTRES ; NOUS ; ONT ; DEMANDÉ ; DE ; NE ; PAS ; ALLER ; À ; L ; ÉCOLE
+================================================================================
+enregistrement330.wav, %WER 50.00 [ 6 / 12, 0 ins, 2 del, 4 sub ]
+L ; INFIRMIÈRE ; DEMANDE ;   À   ; PAPA ; SI ; J ;   AI  ;   DES    ; ALLERGIES ; AUX ; MÉDICAMENTS
+= ;     S      ;    S    ;   D   ;  =   ; =  ; = ;   S   ;    S     ;     D     ;  =  ;      =     
+L ; INFIRMEUR  ; DEMANDA ; <eps> ; PAPA ; SI ; J ; ÉTAIS ; ALLERGIE ;   <eps>   ; AUX ; MÉDICAMENTS
+================================================================================
+enregistrement101.wav, %WER 36.36 [ 4 / 11, 1 ins, 0 del, 3 sub ]
+NAGER ; JAMBES ; CRAWLÉES ;  <eps>  ; AVEC ; UNE ; FRITE ; DE ; PISCINE  ; DANS ; LES ; MAINS
+  =   ;   S    ;    S     ;    I    ;  =   ;  =  ;   =   ; =  ;    S     ;  =   ;  =  ;   =  
+NAGER ;  JEAN  ;    DE    ; CROLIER ; AVEC ; UNE ; FRITE ; DE ; PISCINES ; DANS ; LES ; MAINS
+================================================================================
+enregistrement209.wav, %WER 7.69 [ 1 / 13, 0 ins, 0 del, 1 sub ]
+DE ; SORTE ; QUE ; LORSQU ; ILS ; TOMBENT ; SUR ; LE ; SOL ; ILS ; FORMENT ; UN ; TAS
+=  ;   =   ;  =  ;   =    ;  =  ;    =    ;  =  ; =  ;  =  ;  =  ;    =    ; =  ;  S 
+DE ; SORTE ; QUE ; LORSQU ; ILS ; TOMBENT ; SUR ; LE ; SOL ; ILS ; FORMENT ; UN ;  TA
+================================================================================
+enregistrement325.wav, %WER 0.00 [ 0 / 10, 0 ins, 0 del, 0 sub ]
+JE ; ME ; PROMÈNE ; AVEC ; MON ; IMPERMÉABLE ; PARCE ; QU ; IL ; PLEUT
+=  ; =  ;    =    ;  =   ;  =  ;      =      ;   =   ; =  ; =  ;   =  
+JE ; ME ; PROMÈNE ; AVEC ; MON ; IMPERMÉABLE ; PARCE ; QU ; IL ; PLEUT
+================================================================================
+enregistrement184.wav, %WER 0.00 [ 0 / 10, 0 ins, 0 del, 0 sub ]
+ILS ; ONT ; DÉCIDÉ ; DE ; LES ; EMMENER ; À ; LA ; DÉCHARGE ; MAIS
+ =  ;  =  ;   =    ; =  ;  =  ;    =    ; = ; =  ;    =     ;  =  
+ILS ; ONT ; DÉCIDÉ ; DE ; LES ; EMMENER ; À ; LA ; DÉCHARGE ; MAIS
+================================================================================
+enregistrement336.wav, %WER 9.09 [ 1 / 11, 0 ins, 0 del, 1 sub ]
+QUAND ; LA ; FUMÉE ; NE ; SORT ; PLUS ; L ; INFIRMIÈRE ; ENLÈVE ; MON ; MASQUE
+  =   ; =  ;   =   ; =  ;  =   ;  =   ; = ;     =      ;   =    ;  S  ;   =   
+QUAND ; LA ; FUMÉE ; NE ; SORT ; PLUS ; L ; INFIRMIÈRE ; ENLÈVE ;  AU ; MASQUE
+================================================================================
+enregistrement53.wav, %WER 37.50 [ 3 / 8, 0 ins, 0 del, 3 sub ]
+L ; EAU ; A ; DIFFÉRENTES ; FORMES ;  SOLIDE ; LIQUIDE  ; GAZEUX
+= ;  =  ; S ;      =      ;   =    ;    S    ;    S     ;   =   
+L ; EAU ; À ; DIFFÉRENTES ; FORMES ; SOLIDES ; LYCHIQUE ; GAZEUX
+================================================================================
+enregistrement131.wav, %WER 0.00 [ 0 / 14, 0 ins, 0 del, 0 sub ]
+MAIS ; ELLE ; N ; A ; PAS ; PU ; JOUER ; PARCE ; QU ; ELLE ; DEVAIT ; PASSER ; L ; ASPIRATEUR
+ =   ;  =   ; = ; = ;  =  ; =  ;   =   ;   =   ; =  ;  =   ;   =    ;   =    ; = ;     =     
+MAIS ; ELLE ; N ; A ; PAS ; PU ; JOUER ; PARCE ; QU ; ELLE ; DEVAIT ; PASSER ; L ; ASPIRATEUR
+================================================================================
+enregistrement133.wav, %WER 0.00 [ 0 / 14, 0 ins, 0 del, 0 sub ]
+MAIS ; ELLE ; N ; A ; PAS ; PU ; JOUER ; PARCE ; QU ; ELLE ; DEVAIT ; FAIRE ; LA ; VAISSELLE
+ =   ;  =   ; = ; = ;  =  ; =  ;   =   ;   =   ; =  ;  =   ;   =    ;   =   ; =  ;     =    
+MAIS ; ELLE ; N ; A ; PAS ; PU ; JOUER ; PARCE ; QU ; ELLE ; DEVAIT ; FAIRE ; LA ; VAISSELLE
+================================================================================
+enregistrement257.wav, %WER 0.00 [ 0 / 8, 0 ins, 0 del, 0 sub ]
+CRÉER ; ÉCRIRE ; DES ; HISTOIRES ; FAIRE ; DES ; TRAVAUX ; MANUELS
+  =   ;   =    ;  =  ;     =     ;   =   ;  =  ;    =    ;    =   
+CRÉER ; ÉCRIRE ; DES ; HISTOIRES ; FAIRE ; DES ; TRAVAUX ; MANUELS
+================================================================================
+enregistrement130.wav, %WER 0.00 [ 0 / 10, 0 ins, 0 del, 0 sub ]
+VENDREDI ; AVANT ; LE ; DÉJEUNER ; UNE ; PETITE ; FILLE ; EST ; ALLÉE ; JOUER
+   =     ;   =   ; =  ;    =     ;  =  ;   =    ;   =   ;  =  ;   =   ;   =  
+VENDREDI ; AVANT ; LE ; DÉJEUNER ; UNE ; PETITE ; FILLE ; EST ; ALLÉE ; JOUER
+================================================================================
+enregistrement127.wav, %WER 0.00 [ 0 / 10, 0 ins, 0 del, 0 sub ]
+JEUDI ; AVANT ; LE ; DÉJEUNER ; UNE ; PETITE ; FILLE ; EST ; ALLÉE ; JOUER
+  =   ;   =   ; =  ;    =     ;  =  ;   =    ;   =   ;  =  ;   =   ;   =  
+JEUDI ; AVANT ; LE ; DÉJEUNER ; UNE ; PETITE ; FILLE ; EST ; ALLÉE ; JOUER
+================================================================================
+enregistrement187.wav, %WER 0.00 [ 0 / 11, 0 ins, 0 del, 0 sub ]
+ET ; SI ; NOUS ; FAISONS ; CADEAU ; DES ; SACS ; AU ; MONSIEUR ; DU ; MAGASIN
+=  ; =  ;  =   ;    =    ;   =    ;  =  ;  =   ; =  ;    =     ; =  ;    =   
+ET ; SI ; NOUS ; FAISONS ; CADEAU ; DES ; SACS ; AU ; MONSIEUR ; DU ; MAGASIN
+================================================================================
+enregistrement42.wav, %WER 62.50 [ 5 / 8, 0 ins, 5 del, 0 sub ]
+ LES  ;  GENS ;  QUI  ;  SONT ; MALADES ; PRENNENT ; DES ; MÉDICAMENTS
+  D   ;   D   ;   D   ;   D   ;    D    ;    =     ;  =  ;      =     
+<eps> ; <eps> ; <eps> ; <eps> ;  <eps>  ; PRENNENT ; DES ; MÉDICAMENTS
+================================================================================
+enregistrement125.wav, %WER 0.00 [ 0 / 10, 0 ins, 0 del, 0 sub ]
+MERCREDI ; AVANT ; LE ; DÉJEUNER ; UNE ; PETITE ; FILLE ; EST ; ALLÉE ; JOUER
+   =     ;   =   ; =  ;    =     ;  =  ;   =    ;   =   ;  =  ;   =   ;   =  
+MERCREDI ; AVANT ; LE ; DÉJEUNER ; UNE ; PETITE ; FILLE ; EST ; ALLÉE ; JOUER
+================================================================================
+enregistrement119.wav, %WER 0.00 [ 0 / 10, 0 ins, 0 del, 0 sub ]
+LUNDI ; AVANT ; LE ; DÉJEUNER ; UNE ; PETITE ; FILLE ; EST ; ALLÉE ; JOUER
+  =   ;   =   ; =  ;    =     ;  =  ;   =    ;   =   ;  =  ;   =   ;   =  
+LUNDI ; AVANT ; LE ; DÉJEUNER ; UNE ; PETITE ; FILLE ; EST ; ALLÉE ; JOUER
+================================================================================
+enregistrement126.wav, %WER 7.14 [ 1 / 14, 1 ins, 0 del, 0 sub ]
+MAIS ; ELLE ; N ; A ; PAS ; PU ; JOUER ; PARCE ; QU ; ELLE ; DEVAIT ; <eps> ; GARDER ; LES ; BÊTES
+ =   ;  =   ; = ; = ;  =  ; =  ;   =   ;   =   ; =  ;  =   ;   =    ;   I   ;   =    ;  =  ;   =  
+MAIS ; ELLE ; N ; A ; PAS ; PU ; JOUER ; PARCE ; QU ; ELLE ; DEVAIT ;   Y   ; GARDER ; LES ; BÊTES
+================================================================================
+enregistrement186.wav, %WER 25.00 [ 3 / 12, 0 ins, 0 del, 3 sub ]
+SI ; NOUS ; LES ; JETONS ; À ; LA ; POUBELLE ; ILS ; FINIRONT ; À ; LA ; DÉCHARGE
+=  ;  =   ;  =  ;   =    ; = ; =  ;    S     ;  S  ;    S     ; = ; =  ;    =    
+SI ; NOUS ; LES ; JETONS ; À ; LA ; COUPELLE ; PUS ;  IRONS   ; À ; LA ; DÉCHARGE
+================================================================================
+enregistrement300.wav, %WER 10.00 [ 1 / 10, 0 ins, 0 del, 1 sub ]
+DANS ; LA ; CRÊCHE ; LE ; FERMIER ; CHANTANT ; À ; L ; ENFANT ; EMMANUEL
+ =   ; =  ;   S    ; =  ;    =    ;    =     ; = ; = ;   =    ;    =    
+DANS ; LA ; CRÈCHE ; LE ; FERMIER ; CHANTANT ; À ; L ; ENFANT ; EMMANUEL
+================================================================================
+enregistrement331.wav, %WER 6.67 [ 1 / 15, 0 ins, 0 del, 1 sub ]
+JE ; M ; ASSOIS ; AVEC ; PAPA ; POUR ; QU ; IL ; PUISSE ; ME ; TENIR ; ET ; ME ; GARDER ; CALME
+=  ; = ;   =    ;  =   ;  =   ;  =   ; =  ; =  ;   =    ; =  ;   =   ; S  ; =  ;   =    ;   =  
+JE ; M ; ASSOIS ; AVEC ; PAPA ; POUR ; QU ; IL ; PUISSE ; ME ; TENIR ; À  ; ME ; GARDER ; CALME
+================================================================================
+enregistrement69.wav, %WER 0.00 [ 0 / 11, 0 ins, 0 del, 0 sub ]
+LE ; DOCTEUR ; DEMANDE ; À ; L ; INFIRMIÈRE ; DE ; ME ; POSER ; UNE ; PERFUSION
+=  ;    =    ;    =    ; = ; = ;     =      ; =  ; =  ;   =   ;  =  ;     =    
+LE ; DOCTEUR ; DEMANDE ; À ; L ; INFIRMIÈRE ; DE ; ME ; POSER ; UNE ; PERFUSION
+================================================================================
+enregistrement72.wav, %WER 7.14 [ 1 / 14, 0 ins, 0 del, 1 sub ]
+PARFOIS ; ILS ; ME ; METTENT ; DE ; LA ; POMMADE ; POUR ; QUE ; ÇA ; NE ; FASSE ; PAS ; MAL
+   =    ;  =  ; =  ;    =    ; =  ; =  ;    S    ;  =   ;  =  ; =  ; =  ;   =   ;  =  ;  = 
+PARFOIS ; ILS ; ME ; METTENT ; DE ; LA ; POMMATE ; POUR ; QUE ; ÇA ; NE ; FASSE ; PAS ; MAL
+================================================================================
+enregistrement117.wav, %WER 36.36 [ 4 / 11, 1 ins, 0 del, 3 sub ]
+LE ; DRAGON ; SORTIT ; DU ; LAC ; ET ; MANGEA ; <eps> ; LA ; PRINCESSE ;   ST  ;  GEORGE
+=  ;   =    ;   S    ; =  ;  =  ; =  ;   =    ;   I   ; =  ;     =     ;   S   ;    S   
+LE ; DRAGON ; SORTI  ; DU ; LAC ; ET ; MANGEA ;   À   ; LA ; PRINCESSE ; SAINT ; GEORGES
+================================================================================
+enregistrement48.wav, %WER 0.00 [ 0 / 8, 0 ins, 0 del, 0 sub ]
+MONSIEUR ; AVEZ ; VOUS ; VU ; UN ; CHAT ; PAR ; ICI
+   =     ;  =   ;  =   ; =  ; =  ;  =   ;  =  ;  = 
+MONSIEUR ; AVEZ ; VOUS ; VU ; UN ; CHAT ; PAR ; ICI
+================================================================================
+enregistrement179.wav, %WER 50.00 [ 4 / 8, 0 ins, 1 del, 3 sub ]
+LES ; SACS ; REMPLISSAIENT ; TOUT ; TIROIRS ; FOUR ;   GARDE   ; MANGER
+ =  ;  =   ;       =       ;  =   ;    S    ;  S   ;     S     ;   D   
+LES ; SACS ; REMPLISSAIENT ; TOUT ;  TIROIR ; FAUR ; CARMANGER ; <eps> 
+================================================================================
+enregistrement264.wav, %WER 20.00 [ 2 / 10, 0 ins, 0 del, 2 sub ]
+ET ; CE ; FUT ; RUDOLF ; TIRANT ; LE ; TRAÎNEAU ; QUI ; FAISAIT ; SENSATION
+=  ; =  ;  =  ;   S    ;   =    ; =  ;    S     ;  =  ;    =    ;     =    
+ET ; CE ; FUT ; RUDEUF ; TIRANT ; LE ; TRÉNEAU  ; QUI ; FAISAIT ; SENSATION
+================================================================================
+enregistrement275.wav, %WER 10.00 [ 1 / 10, 0 ins, 0 del, 1 sub ]
+JE ; RETOURNERAI ; À ; L ; ÉCOLE ; QUAND ; MES ; PARENTS ; LE ; DÉCIDERONT
+=  ;      =      ; = ; = ;   =   ;   =   ;  =  ;    =    ; =  ;     S     
+JE ; RETOURNERAI ; À ; L ; ÉCOLE ; QUAND ; MES ; PARENTS ; LE ; DÉCÉDERONT
+================================================================================
+enregistrement134.wav, %WER 0.00 [ 0 / 10, 0 ins, 0 del, 0 sub ]
+DIMANCHE ; AVANT ; LE ; DÉJEUNER ; UNE ; PETITE ; FILLE ; EST ; ALLÉE ; JOUER
+   =     ;   =   ; =  ;    =     ;  =  ;   =    ;   =   ;  =  ;   =   ;   =  
+DIMANCHE ; AVANT ; LE ; DÉJEUNER ; UNE ; PETITE ; FILLE ; EST ; ALLÉE ; JOUER
+================================================================================
+enregistrement43.wav, %WER 10.00 [ 1 / 10, 0 ins, 0 del, 1 sub ]
+LES ; GENS ; ONT ; BESOIN ; DE ; VÊTEMENTS ; NOURRITURES ; ET ; D ; HYGIÈNE
+ =  ;  =   ;  =  ;   =    ; =  ;     =     ;      S      ; =  ; = ;    =   
+LES ; GENS ; ONT ; BESOIN ; DE ; VÊTEMENTS ;  NOURRITURE ; ET ; D ; HYGIÈNE
+================================================================================
+enregistrement199.wav, %WER 54.55 [ 6 / 11, 0 ins, 6 del, 0 sub ]
+COMPTER ; COMBIEN ;   IL  ;   Y   ;   EN  ;   A   ; ET ; J ; ÉCRIRAI ; LE ; NOMBRE
+   D    ;    D    ;   D   ;   D   ;   D   ;   D   ; =  ; = ;    =    ; =  ;   =   
+ <eps>  ;  <eps>  ; <eps> ; <eps> ; <eps> ; <eps> ; ET ; J ; ÉCRIRAI ; LE ; NOMBRE
+================================================================================
+enregistrement189.wav, %WER 9.09 [ 1 / 11, 0 ins, 0 del, 1 sub ]
+ILS ; ONT ; ÉTÉ ; ACCEPTÉS ; DANS ; L ; USINE ; DE ; SACS ; EN ; PLASTIQUE
+ =  ;  =  ;  =  ;    =     ;  =   ; = ;   =   ; =  ;  S   ; =  ;     =    
+ILS ; ONT ; ÉTÉ ; ACCEPTÉS ; DANS ; L ; USINE ; DE ; SAC  ; EN ; PLASTIQUE
+================================================================================
+enregistrement176.wav, %WER 61.54 [ 8 / 13, 0 ins, 3 del, 5 sub ]
+ ANA  ;   ET  ;  SA  ;   MÈRE  ;  VONT ;   AU  ; MARCHÉ ; EN ; PORTANT ; UN ; PANIER ; À ; PROVISIONS
+  S   ;   S   ;  S   ;    S    ;   D   ;   D   ;   D    ; =  ;    =    ; =  ;   =    ; = ;     S     
+AMAET ; SAMÈR ; VOUS ; MARCHER ; <eps> ; <eps> ; <eps>  ; EN ; PORTANT ; UN ; PANIER ; À ; PROVISION 
+================================================================================
+enregistrement296.wav, %WER 8.33 [ 1 / 12, 0 ins, 0 del, 1 sub ]
+SON ; PÈRE ; JOUE ; DE ; LA ; GROSSE ; CAISSE ; SA ; MÈRE ; JOUE ; DES ; CYMBALES
+ =  ;  =   ;  =   ; =  ; =  ;   =    ;   =    ; =  ;  =   ;  =   ;  =  ;    S    
+SON ; PÈRE ; JOUE ; DE ; LA ; GROSSE ; CAISSE ; SA ; MÈRE ; JOUE ; DES ; SYMBALES
+================================================================================
+enregistrement103.wav, %WER 23.08 [ 3 / 13, 0 ins, 0 del, 3 sub ]
+ON ; NAGE ; EN ; DOS ;  CRAWLÉ ; AVEC ; LA ; FRITE ; DE ; PISCINE ; SUR ; LA ; NUQUE
+=  ;  S   ; =  ;  =  ;    S    ;  =   ; =  ;   =   ; =  ;    =    ;  =  ; =  ;   S  
+ON ; AGE  ; EN ; DOS ; CROLLÉS ; AVEC ; LA ; FRITE ; DE ; PISCINE ; SUR ; LA ;  NQUE
+================================================================================
+enregistrement268.wav, %WER 20.00 [ 2 / 10, 1 ins, 0 del, 1 sub ]
+CELA ; SE ; PRODUIT ; À ; CAUSE ; D ; UN ; VIRUS ; APPELÉ ; CORONAVIRUS ; <eps>
+ =   ; =  ;    =    ; = ;   =   ; = ; =  ;   =   ;   =    ;      S      ;   I  
+CELA ; SE ; PRODUIT ; À ; CAUSE ; D ; UN ; VIRUS ; APPELÉ ;    CORONA   ; VIRUS
+================================================================================
+enregistrement192.wav, %WER 8.33 [ 1 / 12, 0 ins, 0 del, 1 sub ]
+ANA  ; AIMAIT ; LA ; NATURE ; ET ; SE ; BATTAIT ; CONTRE ; LES ; SACS ; EN ; PLASTIQUE
+ S   ;   =    ; =  ;   =    ; =  ; =  ;    =    ;   =    ;  =  ;  =   ; =  ;     =    
+ANNA ; AIMAIT ; LA ; NATURE ; ET ; SE ; BATTAIT ; CONTRE ; LES ; SACS ; EN ; PLASTIQUE
+================================================================================
+enregistrement221.wav, %WER 10.00 [ 1 / 10, 0 ins, 0 del, 1 sub ]
+LES ; GOUTTELETTES ; D ; EAU ; PRODUITES ; LORSQUE ; LA ; NUIT ; SE ; REFROIDIT
+ =  ;      S       ; = ;  =  ;     =     ;    =    ; =  ;  =   ; =  ;     =    
+LES ; GOUTTESLETE  ; D ; EAU ; PRODUITES ; LORSQUE ; LA ; NUIT ; SE ; REFROIDIT
+================================================================================
+enregistrement84.wav, %WER 0.00 [ 0 / 11, 0 ins, 0 del, 0 sub ]
+L ; INSULINE ; EST ; UN ; LIQUIDE ; QUI ; SE ; TROUVE ; DANS ; MON ; PANCRÉAS
+= ;    =     ;  =  ; =  ;    =    ;  =  ; =  ;   =    ;  =   ;  =  ;    =    
+L ; INSULINE ; EST ; UN ; LIQUIDE ; QUI ; SE ; TROUVE ; DANS ; MON ; PANCRÉAS
+================================================================================
+enregistrement105.wav, %WER 8.33 [ 1 / 12, 0 ins, 0 del, 1 sub ]
+ON ; NAGE ; SANS ; FRITE ; DE ; PISCINE ; AVEC ; L ; AIDE ; DU ; MAÎTRE ; NAGEUR
+=  ;  S   ;  =   ;   =   ; =  ;    =    ;  =   ; = ;  =   ; =  ;   =    ;   =   
+ON ; NÂGE ; SANS ; FRITE ; DE ; PISCINE ; AVEC ; L ; AIDE ; DU ; MAÎTRE ; NAGEUR
+================================================================================
+enregistrement265.wav, %WER 27.27 [ 3 / 11, 1 ins, 0 del, 2 sub ]
+ET ; À ; PARTIR ; DE ; CE ; MOMENT ; TOUTES ; LES ; MOQUERIES ; PRIRENT ;  FIN  ; <eps>
+=  ; = ;   =    ; =  ; =  ;   =    ;   =    ;  =  ;     =     ;    S    ;   S   ;   I  
+ET ; À ; PARTIR ; DE ; CE ; MOMENT ; TOUTES ; LES ; MOQUERIES ;  PRIFA  ; PRIRE ;  FUN 
+================================================================================
+enregistrement313.wav, %WER 0.00 [ 0 / 13, 0 ins, 0 del, 0 sub ]
+AVEC ; MON ; ÂNE ; JE ; VAIS ; CHANTER ; MON ; ÂNE ; VA ; JOUER ; DE ; LA ; MUSIQUE
+ =   ;  =  ;  =  ; =  ;  =   ;    =    ;  =  ;  =  ; =  ;   =   ; =  ; =  ;    =   
+AVEC ; MON ; ÂNE ; JE ; VAIS ; CHANTER ; MON ; ÂNE ; VA ; JOUER ; DE ; LA ; MUSIQUE
+================================================================================
+enregistrement327.wav, %WER 8.33 [ 1 / 12, 0 ins, 0 del, 1 sub ]
+QUAND ; JE ; NE ; PEUX ; PAS ; RESPIRER ; LE ; DOCTEUR ; ME ; PRESCRIT ; DES ;  AÉROSOLS
+  =   ; =  ; =  ;  =   ;  =  ;    =     ; =  ;    =    ; =  ;    =     ;  =  ;     S    
+QUAND ; JE ; NE ; PEUX ; PAS ; RESPIRER ; LE ; DOCTEUR ; ME ; PRESCRIT ; DES ; AÉROSSOLS
+================================================================================
+enregistrement254.wav, %WER 33.33 [ 3 / 9, 0 ins, 0 del, 3 sub ]
+FAIRE ; TRAVAILLER ; LE ; CERVEAU ; FAIRE ; DES ; PUZZLES ; DES ; MÉMORIS 
+  =   ;     =      ; =  ;    =    ;   =   ;  =  ;    S    ;  S  ;    S    
+FAIRE ; TRAVAILLER ; LE ; CERVEAU ; FAIRE ; DES ; PESOLES ;  D  ; EMINORIS
+================================================================================
+enregistrement281.wav, %WER 28.57 [ 4 / 14, 1 ins, 0 del, 3 sub ]
+JE ; ME ; LÈVE ; JE ; FAIS ; MA ; TOILETTE ; ET ; JE ; ME ; DOUCHE ; SANS ; APRÈS ; SHAMPOOING ; <eps>
+=  ; =  ;  =   ; =  ;  =   ; =  ;    =     ; =  ; =  ; =  ;   S    ;  =   ;   S   ;     S      ;   I  
+JE ; ME ; LÈVE ; JE ; FAIS ; MA ; TOILETTE ; ET ; JE ; ME ; TOUCHE ; SANS ; APPRÈ ;    CHAN    ;  POI 
+================================================================================
+enregistrement41.wav, %WER 23.08 [ 3 / 13, 0 ins, 1 del, 2 sub ]
+LE ; MATIN ; JE ; PRENDS ; MON ; BAIN ; MON ; PETIT ; DÉJEUNER ; ET ; JE ;    M     ; HABILLE
+=  ;   =   ; =  ;   =    ;  =  ;  S   ;  =  ;   =   ;    =     ; =  ; =  ;    S     ;    D   
+LE ; MATIN ; JE ; PRENDS ; MON ; PAN  ; MON ; PETIT ; DÉJEUNER ; ET ; JE ; MHABILLE ;  <eps> 
+================================================================================
+enregistrement79.wav, %WER 16.67 [ 2 / 12, 0 ins, 0 del, 2 sub ]
+JE ; M ; ASSOIS ; TRANQUILLEMENT ; PENDANT ; QUE ; LE ; COMPTE ; GOUTTES ; FINIT ; LA ; PERFUSION
+=  ; = ;   S    ;       =        ;    =    ;  =  ; =  ;   =    ;    S    ;   =   ; =  ;     =    
+JE ; M ; ASSOIE ; TRANQUILLEMENT ; PENDANT ; QUE ; LE ; COMPTE ;  GOUTTE ; FINIT ; LA ; PERFUSION
+================================================================================
+enregistrement89.wav, %WER 16.67 [ 2 / 12, 0 ins, 0 del, 2 sub ]
+JE ; CONTRÔLE ; MON ;  INSULINE ; TOUS ; LES ; JOURS ; AVEC ; UN ; LECTEUR ; DE ; GLYCÉMIE
+=  ;    =     ;  =  ;     S     ;  =   ;  =  ;   =   ;  =   ; =  ;    =    ; =  ;    S    
+JE ; CONTRÔLE ; MON ; INSULIGNE ; TOUS ; LES ; JOURS ; AVEC ; UN ; LECTEUR ; DE ; LYCÉMIE 
+================================================================================
+enregistrement95.wav, %WER 7.14 [ 1 / 14, 0 ins, 0 del, 1 sub ]
+S ; ASSEOIR ; SUR ; LE ; BORD ; DE ; LA ; PISCINE ; ET ; BOUGER ; LES ; JAMBES ; TRÈS ; RAPIDEMENT
+= ;    =    ;  =  ; =  ;  =   ; =  ; =  ;    =    ; =  ;   =    ;  =  ;   S    ;  =   ;     =     
+S ; ASSEOIR ; SUR ; LE ; BORD ; DE ; LA ; PISCINE ; ET ; BOUGER ; LES ; GEMBES ; TRÈS ; RAPIDEMENT
+================================================================================
+enregistrement334.wav, %WER 7.14 [ 1 / 14, 0 ins, 1 del, 0 sub ]
+PENDANT ; CE ; TEMPS ; JE ; PRENDS ; UNE ; PROFONDE ; RESPIRATION ;   ET  ; JE ; NE ; PEUX ; PAS ; BOUGER
+   =    ; =  ;   =   ; =  ;   =    ;  =  ;    =     ;      =      ;   D   ; =  ; =  ;  =   ;  =  ;   =   
+PENDANT ; CE ; TEMPS ; JE ; PRENDS ; UNE ; PROFONDE ; RESPIRATION ; <eps> ; JE ; NE ; PEUX ; PAS ; BOUGER
+================================================================================
+enregistrement255.wav, %WER 20.00 [ 2 / 10, 0 ins, 0 del, 2 sub ]
+TRAVAILLER ; ET ; JOUER ; EN ; ÉQUIPE ; NETTOYER ; BALAYER ; JEUX ; DE ; SOCIÉTÉ
+    =      ; =  ;   =   ; =  ;   =    ;    S     ;    S    ;  =   ; =  ;    =   
+TRAVAILLER ; ET ; JOUER ; EN ; ÉQUIPE ; NETTOYE  ;  BALAYÉ ; JEUX ; DE ; SOCIÉTÉ
+================================================================================
+enregistrement274.wav, %WER 6.67 [ 1 / 15, 0 ins, 0 del, 1 sub ]
+JE ; N ; IRAI ; PAS ; À ; L ; ÉCOLE ; DEMAIN ; MAIS ; MES ; MAITRESSES ; PENSENT ; TOUJOURS ; À ; MOI
+=  ; = ;  =   ;  =  ; = ; = ;   =   ;   =    ;  =   ;  =  ;     S      ;    =    ;    =     ; = ;  = 
+JE ; N ; IRAI ; PAS ; À ; L ; ÉCOLE ; DEMAIN ; MAIS ; MES ; MAÎTRESSES ; PENSENT ; TOUJOURS ; À ; MOI
+================================================================================
+enregistrement78.wav, %WER 0.00 [ 0 / 13, 0 ins, 0 del, 0 sub ]
+PARFOIS ; ILS ; ME ; METTENT ; UN ; BANDAGE ; POUR ; QUE ; LA ; PERFUSION ; NE ; SORTE ; PAS
+   =    ;  =  ; =  ;    =    ; =  ;    =    ;  =   ;  =  ; =  ;     =     ; =  ;   =   ;  = 
+PARFOIS ; ILS ; ME ; METTENT ; UN ; BANDAGE ; POUR ; QUE ; LA ; PERFUSION ; NE ; SORTE ; PAS
+================================================================================
+enregistrement276.wav, %WER 0.00 [ 0 / 14, 0 ins, 0 del, 0 sub ]
+JE ; DOIS ; BIEN ; ME ; COMPORTER ; CES ; JOURS ; CI ; OÙ ; JE ; SERAI ; À ; LA ; MAISON
+=  ;  =   ;  =   ; =  ;     =     ;  =  ;   =   ; =  ; =  ; =  ;   =   ; = ; =  ;   =   
+JE ; DOIS ; BIEN ; ME ; COMPORTER ; CES ; JOURS ; CI ; OÙ ; JE ; SERAI ; À ; LA ; MAISON
+================================================================================
+enregistrement88.wav, %WER 63.64 [ 7 / 11, 1 ins, 5 del, 1 sub ]
+  SI  ; JE ;   ME  ;  SENS ;  MAL  ;   JE  ; PEUX ; AUSSI ; MANGER ; UN ; BONBON ; <eps>
+  D   ; =  ;   D   ;   D   ;   D   ;   D   ;  =   ;   =   ;   =    ; =  ;   S    ;   I  
+<eps> ; JE ; <eps> ; <eps> ; <eps> ; <eps> ; PEUX ; AUSSI ; MANGER ; UN ;  BON   ;  BON 
+================================================================================
+enregistrement113.wav, %WER 7.14 [ 1 / 14, 0 ins, 0 del, 1 sub ]
+LE ; ROI ; TRISTE ; ET ; EN ; LARMES ; EMBRASSA ; LA ; PRINCESSE ; ET ; LUI ; DIT ; AU ; REVOIR
+=  ;  =  ;   =    ; =  ; =  ;   S    ;    =     ; =  ;     =     ; =  ;  =  ;  =  ; =  ;   =   
+LE ; ROI ; TRISTE ; ET ; EN ; LAMES  ; EMBRASSA ; LA ; PRINCESSE ; ET ; LUI ; DIT ; AU ; REVOIR
+================================================================================
+enregistrement335.wav, %WER 7.69 [ 1 / 13, 0 ins, 0 del, 1 sub ]
+ILS ; METTENT ; UN ; APPAREIL ; SUR ; MON ; DOIGT ; POUR ; VOIR ; SI ; JE ; RESPIRE ; CORRECTEMENT
+ =  ;    =    ; S  ;    =     ;  =  ;  =  ;   =   ;  =   ;  =   ; =  ; =  ;    =    ;      =      
+ILS ; METTENT ; EN ; APPAREIL ; SUR ; MON ; DOIGT ; POUR ; VOIR ; SI ; JE ; RESPIRE ; CORRECTEMENT
+================================================================================
+enregistrement188.wav, %WER 14.29 [ 2 / 14, 0 ins, 0 del, 2 sub ]
+LE ; MONSIEUR ; DU ; MAGASIN ; NE ; LES ; A ; PAS ; ACCEPTÉES ; IL ; EN ; VOULAIT ; DES ; NEUFS
+=  ;    =     ; =  ;    =    ; =  ;  =  ; = ;  =  ;     S     ; =  ; =  ;    =    ;  =  ;   S  
+LE ; MONSIEUR ; DU ; MAGASIN ; NE ; LES ; A ; PAS ;  ACCEPTÉ  ; IL ; EN ; VOULAIT ; DES ;   9  
+================================================================================
+enregistrement329.wav, %WER 7.14 [ 1 / 14, 0 ins, 0 del, 1 sub ]
+NOUS ; ATTENDONS ; QUE ; L ; INFIRMIÈRE ; NOUS ; APPELLE ; ET ; ENTRONS  ; DANS ; LA ; SALLE ; DE ; CONSULTATION
+ =   ;     =     ;  =  ; = ;     =      ;  =   ;    =    ; =  ;    S     ;  =   ; =  ;   =   ; =  ;      =      
+NOUS ; ATTENDONS ; QUE ; L ; INFIRMIÈRE ; NOUS ; APPELLE ; ET ; RENTRONS ; DANS ; LA ; SALLE ; DE ; CONSULTATION
+================================================================================
+enregistrement338.wav, %WER 0.00 [ 0 / 11, 0 ins, 0 del, 0 sub ]
+ON ; RENTRE ; À ; LA ; MAISON ; ET ; PAPA ; ME ; DONNE ; UNE ; RÉCOMPENSE
+=  ;   =    ; = ; =  ;   =    ; =  ;  =   ; =  ;   =   ;  =  ;     =     
+ON ; RENTRE ; À ; LA ; MAISON ; ET ; PAPA ; ME ; DONNE ; UNE ; RÉCOMPENSE
+================================================================================
+enregistrement218.wav, %WER 14.29 [ 2 / 14, 0 ins, 1 del, 1 sub ]
+UN ; OU ; UNE ; ENFANT ; ATTRAPE ;   ET  ; LES ; AUTRES ; COURENT ; DANS ; LA ; COUR ; DE ; RÉCRÉATION
+=  ; =  ;  =  ;   =    ;    =    ;   D   ;  =  ;   =    ;    S    ;  =   ; =  ;  =   ; =  ;     =     
+UN ; OU ; UNE ; ENFANT ; ATTRAPE ; <eps> ; LES ; AUTRES ;  COURS  ; DANS ; LA ; COUR ; DE ; RÉCRÉATION
+================================================================================
+enregistrement269.wav, %WER 0.00 [ 0 / 12, 0 ins, 0 del, 0 sub ]
+UN ; VIRUS ; EST ; UNE ; TRÈS ; TRÈS ; TRÈS ; TRÈS ; TRÈS ; PETITE ; CHOSE ; VIVANTE
+=  ;   =   ;  =  ;  =  ;  =   ;  =   ;  =   ;  =   ;  =   ;   =    ;   =   ;    =   
+UN ; VIRUS ; EST ; UNE ; TRÈS ; TRÈS ; TRÈS ; TRÈS ; TRÈS ; PETITE ; CHOSE ; VIVANTE
+================================================================================
+enregistrement75.wav, %WER 0.00 [ 0 / 11, 0 ins, 0 del, 0 sub ]
+L ; INFIRMIÈRE ; PRÉPARE ; LE ; SÉRUM ; OU ; LE ; MÉDICAMENT ; ET ; LE ; SYSTÈME
+= ;     =      ;    =    ; =  ;   =   ; =  ; =  ;     =      ; =  ; =  ;    =   
+L ; INFIRMIÈRE ; PRÉPARE ; LE ; SÉRUM ; OU ; LE ; MÉDICAMENT ; ET ; LE ; SYSTÈME
+================================================================================
+enregistrement191.wav, %WER 13.33 [ 2 / 15, 0 ins, 0 del, 2 sub ]
+MAINTENANT ; QUAND ; ELLES ; FONT ; LES ; COURSES ; ELLES ; METTENT  ; LES ; AFFAIRES ; DANS ; LEUR ; PANIER ; SANS ; SAC
+    =      ;   =   ;   =   ;  =   ;  =  ;    =    ;   =   ;    S     ;  S  ;    =     ;  =   ;  =   ;   =    ;  =   ;  = 
+MAINTENANT ; QUAND ; ELLES ; FONT ; LES ; COURSES ; ELLES ; METTHENT ; DES ; AFFAIRES ; DANS ; LEUR ; PANIER ; SANS ; SAC
+================================================================================
+enregistrement63.wav, %WER 33.33 [ 4 / 12, 2 ins, 0 del, 2 sub ]
+OLENTZERO ; <eps> ; <eps> ; NOUS ; A ; QUITTÉ ; VERS ; LA ; MONTAGNE ; POUR ; TRAVAILLER ; FAIRE ; DU ; CHARBON
+    S     ;   I   ;   I   ;  =   ; = ;   =    ;  =   ; =  ;    =     ;  =   ;     =      ;   =   ; =  ;    S   
+ HOLLEND  ;   ZE  ;   RO  ; NOUS ; A ; QUITTÉ ; VERS ; LA ; MONTAGNE ; POUR ; TRAVAILLER ; FAIRE ; DU ;  JARBON
+================================================================================
+enregistrement183.wav, %WER 14.29 [ 2 / 14, 0 ins, 0 del, 2 sub ]
+ANA  ; PENSAIT ; QUE ; QUELQUE ; CHOSE ; DEVAIT ; ÊTRE ; FAIT ; ELLE ; NE ; TROUVAIT ; PAS ; SA ; POUPÉE
+ S   ;    S    ;  =  ;    =    ;   =   ;   =    ;  =   ;  =   ;  =   ; =  ;    =     ;  =  ; =  ;   =   
+ANNA ;  PENSÉ  ; QUE ; QUELQUE ; CHOSE ; DEVAIT ; ÊTRE ; FAIT ; ELLE ; NE ; TROUVAIT ; PAS ; SA ; POUPÉE
+================================================================================
+enregistrement332.wav, %WER 23.08 [ 3 / 13, 2 ins, 0 del, 1 sub ]
+L ; INFIRMIÈRE ; PRÉPARE ; L ; AÉROSOL ; <eps> ; <eps> ; AVEC ; DE ; LA ; SOLUTION ; SALINE ; ET ; LE ; MÉDICAMENT
+= ;     =      ;    =    ; = ;    S    ;   I   ;   I   ;  =   ; =  ; =  ;    =     ;   =    ; =  ; =  ;     =     
+L ; INFIRMIÈRE ; PRÉPARE ; L ;   AER   ;   OU  ;  SOL  ; AVEC ; DE ; LA ; SOLUTION ; SALINE ; ET ; LE ; MÉDICAMENT
+================================================================================
+enregistrement185.wav, %WER 0.00 [ 0 / 15, 0 ins, 0 del, 0 sub ]
+DANS ; LA ; DÉCHARGE ; IL ; Y ; AVAIT ; DES ; MILLIERS ; DE ; SACS ; QUI ; NE ; SE ; DÉCOMPOSENT ; PAS
+ =   ; =  ;    =     ; =  ; = ;   =   ;  =  ;    =     ; =  ;  =   ;  =  ; =  ; =  ;      =      ;  = 
+DANS ; LA ; DÉCHARGE ; IL ; Y ; AVAIT ; DES ; MILLIERS ; DE ; SACS ; QUI ; NE ; SE ; DÉCOMPOSENT ; PAS
+================================================================================
+enregistrement76.wav, %WER 54.55 [ 6 / 11, 2 ins, 0 del, 4 sub ]
+PRENEZ ; LE ; POULS ; POUR ; TROUVER ; LA ; VEINE ; ET ; PLACEZ ; LE ; CATHÉTER ; <eps> ; <eps>
+  =    ; =  ;   S   ;  =   ;    =    ; =  ;   =   ; =  ;   S    ; S  ;    S     ;   I   ;   I  
+PRENEZ ; LE ;  POU  ; POUR ; TROUVER ; LA ; VEINE ; ET ; PLACER ; LA ;   CÂTE   ;   ET  ; TERRE
+================================================================================
+enregistrement98.wav, %WER 5.88 [ 1 / 17, 0 ins, 0 del, 1 sub ]
+NOS ; BRAS ; FONT ; DES ; MOUVEMENTS ; DE ; CRAWL  ; EN ; POSANT ; NOS ; MAINS ; SUR ; LE ; BORD ; DE ; LA ; PISCINE
+ =  ;  =   ;  =   ;  =  ;     =      ; =  ;   S    ; =  ;   =    ;  =  ;   =   ;  =  ; =  ;  =   ; =  ; =  ;    =   
+NOS ; BRAS ; FONT ; DES ; MOUVEMENTS ; DE ; CRÔLES ; EN ; POSANT ; NOS ; MAINS ; SUR ; LE ; BORD ; DE ; LA ; PISCINE
+================================================================================
+enregistrement82.wav, %WER 15.38 [ 2 / 13, 0 ins, 1 del, 1 sub ]
+LE ; DIABÈTE ; C ; EST ; QUAND ;  MON  ; PANCRÉAS ; ARRÊTE ; DE ; PRODUIRE ; DE ; L ; INSULINE
+=  ;    =    ; = ;  =  ;   S   ;   D   ;    =     ;   =    ; =  ;    =     ; =  ; = ;    =    
+LE ; DIABÈTE ; C ; EST ; COMME ; <eps> ; PANCRÉAS ; ARRÊTE ; DE ; PRODUIRE ; DE ; L ; INSULINE
+================================================================================
+enregistrement288.wav, %WER 0.00 [ 0 / 14, 0 ins, 0 del, 0 sub ]
+PARFOIS ; ILS ; ME ; DISENT ; DE ; PRENDRE ; UNE ; GRANDE ; RESPIRATION ; OU ; DE ; REGARDER ; UNE ; LUMIÈRE
+   =    ;  =  ; =  ;   =    ; =  ;    =    ;  =  ;   =    ;      =      ; =  ; =  ;    =     ;  =  ;    =   
+PARFOIS ; ILS ; ME ; DISENT ; DE ; PRENDRE ; UNE ; GRANDE ; RESPIRATION ; OU ; DE ; REGARDER ; UNE ; LUMIÈRE
+================================================================================
+enregistrement304.wav, %WER 72.73 [ 8 / 11, 3 ins, 0 del, 5 sub ]
+LE ; CANETON ;  COIN ; COIN ; COIN ; LE ; FERMIER ; HALLELUJAH ; ET ; <eps> ; <eps> ; <eps> ; VIVE ; NOËL
+=  ;    =    ;   S   ;  S   ;  S   ; =  ;    =    ;     S      ; S  ;   I   ;   I   ;   I   ;  =   ;  =  
+LE ; CANETON ; QOIQU ;  EN  ; COI  ; LE ; FERMIER ;    ALLE    ; LO ;   IL  ;   Y   ;   A   ; VIVE ; NOËL
+================================================================================
+enregistrement271.wav, %WER 6.25 [ 1 / 16, 0 ins, 0 del, 1 sub ]
+CE ; VIRUS ; EST ; DANS ; L ; AIR ; ET ; PEUT ; PÉNÉTRER ; DANS ; NOTRE ; CORPS ; ET ; NOUS ; RENDRE ; MALADES
+=  ;   =   ;  =  ;  =   ; = ;  =  ; =  ;  =   ;    =     ;  =   ;   =   ;   =   ; =  ;  =   ;   =    ;    S   
+CE ; VIRUS ; EST ; DANS ; L ; AIR ; ET ; PEUT ; PÉNÉTRER ; DANS ; NOTRE ; CORPS ; ET ; NOUS ; RENDRE ;  MALADE
+================================================================================
+enregistrement277.wav, %WER 16.67 [ 2 / 12, 1 ins, 0 del, 1 sub ]
+DANS ; MA ; MAISON ; JE ; PEUX ; JOUER ; SAUTER ; REGARDER ; <eps> ; LA ; TÉLÉVISION ; ET ; DESSINER
+ =   ; =  ;   =    ; =  ;  =   ;   =   ;   =    ;    =     ;   I   ; =  ;     =      ; =  ;    S    
+DANS ; MA ; MAISON ; JE ; PEUX ; JOUER ; SAUTER ; REGARDER ;   À   ; LA ; TÉLÉVISION ; ET ; DESSINÉ 
+================================================================================
+enregistrement286.wav, %WER 29.41 [ 5 / 17, 0 ins, 0 del, 5 sub ]
+ILS ; COLLENT ; DES ; ÉLECTRODES ; SUR ; LA ; TÊTE ; AVEC ; DU ; GEL ; OU ; METTENT ; UN ; BONNET ; SUR ; MA ; TÊTE
+ S  ;    S    ;  =  ;     S      ;  =  ; =  ;  =   ;  =   ; =  ;  =  ; =  ;    S    ; S  ;   =    ;  =  ; =  ;  =  
+ IL ;  COLLE  ; DES ; ÉLECTROTES ; SUR ; LA ; TÊTE ; AVEC ; DU ; GEL ; OU ;   MET   ; AN ; BONNET ; SUR ; MA ; TÊTE
+================================================================================
+enregistrement262.wav, %WER 10.53 [ 2 / 19, 0 ins, 0 del, 2 sub ]
+TOUS ; SES ; COLLÈGUES ; N ; ARRÊTAIENT ; PAS ; DE ; RIRE ; ET ; NOTRE ; BON ; AMI  ; NE ; POUVAIT ; PAS ; S ; ARRÊTER ; DE ; PLEURER
+ =   ;  S  ;     =     ; = ;     =      ;  =  ; =  ;  =   ; =  ;   =   ;  =  ;  S   ; =  ;    =    ;  =  ; = ;    =    ; =  ;    =   
+TOUS ; CES ; COLLÈGUES ; N ; ARRÊTAIENT ; PAS ; DE ; RIRE ; ET ; NOTRE ; BON ; AMIE ; NE ; POUVAIT ; PAS ; S ; ARRÊTER ; DE ; PLEURER
+================================================================================
+enregistrement65.wav, %WER 21.43 [ 3 / 14, 1 ins, 0 del, 2 sub ]
+VOILÀ ; NOTRE ; OLENTZERO ; <eps> ; CELUI ; QUI ; A ; LA ; PIPE ; DANS ; LES ; DENTS ; ET ; EST ; ASSIS
+  =   ;   =   ;     S     ;   I   ;   =   ;  =  ; = ; =  ;  =   ;  =   ;  =  ;   =   ; =  ;  =  ;   S  
+VOILÀ ; NOTRE ;   HOLÈNE  ;  SÉRO ; CELUI ; QUI ; A ; LA ; PIPE ; DANS ; LES ; DENTS ; ET ; EST ;  ASSI
+================================================================================
+enregistrement284.wav, %WER 0.00 [ 0 / 18, 0 ins, 0 del, 0 sub ]
+NOUS ; ALLONS ; DANS ; LA ; SALLE ; DE ; CONSULTATION ; ET ; LE ; MÉDECIN ; NOUS ; DIT ; QUE ; ÇA ; NE ; FAIT ; PAS ; MAL
+ =   ;   =    ;  =   ; =  ;   =   ; =  ;      =       ; =  ; =  ;    =    ;  =   ;  =  ;  =  ; =  ; =  ;  =   ;  =  ;  = 
+NOUS ; ALLONS ; DANS ; LA ; SALLE ; DE ; CONSULTATION ; ET ; LE ; MÉDECIN ; NOUS ; DIT ; QUE ; ÇA ; NE ; FAIT ; PAS ; MAL
+================================================================================
+enregistrement177.wav, %WER 35.71 [ 5 / 14, 1 ins, 0 del, 4 sub ]
+CHAQUE ; PRODUIT ; ALIMENTAIRE ; QU ; ILS ; ACHÈTENT ; LEUR ; <eps> ; EST ; REMIS ; DANS ; UN ; SAC ;  11  ; SACS
+  =    ;    =    ;      =      ; =  ;  =  ;    =     ;  S   ;   I   ;  =  ;   S   ;  =   ; =  ;  =  ;  S   ;  S  
+CHAQUE ; PRODUIT ; ALIMENTAIRE ; QU ; ILS ; ACHÈTENT ;  L   ;  EUR  ; EST ; RUMIS ; DANS ; UN ; SAC ; ONZE ; SAC 
+================================================================================
+enregistrement190.wav, %WER 41.67 [ 5 / 12, 0 ins, 3 del, 2 sub ]
+ ILS  ; LES ; BRISERAIENT ;  LES  ; DISSOUDRAIENT ; ET ; FABRIQUERAIENT ; DE ; NOUVEAUX ; SACS ; EN ; PLASTIQUE
+  D   ;  =  ;      S      ;   D   ;       D       ; =  ;       S        ; =  ;    =     ;  =   ; =  ;     =    
+<eps> ; LES ; DISSOUDRAIT ; <eps> ;     <eps>     ; ET ;  FABRIQUERAIT  ; DE ; NOUVEAUX ; SACS ; EN ; PLASTIQUE
+================================================================================
+enregistrement100.wav, %WER 10.53 [ 2 / 19, 0 ins, 0 del, 2 sub ]
+ON ; S ; APPUIE ; SUR ; LE ; BORD ; DE ; LA ; PISCINE ; ET ; ON ; BOUGE ; LES ;  PIEDS  ; RAPIDEMENT ; EN ; FAISANT ; DU ; CRAWL
+=  ; = ;   =    ;  =  ; =  ;  =   ; =  ; =  ;    =    ; =  ; =  ;   =   ;  =  ;    S    ;     =      ; =  ;    =    ; =  ;   S  
+ON ; S ; APPUIE ; SUR ; LE ; BORD ; DE ; LA ; PISCINE ; ET ; ON ; BOUGE ; LES ; PIERRES ; RAPIDEMENT ; EN ; FAISANT ; DU ; CROLE
+================================================================================
+enregistrement64.wav, %WER 17.65 [ 3 / 17, 2 ins, 0 del, 1 sub ]
+QUAND ; IL ; A ; ENTENDU ; QUE ; JÉSUS ; ÉTAIT ; NÉ ; IL ; EST ; VENU ; EN ; COURANT ; <eps> ;  <eps>  ; DONNER ; LA ; BONNE ; NOUVELLE
+  =   ; =  ; = ;    =    ;  =  ;   =   ;   =   ; =  ; =  ;  =  ;  =   ; S  ;    =    ;   I   ;    I    ;   =    ; =  ;   =   ;    =    
+QUAND ; IL ; A ; ENTENDU ; QUE ; JÉSUS ; ÉTAIT ; NÉ ; IL ; EST ; VENU ; AU ; COURANT ;   AU  ; COURANT ; DONNER ; LA ; BONNE ; NOUVELLE
+================================================================================
+enregistrement77.wav, %WER 25.00 [ 4 / 16, 0 ins, 0 del, 4 sub ]
+CONNECTEZ ; LE ; CATHÉTER ; DE ; LA ; CLÉ ; À ;   3   ; ÉTAPES ; ET ; LE ; SYSTÈME ; ET ; APPLIQUEZ ; LE ; SPARADRAP
+    S     ; =  ;    S     ; =  ; =  ;  =  ; = ;   S   ;   =    ; =  ; =  ;    =    ; =  ;     S     ; =  ;     =    
+CONNECTER ; LE ; CÂTETARE ; DE ; LA ; CLÉ ; À ; TROIS ; ÉTAPES ; ET ; LE ; SYSTÈME ; ET ; APPLIQUER ; LE ; SPARADRAP
+================================================================================
+enregistrement261.wav, %WER 26.67 [ 4 / 15, 0 ins, 0 del, 4 sub ]
+RUDOLPH ; ÉTAIT ; UN ; RENNE ; AU ; NEZ  ; ROUGE ; COMME ; LE ; GRENAT ; ET ; D ; UNE ; SINGULIÈRE ; LUMINOSITÉ
+   S    ;   =   ; S  ;   S   ; =  ;  S   ;   =   ;   =   ; =  ;   =    ; =  ; = ;  =  ;     =      ;     =     
+ RUDOLF ; ÉTAIT ; EN ; REINE ; AU ; NEYT ; ROUGE ; COMME ; LE ; GRENAT ; ET ; D ; UNE ; SINGULIÈRE ; LUMINOSITÉ
+================================================================================
+enregistrement306.wav, %WER 23.53 [ 4 / 17, 0 ins, 0 del, 4 sub ]
+ET ; C ; EST ; AINSI ; QUE ; FUT ; FORMÉ ; LE ; CHOEUR ; DE ; CHANT ; DE ; LA ; FERME ; DE ; JUNAITO ; PIRULI
+=  ; = ;  =  ;   =   ;  =  ;  =  ;   =   ; =  ;   S    ; =  ;   S   ; =  ; =  ;   =   ; =  ;    S    ;   S   
+ET ; C ; EST ; AINSI ; QUE ; FUT ; FORMÉ ; LE ; COEUR  ; DE ; CHAMP ; DE ; LA ; FERME ; DE ;  JUANTO ; PIOLI 
+================================================================================
+enregistrement317.wav, %WER 21.05 [ 4 / 19, 1 ins, 0 del, 3 sub ]
+LES ; ENFANTS ; FONT ; LE ; TOUR ; DES ; MAISONS ; EN ; JOUANT ; ET ; EN ; CRIANT ; TRICK ; OR ; TREATERS ; POUR ; OBTENIR ; DES ; BONBONS ; <eps>
+ =  ;    =    ;  =   ; =  ;  =   ;  =  ;    =    ; =  ;   =    ; =  ; =  ;   =    ;   S   ; =  ;    S     ;  =   ;    =    ;  =  ;    S    ;   I  
+LES ; ENFANTS ; FONT ; LE ; TOUR ; DES ; MAISONS ; EN ; JOUANT ; ET ; EN ; CRIANT ;  CHEK ; OR ; TRETERS  ; POUR ; OBTENIR ; DES ;   BONS  ;  BONS
+================================================================================
+enregistrement263.wav, %WER 16.67 [ 3 / 18, 1 ins, 0 del, 2 sub ]
+MAIS ; <eps> ; NOËL ; EST ;  ARRIVÉ ; LE ; PÈRE ; NOËL ; EST ; DESCENDU ; ET ; RUDOLPH ; A ; ÉTÉ ; CHOISI ; POUR ; SON ; NEZ ; UNIQUE
+ =   ;   I   ;  =   ;  =  ;    S    ; =  ;  =   ;  =   ;  =  ;    =     ; =  ;    S    ; = ;  =  ;   =    ;  =   ;  =  ;  =  ;   =   
+MAIS ;   LE  ; NOËL ; EST ; ARRIVÉE ; LE ; PÈRE ; NOËL ; EST ; DESCENDU ; ET ;  RUDOLF ; A ; ÉTÉ ; CHOISI ; POUR ; SON ; NEZ ; UNIQUE
+================================================================================
+enregistrement58.wav, %WER 0.00 [ 0 / 21, 0 ins, 0 del, 0 sub ]
+OUI ; JE ; SAIS ; QUE ; TU ; AIMES ; RESTER ; MAIS ; MAINTENANT ; NOUS ; NE ; POUVONS ; PAS ; ALLER ; DEHORS ; ET ; JOUER ; POUR ; FÊTER ; MON ; ANNIVERSAIRE
+ =  ; =  ;  =   ;  =  ; =  ;   =   ;   =    ;  =   ;     =      ;  =   ; =  ;    =    ;  =  ;   =   ;   =    ; =  ;   =   ;  =   ;   =   ;  =  ;      =      
+OUI ; JE ; SAIS ; QUE ; TU ; AIMES ; RESTER ; MAIS ; MAINTENANT ; NOUS ; NE ; POUVONS ; PAS ; ALLER ; DEHORS ; ET ; JOUER ; POUR ; FÊTER ; MON ; ANNIVERSAIRE
+================================================================================
+enregistrement70.wav, %WER 0.00 [ 0 / 19, 0 ins, 0 del, 0 sub ]
+IL ; EST ; UTILISÉ ; POUR ; INTRODUIRE ; DES ; MÉDICAMENTS ; ET ; DU ; SÉRUM ; DANS ; LA ; VEINE ; ET ; IL ; FAIT ; EFFET ; PLUS ; RAPIDEMENT
+=  ;  =  ;    =    ;  =   ;     =      ;  =  ;      =      ; =  ; =  ;   =   ;  =   ; =  ;   =   ; =  ; =  ;  =   ;   =   ;  =   ;     =     
+IL ; EST ; UTILISÉ ; POUR ; INTRODUIRE ; DES ; MÉDICAMENTS ; ET ; DU ; SÉRUM ; DANS ; LA ; VEINE ; ET ; IL ; FAIT ; EFFET ; PLUS ; RAPIDEMENT
+================================================================================
+enregistrement303.wav, %WER 76.92 [ 20 / 26, 0 ins, 16 del, 4 sub ]
+DANS ; LA ;   FERME   ;   DE   ; JUANITO ; PIRULI ;   LA  ; POULE ; PERSONNE ;   NE  ;  SAIT ;   OÙ  ;  ELLE ;  EST  ; ON ; L ; A ; CHERCHÉE ; PAR ;  ICI  ;   ON  ;   L   ;   A   ; CHERCHÉE ;  PAR  ; LÀ
+ S   ; =  ;     S     ;   S    ;    D    ;   D    ;   D   ;   D   ;    D     ;   D   ;   D   ;   D   ;   D   ;   D   ; =  ; = ; = ;    S     ;  =  ;   D   ;   D   ;   D   ;   D   ;    D     ;   D   ; = 
+ ON  ; LA ; CHERCHAIT ; PARISI ;  <eps>  ; <eps>  ; <eps> ; <eps> ;  <eps>   ; <eps> ; <eps> ; <eps> ; <eps> ; <eps> ; ON ; L ; A ; CHERCHÉ  ; PAR ; <eps> ; <eps> ; <eps> ; <eps> ;  <eps>   ; <eps> ; LÀ
+================================================================================
+enregistrement305.wav, %WER 26.92 [ 7 / 26, 0 ins, 2 del, 5 sub ]
+DANS ; LA ; FERME ; DE ; JUANITO ; PIRULI ; LE ; MOUTON ; PERSONNE ; NE ; SAIT ; OÙ ; IL ; EST ; ON ; L  ;    A     ; CHERCHÉ ;  PAR  ; ICI ; ON ; L  ;   A   ; CHERCHÉ ; PAR ; LÀ
+ =   ; =  ;   =   ; =  ;    =    ;   S    ; =  ;   =    ;    =     ; =  ;  =   ; =  ; =  ;  =  ; =  ; S  ;    S     ;    S    ;   D   ;  =  ; =  ; S  ;   D   ;    =    ;  =  ; = 
+DANS ; LA ; FERME ; DE ; JUANITO ; PERILI ; LE ; MOUTON ; PERSONNE ; NE ; SAIT ; OÙ ; IL ; EST ; ON ; LA ; CHERCHÉI ;   PAS   ; <eps> ; ICI ; ON ; LA ; <eps> ; CHERCHÉ ; PAR ; LÀ
+================================================================================
+enregistrement298.wav, %WER 3.85 [ 1 / 26, 0 ins, 0 del, 1 sub ]
+DANS ; LA ; FERME ; DE ; JUANITO ; PIRULI ; LE ; FERMIER ; PERSONNE ; NE ; SAIT ; OÙ ; IL ; EST ; ON ; L ; A ; CHERCHÉ ; PAR ; ICI ; ON ; L ; A ; CHERCHÉ ; PAR ; LÀ
+ =   ; =  ;   =   ; =  ;    =    ;   S    ; =  ;    =    ;    =     ; =  ;  =   ; =  ; =  ;  =  ; =  ; = ; = ;    =    ;  =  ;  =  ; =  ; = ; = ;    =    ;  =  ; = 
+DANS ; LA ; FERME ; DE ; JUANITO ;  PERU  ; LE ; FERMIER ; PERSONNE ; NE ; SAIT ; OÙ ; IL ; EST ; ON ; L ; A ; CHERCHÉ ; PAR ; ICI ; ON ; L ; A ; CHERCHÉ ; PAR ; LÀ
+================================================================================
+enregistrement302.wav, %WER 26.92 [ 7 / 26, 1 ins, 1 del, 5 sub ]
+DANS ; LA ; FERME ; DE ;  JUANITO  ; PIRULI ; LE ; CANETON ; <eps> ; PERSONNE ; NE ; SAIT ; OÙ ; IL ; EST ; ON ; L  ;    A     ; CHERCHÉ ; PAR ; ICI ; ON ; L ; A ; CHERCHÉ ; PAR ; LÀ
+ =   ; =  ;   =   ; =  ;     S     ;   S    ; =  ;    S    ;   I   ;    =     ; =  ;  =   ; =  ; =  ;  =  ; =  ; S  ;    S     ;    D    ;  =  ;  =  ; =  ; = ; = ;    =    ;  =  ; = 
+DANS ; LA ; FERME ; DE ; GRWAGNITO ; PERELY ; LE ;   CANE  ; TOMBE ; PERSONNE ; NE ; SAIT ; OÙ ; IL ; EST ; ON ; LA ; CHERCHAT ;  <eps>  ; PAR ; ICI ; ON ; L ; A ; CHERCHÉ ; PAR ; LÀ
+================================================================================
+enregistrement293.wav, %WER 45.45 [ 10 / 22, 0 ins, 6 del, 4 sub ]
+PINOCCHIO ;  EST   ; ALLÉ ; PÊCHER ;  DANS ;   LE  ; FLEUVE ; GUADALQUIVIR ;   IL  ; A ; LAISSÉ ; TOMBER ; SA ; CANNE ; À ; PÊCHE ; ET ; A ; PÉCHÉ ; AVEC ; SON ; NEZ
+    S     ;   S    ;  S   ;   D    ;   D   ;   D   ;   D    ;      D       ;   D   ; = ;   =    ;   =    ; =  ;   =   ; = ;   =   ; =  ; = ;   =   ;  =   ;  =  ;  S 
+    N     ; LELEUE ;  L   ; <eps>  ; <eps> ; <eps> ; <eps>  ;    <eps>     ; <eps> ; A ; LAISSÉ ; TOMBER ; SA ; CANNE ; À ; PÊCHE ; ET ; A ; PÉCHÉ ; AVEC ; SON ;  EZ
+================================================================================
+enregistrement292.wav, %WER 26.92 [ 7 / 26, 0 ins, 0 del, 7 sub ]
+LES ; PICTOGRAMMES ; UTILISÉS ; PAR ; ARASAAC ; FONT ; PARTIE ; D ; UNE ; OEUVRE ; COLLECTIVE ; PROPRIÉTÉ ; DE ; LA ; DIPUTACION ; GENERAL  ; DE ; ARAGON ; ET ; ONT ; ÉTÉ ; CRÉÉS  ; SOUS ; LICENCE ; CREATIVE ; COMMONS
+ =  ;      S       ;    =     ;  =  ;    S    ;  =   ;   =    ; = ;  =  ;   =    ;     =      ;     =     ; =  ; =  ;     S      ;    S     ; =  ;   =    ; =  ;  =  ;  =  ;   S    ;  =   ;    =    ;    S     ;    S   
+LES ; PITOGRAMMES  ; UTILISÉS ; PAR ; ARASSAG ; FONT ; PARTIE ; D ; UNE ; OEUVRE ; COLLECTIVE ; PROPRIÉTÉ ; DE ; LA ; DÉPUTATION ; GÉNÉRALE ; DE ; ARAGON ; ET ; ONT ; ÉTÉ ; CRÉÉES ; SOUS ; LICENCE ; CUITIVE  ;  COMENS

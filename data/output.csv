@@ -1,0 +1,1050 @@
+enregistrement38.wav	33.33	37.5	37.5	35.714285714285715
+<eps>	les	gens	ont	besoin	de	manger
+<eps>	DET	NOUN	VERB	VERB	ADP	NOUN
+I	=	=	S	=	=	=
+PRON	DET	NOUN	ADP	ADJ	ADP	NOUN
+hum	les	gens	auont	besoin	de	manger
+
+enregistrement139.wav	16.67	75.0	37.5	25.0
+le	baiser	que	je	te	donne
+DET	NOUN	SCONJ	PRON	PRON	VERB
+=	S	=	=	=	=
+DET	VERB	SCONJ	PRON	PRON	VERB
+le	baisér	que	je	te	donne
+
+enregistrement142.wav	14.29	0	0	14.285714285714285
+j	ouvre	ma	main	et	j	attends
+PRON	VERB	DET	NOUN	CCONJ	PRON	VERB
+=	=	=	=	D	=	=
+PRON	VERB	DET	NOUN	<eps>	PRON	VERB
+j	ouvre	ma	main	<eps>	j	attends
+
+enregistrement204.wav	12.5	50.0	37.5	18.75
+qui	vit	dans	le	tronc	d	un	arbre
+PRON	VERB	ADP	DET	NOUN	ADP	DET	NOUN
+=	=	=	=	S	=	=	=
+PRON	VERB	ADP	DET	NOUN	ADP	DET	NOUN
+qui	vit	dans	le	tron	d	un	arbre
+
+enregistrement39.wav	33.33	50.0	50.0	41.66666666666667
+tous	les	gens	ont	un	visage
+DET	DET	NOUN	VERB	DET	NOUN
+=	=	=	=	S	D
+DET	DET	NOUN	AUX	VERB	<eps>
+tous	les	gens	ont	envisage	<eps>
+
+enregistrement212.wav	12.5	50.0	50.0	18.75
+ne	pas	marcher	dans	les	flaques	d	eau
+ADV	ADV	VERB	ADP	DET	NOUN	ADP	NOUN
+=	=	=	=	=	S	=	=
+ADV	ADV	VERB	ADP	DET	NOUN	ADP	NOUN
+ne	pas	marcher	dans	les	flacs	d	eau
+
+enregistrement295.wav	11.11	37.5	30.0	16.666666666666664
+il	avait	un	nez	plus	long	qu	un	tramway
+PRON	VERB	DET	NOUN	ADV	ADJ	ADP	DET	NOUN
+=	=	=	=	=	=	=	=	S
+PRON	VERB	DET	NOUN	ADV	ADJ	ADP	DET	NOUN
+il	avait	un	nez	plus	long	qu	un	tramois
+
+enregistrement326.wav	40.0	50.0	37.5	41.66666666666667
+je	vais	prendre	un	aérosol	<eps>
+PRON	VERB	VERB	DET	NOUN	<eps>
+=	=	=	=	S	I
+PRON	VERB	VERB	DET	ADJ	NOUN
+je	vais	prendre	un	aéros	sol
+
+enregistrement244.wav	20.0	0	0	0.0
+juan	descendit	par	la	plante
+NOUN	VERB	ADP	DET	NOUN
+=	S	=	=	=
+NOUN	VERB	ADP	DET	NOUN
+juan	descendue	par	la	plante
+
+enregistrement175.wav	25.0	0	0	0.0
+passaient	beaucoup	d	heures
+VERB	ADV	ADP	NOUN
+S	=	=	=
+VERB	ADV	ADP	NOUN
+passer	beaucoup	d	heures
+
+enregistrement197.wav	42.86	50.0	50.0	50.0
+le	nom	de	maria	a	cinq	lettres
+DET	NOUN	ADP	NOUN	ADP	NUM	NOUN
+=	=	=	=	S	S	D
+DET	NOUN	ADP	NOUN	ADP	NOUN	<eps>
+le	nom	de	maria	sin	lettre	<eps>
+
+enregistrement213.wav	20.0	75.0	75.0	30.0
+pour	que	les	feuilles	bruissent
+ADP	SCONJ	DET	NOUN	VERB
+=	=	=	=	S
+ADP	SCONJ	DET	NOUN	VERB
+pour	que	les	feuilles	buissent
+
+enregistrement234.wav	20.0	37.5	37.5	30.0
+juan	a	rencontré	un	magicien
+PROPN	AUX	VERB	DET	NOUN
+=	=	=	=	S
+PROPN	AUX	VERB	DET	NOUN
+juan	a	rencontré	un	magistiant
+
+enregistrement154.wav	20.0	0	0	20.0
+et	un	autre	au	crépuscule
+CCONJ	DET	ADJ	DET	NOUN
+D	=	=	=	=
+<eps>	DET	ADJ	NOUN	NOUN
+<eps>	un	autre	au	crépuscule
+
+enregistrement248.wav	66.67	75.0	75.0	83.33333333333334
+juan	et	sa	mère	vivèrent	heureux
+NOUN	CCONJ	DET	NOUN	VERB	ADJ
+=	S	S	S	S	=
+NOUN	CCONJ	ADV	ADJ	NOUN	ADJ
+juan	ou	samère	vivent	erth	heureux
+
+enregistrement256.wav	33.33	0	0	0.0
+appeler	ses	amis	et	sa	famille
+VERB	DET	NOUN	CCONJ	DET	NOUN
+S	=	S	=	=	=
+VERB	DET	NOUN	CCONJ	DET	NOUN
+appelé	ses	amies	et	sa	famille
+
+enregistrement337.wav	28.57	50.0	37.5	31.25
+il	essuie	<eps>	ma	bouche	et	mon	visage
+PRON	VERB	<eps>	DET	NOUN	CCONJ	DET	NOUN
+=	S	I	=	=	=	=	=
+PRON	AUX	ADP	DET	NOUN	CCONJ	DET	NOUN
+il	est	su	ma	bouche	et	mon	visage
+
+enregistrement155.wav	16.67	75.0	25.0	25.0
+je	me	lève	je	me	rassieds
+PRON	PRON	VERB	PRON	PRON	VERB
+=	=	=	=	=	S
+PRON	PRON	VERB	PRON	PRON	VERB
+je	me	lève	je	me	rassuie
+
+enregistrement153.wav	16.67	50.0	50.0	25.0
+un	livre	ouvert	à	l	aube
+DET	NOUN	ADJ	ADP	DET	NOUN
+=	S	=	=	=	=
+DET	NOUN	ADJ	ADP	DET	NOUN
+un	lie	ouvert	à	l	aube
+
+enregistrement171.wav	100.0	150.0	100.0	100.0
+qui	cousaient	et	brodaient	<eps>
+PRON	VERB	CCONJ	VERB	<eps>
+=	S	S	S	I
+PRON	VERB	PRON	AUX	ADJ
+qui	kou	vous	est	ébradés
+
+enregistrement202.wav	40.0	75.0	75.0	41.66666666666667
+chacun	relié	<eps>	à	sa	planète
+DET	NOUN	<eps>	ADP	DET	NOUN
+=	S	I	=	=	=
+NOUN	ADP	NOUN	ADP	DET	NOUN
+chacun	àn	relia	à	sa	planète
+
+enregistrement164.wav	14.29	37.5	30.0	21.428571428571427
+il	était	une	fois	une	fille	balayeuse
+PRON	AUX	DET	NOUN	DET	NOUN	ADJ
+=	=	=	=	=	S	=
+PRON	AUX	DET	NOUN	DET	NOUN	ADJ
+il	était	une	fois	une	fi	balayeuse
+
+enregistrement114.wav	33.33	75.0	75.0	50.0
+la	princesse	est	allée	au	lac
+DET	NOUN	AUX	ADJ	DET	NOUN
+=	=	S	D	=	=
+DET	NOUN	VERB	<eps>	DET	NOUN
+la	princesse	taie	<eps>	au	lac
+
+enregistrement149.wav	100.0	150.0	150.0	100.0
+laissant	dans	l	oliveraie	<eps>
+VERB	ADP	DET	NOUN	<eps>
+S	S	=	S	I
+DET	NOUN	PRON	VERB	ADJ
+le	sandon	l	ea	livré
+
+enregistrement62.wav	33.33	75.0	60.0	44.44444444444444
+la	rivière	nous	donne	de	l	eau	pour	boire
+DET	NOUN	PRON	VERB	ADP	DET	NOUN	ADP	VERB
+=	=	=	=	=	=	S	S	D
+DET	NOUN	PRON	VERB	ADP	DET	DET	NOUN	<eps>
+la	rivière	nous	donne	de	l	ea	pouvoir	<eps>
+
+enregistrement299.wav	50.0	100.0	107.5	58.88888888888889
+et	il	apparut	regardez	<eps>	comme	c	est	bien
+CCONJ	DET	NOUN	VERB	<eps>	ADP	PRON	AUX	ADV
+=	=	S	S	I	=	S	=	=
+CCONJ	PRON	AUX	ADV	VERB	ADP	PRON	AUX	ADV
+et	il	a	paru	regardé	comme	ç	est	bien
+
+enregistrement110.wav	14.29	0	0	14.285714285714285
+dans	dans	le	lac	vivait	un	dragon
+ADP	ADP	DET	NOUN	VERB	DET	NOUN
+=	D	=	=	=	=	=
+ADP	<eps>	DET	NOUN	VERB	DET	NOUN
+dans	<eps>	le	lac	vivait	un	dragon
+
+enregistrement99.wav	20.0	0	0	0.0
+compter	20	mouvements	de	bras
+VERB	NUM	NOUN	ADP	NOUN
+S	=	=	=	=
+ADV	NUM	NOUN	ADP	NOUN
+comptez	20	mouvements	de	bras
+
+enregistrement166.wav	50.0	75.0	75.0	58.333333333333336
+avec	un	balai	et	un	plumeau
+ADP	DET	NOUN	CCONJ	DET	NOUN
+=	S	S	=	S	=
+VERB	ADP	NOUN	CCONJ	ADP	NOUN
+avec	en	ballet	et	en	plumeau
+
+enregistrement174.wav	42.86	50.0	37.5	21.428571428571427
+qui	entre	planche	et	chemises	de	nuit
+PRON	ADP	NOUN	CCONJ	NOUN	ADP	NOUN
+=	=	S	=	S	=	S
+PRON	ADP	NOUN	CCONJ	NOUN	ADP	NOUN
+qui	entre	planches	et	chemise	de	née
+
+enregistrement83.wav	83.33	100.0	100.0	75.0
+mon	pancréas	est	<eps>	<eps>	dans	mon	ventre
+DET	NOUN	AUX	<eps>	<eps>	ADP	DET	NOUN
+S	S	S	I	I	=	=	=
+PRON	PRON	ADV	VERB	CCONJ	ADP	DET	NOUN
+il	me	pas	créace	et	dans	mon	ventre
+
+enregistrement195.wav	11.11	50.0	30.0	16.666666666666664
+et	je	lui	ai	dit	avec	beaucoup	de	panache
+CCONJ	PRON	PRON	AUX	VERB	ADP	ADV	ADP	NOUN
+=	=	=	=	S	=	=	=	=
+CCONJ	PRON	PRON	AUX	VERB	ADP	ADV	ADP	NOUN
+et	je	lui	ai	déjit	avec	beaucoup	de	panache
+
+enregistrement307.wav	9.09	0	0	0.0
+c	est	l	heure	pour	les	petits	d	aller	au	lit
+PRON	AUX	DET	NOUN	ADP	DET	NOUN	ADP	NOUN	DET	NOUN
+=	=	=	=	=	=	S	=	=	=	=
+PRON	AUX	DET	NOUN	ADP	DET	NOUN	ADP	NOUN	DET	NOUN
+c	est	l	heure	pour	les	petites	d	aller	au	lit
+
+enregistrement96.wav	60.0	50.0	50.0	50.0
+compter	20	mouvements	de	pied
+NOUN	NUM	NOUN	ADP	NOUN
+S	=	=	S	D
+ADV	NUM	NOUN	VERB	<eps>
+comptez	20	mouvements	depieds	<eps>
+
+enregistrement150.wav	20.0	50.0	50.0	30.0
+un	livre	dans	chaque	nid
+DET	NOUN	ADP	ADJ	NOUN
+=	=	=	=	S
+DET	NOUN	ADP	DET	NOUN
+un	livre	dans	chaque	nute
+
+enregistrement320.wav	33.33	0	0	16.666666666666664
+les	feuilles	pleines	de	lumière	tombent
+DET	NOUN	ADJ	ADP	NOUN	VERB
+S	=	=	=	S	=
+DET	NOUN	ADJ	ADP	NOUN	VERB
+des	feuilles	pleines	de	lumières	tombent
+
+enregistrement163.wav	40.0	75.0	75.0	50.0
+et	peignant	beaucoup	de	cheveux
+CCONJ	VERB	ADV	ADP	NOUN
+S	D	=	=	=
+VERB	<eps>	ADV	ADP	NOUN
+épaignant	<eps>	beaucoup	de	cheveux
+
+enregistrement115.wav	33.33	60.0	60.0	50.0
+la	princesse	a	trouvé	st	jorge
+DET	NOUN	AUX	VERB	AUX	NOUN
+=	=	=	=	S	S
+DET	NOUN	AUX	VERB	NOUN	PROPN
+la	princesse	a	trouvé	saint	george
+
+enregistrement196.wav	8.33	37.5	21.428571428571427	12.5
+je	ne	veux	pas	d	une	voiture	qui	me	donne	la	nausée
+PRON	ADV	VERB	ADV	ADP	DET	NOUN	PRON	PRON	VERB	DET	NOUN
+=	=	=	=	=	=	=	=	=	=	=	S
+PRON	ADV	VERB	ADV	ADP	DET	NOUN	PRON	PRON	VERB	DET	NOUN
+je	ne	veux	pas	d	une	voiture	qui	me	donne	la	nosée
+
+enregistrement214.wav	9.09	50.0	25.0	13.636363636363635
+avec	qui	la	fée	de	l	automne	se	promène	t	elle
+ADP	PRON	DET	NOUN	ADP	DET	NOUN	PRON	VERB	CCONJ	PRON
+=	=	=	S	=	=	=	=	=	=	=
+ADP	PRON	DET	VERB	ADP	DET	NOUN	PRON	VERB	CCONJ	PRON
+avec	qui	la	fait	de	l	automne	se	promène	t	elle
+
+enregistrement151.wav	14.29	0	0	12.5
+tant	que	la	paix	<eps>	dans	le	monde
+ADV	SCONJ	DET	NOUN	<eps>	ADP	DET	NOUN
+=	=	=	=	I	=	=	=
+ADV	SCONJ	DET	NOUN	AUX	ADP	DET	NOUN
+tant	que	la	paix	est	dans	le	monde
+
+enregistrement235.wav	62.5	120.0	120.0	87.5
+juan	échange	la	vache	contre	des	haricots	magiques
+NOUN	VERB	DET	NOUN	ADP	DET	NOUN	ADJ
+S	S	S	D	=	=	S	=
+NOUN	VERB	NOUN	<eps>	ADP	DET	NOUN	ADJ
+joan	change	lavache	<eps>	contre	des	harico	magiques
+
+enregistrement121.wav	33.33	37.5	16.666666666666664	26.923076923076923
+c	est	comme	ça	qu	elle	lavait	quand	<eps>	je	l	ai	vue
+PRON	AUX	ADP	PRON	SCONJ	PRON	VERB	SCONJ	<eps>	PRON	PRON	AUX	VERB
+=	=	=	=	=	=	S	S	I	=	=	=	S
+PRON	AUX	ADP	PRON	SCONJ	PRON	PRON	VERB	ADP	PRON	PRON	AUX	VERB
+c	est	comme	ça	qu	elle	l	avait	comme	je	l	ai	vu
+
+enregistrement108.wav	36.36	90.0	75.0	50.0
+je	mets	mon	bonnet	de	bain	et	mes	lunettes	de	bain
+PRON	VERB	DET	NOUN	ADP	NOUN	CCONJ	DET	NOUN	ADP	NOUN
+=	=	=	S	=	S	=	=	=	S	D
+PRON	VERB	DET	NOUN	ADP	NOUN	CCONJ	DET	NOUN	VERB	<eps>
+je	mets	mon	poinet	de	bas	et	mes	lunettes	debas	<eps>
+
+enregistrement97.wav	40.0	0	0	20.0
+répétez	l	exercice	cinq	fois
+VERB	DET	NOUN	NUM	NOUN
+S	=	=	S	=
+VERB	DET	NOUN	NUM	NOUN
+répéter	l	exercice	5	fois
+
+enregistrement289.wav	11.11	0	0	0.0
+d	autres	à	fermer	les	yeux	ou	à	dormir
+ADP	PRON	ADP	VERB	DET	NOUN	CCONJ	ADP	VERB
+=	S	=	=	=	=	=	=	=
+ADP	ADJ	ADP	VERB	DET	NOUN	CCONJ	ADP	VERB
+d	autre	à	fermer	les	yeux	ou	à	dormir
+
+enregistrement314.wav	12.5	50.0	37.5	18.75
+dépêche	toi	mon	âne	on	sera	bientôt	là
+VERB	ADV	DET	NOUN	PRON	AUX	ADV	ADV
+S	=	=	=	=	=	=	=
+VERB	VERB	DET	NOUN	PRON	AUX	ADV	ADV
+tépêche	toi	mon	âne	on	sera	bientôt	là
+
+enregistrement301.wav	50.0	50.0	50.0	50.0
+alléluia	<eps>	et	vive	noël
+VERB	<eps>	DET	ADJ	NOUN
+S	I	=	=	=
+ADV	VERB	DET	ADJ	NOUN
+allez	luia	et	vive	noël
+
+enregistrement87.wav	30.0	50.0	25.0	35.0
+quand	je	prends	de	l	insuline	je	me	sens	bien
+SCONJ	PRON	VERB	ADP	DET	NOUN	PRON	PRON	VERB	ADV
+=	=	=	S	S	S	=	=	=	=
+SCONJ	PRON	VERB	VERB	ADP	PRON	PRON	PRON	VERB	ADV
+quand	je	prends	delan	sur	lille	je	me	sens	bien
+
+enregistrement90.wav	33.33	37.5	25.0	35.0
+je	me	déshabille	et	enfile	mon	<eps>	maillot	de	bain
+PRON	PRON	ADJ	CCONJ	VERB	DET	<eps>	NOUN	ADP	NOUN
+=	=	=	=	S	S	I	=	=	=
+PRON	PRON	NOUN	CCONJ	ADP	NOUN	PRON	VERB	ADP	NOUN
+je	me	déshabille	et	en	filme	on	maillot	de	bain
+
+enregistrement111.wav	28.57	60.0	50.0	42.857142857142854
+un	grand	méchant	dragonet	qui	sentait	mauvais
+DET	ADJ	ADJ	ADJ	PRON	VERB	ADJ
+=	=	S	S	=	=	=
+DET	ADJ	NOUN	ADJ	PRON	VERB	ADJ
+un	grand	méchon	dragonais	qui	sentait	mauvais
+
+enregistrement173.wav	14.29	0	0	14.285714285714285
+il	était	une	fois	trois	enfants	repasseuses
+PRON	AUX	DET	NOUN	NUM	NOUN	ADJ
+=	=	=	=	S	=	=
+PRON	AUX	DET	NOUN	NUM	NOUN	ADJ
+il	était	une	fois	3	enfants	repasseuses
+
+enregistrement258.wav	20.0	37.5	37.5	30.0
+bouger	le	corps	danser	sauter
+VERB	DET	NOUN	ADJ	ADJ
+=	=	=	S	=
+VERB	DET	NOUN	ADJ	ADJ
+bouger	le	corps	tanse	sauter
+
+enregistrement109.wav	12.5	0	0	11.11111111111111
+le	chevalier	saint	georges	est	arrivé	<eps>	en	ville
+DET	NOUN	ADJ	PROPN	AUX	VERB	<eps>	ADP	NOUN
+=	=	=	=	=	=	I	=	=
+DET	NOUN	ADJ	PROPN	AUX	VERB	ADP	ADP	NOUN
+le	chevalier	saint	georges	est	arrivé	à	en	ville
+
+enregistrement252.wav	20.0	50.0	50.0	30.0
+un	virus	arrive	et	les	gens	jouent	à	cache	cache
+DET	NOUN	VERB	CCONJ	DET	NOUN	VERB	ADP	NOUN	ADJ
+=	=	=	=	=	=	=	=	S	S
+DET	NOUN	VERB	CCONJ	DET	NOUN	VERB	ADP	NOUN	NOUN
+un	virus	arrive	et	les	gens	jouent	à	cash	cash
+
+enregistrement44.wav	12.5	0	0	0.0
+les	gens	sont	heureux	triste	ou	en	colère
+DET	NOUN	AUX	ADJ	ADJ	CCONJ	ADP	NOUN
+=	=	=	=	S	=	=	=
+DET	NOUN	AUX	ADJ	ADJ	CCONJ	ADP	NOUN
+les	gens	sont	heureux	tristes	ou	en	colère
+
+enregistrement210.wav	25.0	60.0	37.5	25.0
+pourquoi	la	fée	veut	elle	qu	ils	forment	un	tapis	d	or
+ADV	DET	NOUN	VERB	PRON	PRON	PRON	VERB	DET	NOUN	ADP	NOUN
+=	=	S	=	=	=	S	S	=	=	=	=
+ADV	DET	NOUN	VERB	PRON	PRON	PRON	VERB	DET	NOUN	ADP	NOUN
+pourquoi	la	fet	veut	elle	qu	il	forme	un	tapis	d	or
+
+enregistrement309.wav	12.5	0	32.5	16.25
+pour	que	demain	on	puisse	se	lever	tôt
+ADP	SCONJ	ADV	PRON	VERB	PRON	VERB	ADV
+=	=	=	=	=	D	=	=
+ADP	SCONJ	ADV	PRON	VERB	<eps>	VERB	ADV
+pour	que	demain	on	puisse	<eps>	lever	tôt
+
+enregistrement170.wav	14.29	0	0	14.285714285714285
+il	était	une	fois	deux	enfants	couturiers
+PRON	AUX	DET	NOUN	NUM	NOUN	ADJ
+=	=	=	=	S	=	=
+PRON	AUX	DET	NOUN	ADP	NOUN	NOUN
+il	était	une	fois	deu	enfants	couturiers
+
+enregistrement66.wav	25.0	50.0	37.5	27.77777777777778
+il	<eps>	a	aussi	un	chapon	et	des	oeufs
+PRON	<eps>	AUX	ADV	DET	NOUN	CCONJ	DET	NOUN
+=	I	=	=	=	=	=	=	S
+PRON	PRON	VERB	ADV	DET	NOUN	CCONJ	DET	NOUN
+il	y	a	aussi	un	chapon	et	des	oeutres
+
+enregistrement243.wav	11.11	25.0	25.0	16.666666666666664
+juan	a	pris	la	poule	et	la	harpe	magique
+NOUN	AUX	VERB	DET	NOUN	CCONJ	DET	NOUN	ADJ
+=	=	=	=	=	=	=	S	=
+NOUN	AUX	VERB	DET	NOUN	CCONJ	DET	NOUN	ADJ
+juan	a	pris	la	poule	et	la	arpe	magique
+
+enregistrement73.wav	11.11	30.0	21.428571428571427	16.666666666666664
+si	je	suis	nerveux	je	peux	prendre	un	aérosol
+SCONJ	PRON	AUX	ADJ	PRON	VERB	VERB	DET	NOUN
+=	=	=	=	=	=	=	=	S
+SCONJ	PRON	AUX	ADJ	PRON	VERB	VERB	DET	NOUN
+si	je	suis	nerveux	je	peux	prendre	un	aiérosol
+
+enregistrement124.wav	25.0	37.5	31.11111111111111	29.230769230769226
+c	est	comme	ça	qu	elle	repassait	<eps>	quand	je	l	ai	vue
+PRON	AUX	ADP	PRON	SCONJ	PRON	VERB	<eps>	SCONJ	PRON	PRON	AUX	VERB
+=	=	=	=	=	S	S	I	=	=	=	=	=
+PRON	AUX	ADP	PRON	PRON	ADP	DET	NOUN	SCONJ	PRON	PRON	AUX	VERB
+c	est	comme	ça	qu	a	ûu	repasse	quand	je	l	ai	vue
+
+enregistrement86.wav	30.0	60.0	50.0	40.0
+je	dois	m	injecter	de	l	insuline	tous	les	jours
+PRON	VERB	AUX	VERB	ADP	DET	NOUN	DET	DET	NOUN
+=	=	=	S	=	S	S	=	=	=
+PRON	VERB	AUX	VERB	ADP	NOUN	ADJ	DET	DET	NOUN
+je	dois	m	anjecter	de	lin	suline	tous	les	jours
+
+enregistrement92.wav	45.45	90.0	75.0	59.09090909090909
+je	mets	mon	bonnet	de	bain	et	mes	lunettes	de	bain
+PRON	VERB	DET	NOUN	ADP	NOUN	CCONJ	DET	NOUN	ADP	NOUN
+=	=	=	=	S	D	=	=	S	S	D
+PRON	VERB	DET	NOUN	ADJ	<eps>	CCONJ	DET	VERB	VERB	<eps>
+je	mets	mon	bonnet	devans	<eps>	et	mes	luettes	devant	<eps>
+
+enregistrement178.wav	55.56	90.0	75.0	72.22222222222221
+maman	et	ana	gardent	les	sacs	pour	les	réutiliser
+NOUN	CCONJ	NOUN	VERB	DET	NOUN	ADP	PRON	VERB
+=	S	S	S	S	S	=	=	=
+PROPN	AUX	DET	DET	NOUN	NOUN	ADP	PRON	VERB
+maman	est	un	un	gardé	sect	pour	les	réutiliser
+
+enregistrement291.wav	9.09	30.0	21.428571428571427	13.636363636363635
+on	rentre	à	la	maison	et	papa	me	donne	une	récompense
+PRON	VERB	ADP	DET	NOUN	CCONJ	NOUN	PRON	VERB	DET	NOUN
+=	=	=	=	=	=	=	=	S	=	=
+PRON	VERB	ADP	DET	NOUN	CCONJ	NOUN	PRON	VERB	DET	NOUN
+on	rentre	à	la	maison	et	papa	me	donnet	une	récompense
+
+enregistrement280.wav	60.0	50.0	37.5	50.0
+je	vais	passer	un	électroencéphalogramme	<eps>	<eps>
+PRON	VERB	VERB	DET	NOUN	<eps>	<eps>
+=	=	=	=	S	I	I
+PRON	VERB	VERB	DET	NOUN	ADP	NOUN
+je	vais	passer	un	électro	en	cephalogramme
+
+enregistrement290.wav	66.67	120.0	104.28571428571429	83.0
+ils	enlèvent	les	électrodes	me	nettoient	<eps>	et	m	habillent
+PRON	VERB	DET	NOUN	PRON	VERB	<eps>	CCONJ	AUX	VERB
+=	=	=	S	S	S	I	=	S	S
+PRON	VERB	DET	NOUN	ADP	NOUN	ADJ	CCONJ	DET	NOUN
+ils	enlèvent	les	électras	du	menet	toi	et	ma	ville
+
+enregistrement297.wav	9.09	25.0	25.0	13.636363636363635
+et	le	slip	du	pauvre	pinocchio	est	en	train	de	tomber
+CCONJ	DET	NOUN	DET	ADJ	NOUN	AUX	ADP	NOUN	ADP	VERB
+=	=	=	=	=	S	=	=	=	=	=
+CCONJ	DET	NOUN	DET	ADJ	NOUN	AUX	ADP	NOUN	ADP	VERB
+et	le	slip	du	pauvre	pinopiot	est	en	train	de	tomber
+
+enregistrement198.wav	30.0	75.0	60.0	40.0
+rayez	les	choses	qui	ne	sont	pas	dans	la	chanson
+VERB	DET	NOUN	PRON	ADV	AUX	ADV	ADP	DET	NOUN
+S	D	D	=	=	=	=	=	=	=
+PRON	<eps>	<eps>	PRON	ADV	AUX	ADV	ADP	DET	NOUN
+eleh	<eps>	<eps>	qui	ne	sont	pas	dans	la	chanson
+
+enregistrement308.wav	22.22	37.5	25.0	27.77777777777778
+allons	au	lit	nous	avons	besoin	de	nous	reposer
+VERB	DET	NOUN	PRON	VERB	ADV	ADP	PRON	VERB
+S	S	=	=	=	=	=	=	=
+ADP	PRON	NOUN	PRON	VERB	ADV	ADP	PRON	VERB
+à	nos	lit	nous	avons	besoin	de	nous	reposer
+
+enregistrement74.wav	15.38	50.0	33.33333333333333	23.076923076923077
+je	tends	mon	bras	je	ferme	le	poing	et	je	mets	le	garrot
+PRON	VERB	DET	NOUN	PRON	VERB	DET	NOUN	CCONJ	PRON	VERB	DET	NOUN
+=	=	=	=	=	=	=	S	=	=	=	=	S
+PRON	VERB	DET	NOUN	PRON	VERB	DET	NOUN	CCONJ	PRON	VERB	PRON	NOUN
+je	tends	mon	bras	je	ferme	le	point	et	je	mets	le	garo
+
+enregistrement223.wav	20.0	60.0	60.0	25.0
+fille	<eps>	d	un	frère	ou	d	une	soeur	de	mon	père	ou	de	ma	mère
+NOUN	<eps>	ADP	DET	NOUN	CCONJ	ADP	DET	NOUN	ADP	DET	NOUN	CCONJ	ADP	DET	NOUN
+S	I	=	=	=	=	=	=	=	=	=	=	=	=	=	S
+PRON	AUX	ADP	DET	NOUN	CCONJ	ADP	DET	NOUN	ADP	DET	NOUN	CCONJ	ADP	DET	NOUN
+je	suis	d	un	frère	ou	d	une	soeur	de	mon	père	ou	de	ma	moère
+
+enregistrement57.wav	30.0	21.428571428571427	18.75	25.0
+reviens	un	autre	jour	nous	voulons	aller	dehors	et	jouer
+VERB	DET	ADJ	NOUN	PRON	VERB	VERB	NOUN	CCONJ	VERB
+S	S	S	=	=	=	=	=	=	=
+VERB	ADP	DET	NOUN	PRON	VERB	VERB	NOUN	CCONJ	VERB
+revient	à	notre	jour	nous	voulons	aller	dehors	et	jouer
+
+enregistrement316.wav	18.18	0	0	18.181818181818183
+a	halloween	les	gens	se	déguisent	pour	faire	peur	aux	autres
+ADP	ADV	DET	NOUN	PRON	VERB	ADP	VERB	NOUN	DET	NOUN
+S	S	=	=	=	=	=	=	=	=	=
+ADP	NOUN	DET	NOUN	PRON	VERB	ADP	VERB	NOUN	DET	NOUN
+à	aloin	les	gens	se	déguisent	pour	faire	peur	aux	autres
+
+enregistrement312.wav	10.0	37.5	21.428571428571427	15.0
+si	vous	me	voyez	je	suis	en	route	pour	bethléem
+SCONJ	PRON	PRON	VERB	PRON	VERB	ADP	NOUN	ADP	VERB
+=	=	=	=	=	=	=	=	=	S
+SCONJ	PRON	PRON	VERB	PRON	VERB	ADP	NOUN	ADP	NOUN
+si	vous	me	voyez	je	suis	en	route	pour	bethléhem
+
+enregistrement116.wav	9.09	0	0	0.0
+saint	georges	a	dit	n	ayez	pas	peur	je	vous	aiderai
+NOUN	PROPN	AUX	VERB	ADV	AUX	ADV	ADV	PRON	PRON	VERB
+=	=	=	=	=	=	=	=	=	=	S
+NOUN	PROPN	AUX	VERB	ADV	VERB	ADV	ADV	PRON	PRON	VERB
+saint	georges	a	dit	n	ayez	pas	peur	je	vous	aiderais
+
+enregistrement311.wav	8.33	30.0	25.0	12.5
+avec	mon	âne	de	la	savane	je	suis	en	route	pour	bethléem
+ADP	DET	NOUN	ADP	DET	NOUN	PRON	VERB	ADP	NOUN	ADP	VERB
+=	=	S	=	=	=	=	=	=	=	=	=
+ADP	DET	NOUN	ADP	DET	NOUN	PRON	VERB	ADP	NOUN	ADP	VERB
+avec	mon	âme	de	la	savane	je	suis	en	route	pour	bethléem
+
+enregistrement272.wav	8.33	30.0	25.0	12.5
+les	maitres	nous	ont	demandé	de	ne	pas	aller	à	l	école
+DET	NOUN	PRON	AUX	VERB	ADP	ADV	ADV	VERB	ADP	DET	NOUN
+=	S	=	=	=	=	=	=	=	=	=	=
+DET	NOUN	PRON	AUX	VERB	ADP	ADV	ADV	VERB	ADP	DET	NOUN
+les	maîtres	nous	ont	demandé	de	ne	pas	aller	à	l	école
+
+enregistrement330.wav	50.0	100.0	85.71428571428571	66.66666666666666
+l	infirmière	demande	à	papa	si	j	ai	des	allergies	aux	médicaments
+DET	NOUN	VERB	ADP	NOUN	SCONJ	PRON	VERB	DET	NOUN	DET	NOUN
+=	S	S	D	=	=	=	S	S	D	=	=
+DET	NOUN	VERB	<eps>	NOUN	SCONJ	PRON	AUX	ADJ	<eps>	DET	NOUN
+l	infirmeur	demanda	<eps>	papa	si	j	étais	allergie	<eps>	aux	médicaments
+
+enregistrement101.wav	36.36	60.0	60.0	33.33333333333333
+nager	jambes	crawlées	<eps>	avec	une	frite	de	piscine	dans	les	mains
+DET	NOUN	VERB	<eps>	ADP	DET	NOUN	ADP	NOUN	ADP	DET	NOUN
+=	S	S	I	=	=	=	=	S	=	=	=
+VERB	NOUN	ADP	NOUN	ADP	DET	NOUN	ADP	NOUN	ADP	DET	NOUN
+nager	jean	de	crolier	avec	une	frite	de	piscines	dans	les	mains
+
+enregistrement209.wav	7.69	25.0	18.75	11.538461538461538
+de	sorte	que	lorsqu	ils	tombent	sur	le	sol	ils	forment	un	tas
+ADP	NOUN	SCONJ	VERB	PRON	VERB	ADP	DET	NOUN	PRON	VERB	DET	NOUN
+=	=	=	=	=	=	=	=	=	=	=	=	S
+ADP	NOUN	SCONJ	VERB	PRON	VERB	ADP	DET	NOUN	PRON	VERB	DET	NOUN
+de	sorte	que	lorsqu	ils	tombent	sur	le	sol	ils	forment	un	ta
+
+enregistrement336.wav	9.09	0	0	9.090909090909092
+quand	la	fumée	ne	sort	plus	l	infirmière	enlève	mon	masque
+SCONJ	DET	NOUN	ADV	VERB	ADV	DET	NOUN	VERB	DET	NOUN
+=	=	=	=	=	=	=	=	=	S	=
+SCONJ	DET	NOUN	ADV	VERB	ADV	DET	NOUN	VERB	DET	NOUN
+quand	la	fumée	ne	sort	plus	l	infirmière	enlève	au	masque
+
+enregistrement53.wav	37.5	42.857142857142854	42.857142857142854	37.5
+l	eau	a	différentes	formes	solide	liquide	gazeux
+DET	NOUN	VERB	ADJ	NOUN	ADJ	ADJ	ADJ
+=	=	S	=	=	S	S	=
+DET	NOUN	ADP	DET	NOUN	ADJ	ADJ	ADJ
+l	eau	à	différentes	formes	solides	lychique	gazeux
+
+enregistrement42.wav	62.5	90.0	96.66666666666667	85.0
+les	gens	qui	sont	malades	prennent	des	médicaments
+DET	NOUN	PRON	AUX	ADJ	VERB	DET	NOUN
+D	D	D	D	D	=	=	=
+<eps>	<eps>	<eps>	<eps>	<eps>	VERB	DET	NOUN
+<eps>	<eps>	<eps>	<eps>	<eps>	prennent	des	médicaments
+
+enregistrement126.wav	7.14	0	0	6.666666666666667
+mais	elle	n	a	pas	pu	jouer	parce	qu	elle	devait	<eps>	garder	les	bêtes
+CCONJ	PRON	ADV	AUX	ADV	VERB	VERB	ADV	SCONJ	PRON	VERB	<eps>	VERB	DET	NOUN
+=	=	=	=	=	=	=	=	=	=	=	I	=	=	=
+CCONJ	PRON	ADV	AUX	ADV	VERB	VERB	ADV	SCONJ	PRON	VERB	ADV	VERB	DET	NOUN
+mais	elle	n	a	pas	pu	jouer	parce	qu	elle	devait	y	garder	les	bêtes
+
+enregistrement186.wav	25.0	75.0	71.66666666666667	35.833333333333336
+si	nous	les	jetons	à	la	poubelle	ils	finiront	à	la	décharge
+SCONJ	PRON	DET	VERB	ADP	DET	NOUN	PRON	VERB	ADP	DET	NOUN
+=	=	=	=	=	=	S	S	S	=	=	=
+SCONJ	PRON	PRON	VERB	ADP	DET	NOUN	ADJ	VERB	ADP	DET	NOUN
+si	nous	les	jetons	à	la	coupelle	pus	irons	à	la	décharge
+
+enregistrement300.wav	10.0	30.0	25.0	15.0
+dans	la	crêche	le	fermier	chantant	à	l	enfant	emmanuel
+ADP	PRON	VERB	DET	NOUN	VERB	ADP	DET	NOUN	ADJ
+=	=	S	=	=	=	=	=	=	=
+ADP	DET	NOUN	DET	NOUN	VERB	ADP	DET	NOUN	ADJ
+dans	la	crèche	le	fermier	chantant	à	l	enfant	emmanuel
+
+enregistrement331.wav	6.67	0	0	6.666666666666667
+je	m	assois	avec	papa	pour	qu	il	puisse	me	tenir	et	me	garder	calme
+PRON	PRON	NOUN	ADP	NOUN	ADP	SCONJ	PRON	VERB	PRON	VERB	CCONJ	PRON	VERB	ADV
+=	=	=	=	=	=	=	=	=	=	=	S	=	=	=
+PRON	AUX	VERB	ADP	NOUN	ADP	PRON	PRON	VERB	PRON	VERB	ADP	PRON	VERB	ADV
+je	m	assois	avec	papa	pour	qu	il	puisse	me	tenir	à	me	garder	calme
+
+enregistrement72.wav	7.14	37.5	21.428571428571427	10.714285714285714
+parfois	ils	me	mettent	de	la	pommade	pour	que	ça	ne	fasse	pas	mal
+ADV	PRON	PRON	VERB	ADP	DET	NOUN	ADP	SCONJ	PRON	ADV	VERB	ADV	NOUN
+=	=	=	=	=	=	S	=	=	=	=	=	=	=
+ADV	PRON	PRON	VERB	ADP	DET	NOUN	ADP	SCONJ	PRON	ADV	VERB	ADV	NOUN
+parfois	ils	me	mettent	de	la	pommate	pour	que	ça	ne	fasse	pas	mal
+
+enregistrement117.wav	36.36	25.0	21.428571428571427	29.166666666666668
+le	dragon	sortit	du	lac	et	mangea	<eps>	la	princesse	st	george
+PRON	VERB	VERB	ADP	NOUN	CCONJ	VERB	<eps>	DET	NOUN	ADP	PROPN
+=	=	S	=	=	=	=	I	=	=	S	S
+DET	NOUN	VERB	ADP	NOUN	CCONJ	VERB	ADP	DET	NOUN	ADJ	PROPN
+le	dragon	sorti	du	lac	et	mangea	à	la	princesse	saint	georges
+
+enregistrement179.wav	50.0	60.0	60.0	50.0
+les	sacs	remplissaient	tout	tiroirs	four	garde	manger
+DET	NOUN	VERB	ADV	ADJ	ADV	ADJ	NOUN
+=	=	=	=	S	S	S	D
+DET	NOUN	VERB	ADV	NOUN	ADJ	NOUN	<eps>
+les	sacs	remplissaient	tout	tiroir	faur	carmanger	<eps>
+
+enregistrement264.wav	20.0	50.0	37.5	30.0
+et	ce	fut	rudolf	tirant	le	traîneau	qui	faisait	sensation
+CCONJ	PRON	AUX	ADJ	VERB	DET	NOUN	PRON	VERB	NOUN
+=	=	=	S	=	=	S	=	=	=
+CCONJ	PRON	AUX	ADJ	VERB	DET	NOUN	PRON	VERB	NOUN
+et	ce	fut	rudeuf	tirant	le	tréneau	qui	faisait	sensation
+
+enregistrement275.wav	10.0	37.5	25.0	15.0
+je	retournerai	à	l	école	quand	mes	parents	le	décideront
+PRON	VERB	ADP	DET	NOUN	SCONJ	DET	NOUN	PRON	VERB
+=	=	=	=	=	=	=	=	=	S
+PRON	VERB	ADP	DET	NOUN	SCONJ	DET	NOUN	PRON	VERB
+je	retournerai	à	l	école	quand	mes	parents	le	décéderont
+
+enregistrement43.wav	10.0	0	0	0.0
+les	gens	ont	besoin	de	vêtements	nourritures	et	d	hygiène
+DET	NOUN	AUX	VERB	ADP	NOUN	ADJ	CCONJ	ADP	NOUN
+=	=	=	=	=	=	S	=	=	=
+DET	NOUN	AUX	VERB	ADP	NOUN	NOUN	CCONJ	ADP	NOUN
+les	gens	ont	besoin	de	vêtements	nourriture	et	d	hygiène
+
+enregistrement199.wav	54.55	90.0	93.33333333333333	76.36363636363637
+compter	combien	il	y	en	a	et	j	écrirai	le	nombre
+NOUN	VERB	PRON	PRON	PRON	VERB	CCONJ	PRON	VERB	DET	NOUN
+D	D	D	D	D	D	=	=	=	=	=
+<eps>	<eps>	<eps>	<eps>	<eps>	<eps>	CCONJ	PRON	VERB	DET	NOUN
+<eps>	<eps>	<eps>	<eps>	<eps>	<eps>	et	j	écrirai	le	nombre
+
+enregistrement189.wav	9.09	0	0	0.0
+ils	ont	été	acceptés	dans	l	usine	de	sacs	en	plastique
+PRON	AUX	AUX	VERB	ADP	DET	NOUN	ADP	NOUN	ADP	NOUN
+=	=	=	=	=	=	=	=	S	=	=
+PRON	AUX	AUX	VERB	ADP	DET	NOUN	ADP	NOUN	ADP	NOUN
+ils	ont	été	acceptés	dans	l	usine	de	sac	en	plastique
+
+enregistrement176.wav	61.54	85.71428571428571	85.71428571428571	69.23076923076923
+ana	et	sa	mère	vont	au	marché	en	portant	un	panier	à	provisions
+NOUN	CCONJ	DET	NOUN	VERB	DET	NOUN	ADP	VERB	DET	NOUN	ADP	NOUN
+S	S	S	S	D	D	D	=	=	=	=	=	S
+AUX	VERB	PRON	VERB	<eps>	<eps>	<eps>	ADP	VERB	DET	NOUN	ADP	NOUN
+amaet	samèr	vous	marcher	<eps>	<eps>	<eps>	en	portant	un	panier	à	provision
+
+enregistrement296.wav	8.33	21.428571428571427	21.428571428571427	12.5
+son	père	joue	de	la	grosse	caisse	sa	mère	joue	des	cymbales
+DET	NOUN	VERB	ADP	DET	ADJ	NOUN	DET	NOUN	VERB	DET	NOUN
+=	=	=	=	=	=	=	=	=	=	=	S
+DET	NOUN	VERB	ADP	DET	ADJ	NOUN	DET	NOUN	VERB	DET	NOUN
+son	père	joue	de	la	grosse	caisse	sa	mère	joue	des	symbales
+
+enregistrement103.wav	23.08	75.0	64.28571428571429	34.61538461538461
+on	nage	en	dos	crawlé	avec	la	frite	de	piscine	sur	la	nuque
+PRON	VERB	ADP	NOUN	VERB	ADP	DET	NOUN	ADP	NOUN	ADP	DET	NOUN
+=	S	=	=	S	=	=	=	=	=	=	=	S
+PRON	NOUN	ADP	NOUN	ADJ	ADP	DET	NOUN	ADP	NOUN	ADP	DET	NOUN
+on	age	en	dos	crollés	avec	la	frite	de	piscine	sur	la	nque
+
+enregistrement268.wav	20.0	30.0	21.428571428571427	22.727272727272727
+cela	se	produit	à	cause	d	un	virus	appelé	coronavirus	<eps>
+PRON	PRON	VERB	ADP	NOUN	ADP	DET	NOUN	VERB	NOUN	<eps>
+=	=	=	=	=	=	=	=	=	S	I
+PRON	PRON	VERB	ADP	NOUN	ADP	DET	NOUN	VERB	ADJ	NOUN
+cela	se	produit	à	cause	d	un	virus	appelé	corona	virus
+
+enregistrement192.wav	8.33	25.0	21.428571428571427	12.5
+ana	aimait	la	nature	et	se	battait	contre	les	sacs	en	plastique
+NOUN	VERB	DET	NOUN	CCONJ	PRON	VERB	ADP	DET	NOUN	ADP	NOUN
+S	=	=	=	=	=	=	=	=	=	=	=
+NOUN	VERB	DET	NOUN	CCONJ	PRON	VERB	ADP	DET	NOUN	ADP	NOUN
+anna	aimait	la	nature	et	se	battait	contre	les	sacs	en	plastique
+
+enregistrement221.wav	10.0	30.0	25.0	15.0
+les	gouttelettes	d	eau	produites	lorsque	la	nuit	se	refroidit
+DET	NOUN	ADP	NOUN	ADJ	SCONJ	DET	NOUN	PRON	VERB
+=	S	=	=	=	=	=	=	=	=
+DET	NOUN	ADP	NOUN	ADJ	SCONJ	DET	NOUN	PRON	VERB
+les	goutteslete	d	eau	produites	lorsque	la	nuit	se	refroidit
+
+enregistrement105.wav	8.33	25.0	21.428571428571427	12.5
+on	nage	sans	frite	de	piscine	avec	l	aide	du	maître	nageur
+PRON	VERB	ADP	NOUN	ADP	NOUN	ADP	DET	NOUN	DET	NOUN	ADJ
+=	S	=	=	=	=	=	=	=	=	=	=
+PRON	VERB	ADP	NOUN	ADP	NOUN	ADP	DET	NOUN	DET	NOUN	ADJ
+on	nâge	sans	frite	de	piscine	avec	l	aide	du	maître	nageur
+
+enregistrement265.wav	27.27	60.0	60.0	33.33333333333333
+et	à	partir	de	ce	moment	toutes	les	moqueries	prirent	fin	<eps>
+CCONJ	ADP	VERB	ADP	DET	NOUN	DET	DET	NOUN	VERB	NOUN	<eps>
+=	=	=	=	=	=	=	=	=	S	S	I
+CCONJ	ADP	VERB	ADP	DET	NOUN	DET	DET	NOUN	ADJ	VERB	ADV
+et	à	partir	de	ce	moment	toutes	les	moqueries	prifa	prire	fun
+
+enregistrement327.wav	8.33	30.0	21.428571428571427	12.5
+quand	je	ne	peux	pas	respirer	le	docteur	me	prescrit	des	aérosols
+SCONJ	PRON	ADV	VERB	ADV	VERB	DET	NOUN	PRON	VERB	DET	NOUN
+=	=	=	=	=	=	=	=	=	=	=	S
+SCONJ	PRON	ADV	VERB	ADV	VERB	DET	NOUN	PRON	VERB	DET	NOUN
+quand	je	ne	peux	pas	respirer	le	docteur	me	prescrit	des	aérossols
+
+enregistrement254.wav	33.33	50.0	50.0	44.44444444444444
+faire	travailler	le	cerveau	faire	des	puzzles	des	mémoris
+AUX	VERB	DET	NOUN	VERB	DET	NOUN	DET	NOUN
+=	=	=	=	=	=	S	S	S
+AUX	VERB	DET	NOUN	VERB	DET	NOUN	ADP	NOUN
+faire	travailler	le	cerveau	faire	des	pesoles	d	eminoris
+
+enregistrement281.wav	28.57	60.0	30.0	33.33333333333333
+je	me	lève	je	fais	ma	toilette	et	je	me	douche	sans	après	shampooing	<eps>
+PRON	PRON	VERB	PRON	VERB	DET	NOUN	CCONJ	PRON	PRON	VERB	ADP	ADP	NOUN	<eps>
+=	=	=	=	=	=	=	=	=	=	S	=	S	S	I
+PRON	PRON	VERB	PRON	VERB	DET	NOUN	CCONJ	PRON	PRON	VERB	ADP	VERB	NOUN	ADV
+je	me	lève	je	fais	ma	toilette	et	je	me	touche	sans	apprè	chan	poi
+
+enregistrement41.wav	23.08	64.28571428571429	50.0	34.61538461538461
+le	matin	je	prends	mon	bain	mon	petit	déjeuner	et	je	m	habille
+DET	NOUN	PRON	VERB	DET	NOUN	DET	ADJ	NOUN	CCONJ	PRON	AUX	VERB
+=	=	=	=	=	S	=	=	=	=	=	S	D
+DET	NOUN	PRON	VERB	DET	NOUN	DET	ADJ	NOUN	CCONJ	PRON	VERB	<eps>
+le	matin	je	prends	mon	pan	mon	petit	déjeuner	et	je	mhabille	<eps>
+
+enregistrement79.wav	16.67	0	0	0.0
+je	m	assois	tranquillement	pendant	que	le	compte	gouttes	finit	la	perfusion
+PRON	PRON	VERB	ADV	ADV	SCONJ	DET	NOUN	ADJ	VERB	DET	NOUN
+=	=	S	=	=	=	=	=	S	=	=	=
+PRON	PRON	VERB	ADV	ADV	SCONJ	DET	NOUN	VERB	VERB	DET	NOUN
+je	m	assoie	tranquillement	pendant	que	le	compte	goutte	finit	la	perfusion
+
+enregistrement89.wav	16.67	60.0	50.0	25.0
+je	contrôle	mon	insuline	tous	les	jours	avec	un	lecteur	de	glycémie
+PRON	VERB	DET	NOUN	DET	DET	NOUN	ADP	DET	NOUN	ADP	NOUN
+=	=	=	S	=	=	=	=	=	=	=	S
+PRON	VERB	DET	NOUN	DET	DET	NOUN	ADP	DET	NOUN	ADP	NOUN
+je	contrôle	mon	insuligne	tous	les	jours	avec	un	lecteur	de	lycémie
+
+enregistrement95.wav	7.14	25.0	25.0	10.714285714285714
+s	asseoir	sur	le	bord	de	la	piscine	et	bouger	les	jambes	très	rapidement
+VERB	VERB	ADP	DET	NOUN	ADP	DET	NOUN	CCONJ	VERB	DET	NOUN	ADV	ADV
+=	=	=	=	=	=	=	=	=	=	=	S	=	=
+VERB	VERB	ADP	DET	NOUN	ADP	DET	NOUN	CCONJ	VERB	DET	NOUN	ADV	ADV
+s	asseoir	sur	le	bord	de	la	piscine	et	bouger	les	gembes	très	rapidement
+
+enregistrement334.wav	7.14	0	0	7.142857142857142
+pendant	ce	temps	je	prends	une	profonde	respiration	et	je	ne	peux	pas	bouger
+ADP	DET	NOUN	PRON	VERB	DET	ADJ	NOUN	CCONJ	PRON	ADV	VERB	ADV	VERB
+=	=	=	=	=	=	=	=	D	=	=	=	=	=
+ADP	DET	NOUN	PRON	VERB	DET	ADJ	NOUN	<eps>	PRON	ADV	VERB	ADV	VERB
+pendant	ce	temps	je	prends	une	profonde	respiration	<eps>	je	ne	peux	pas	bouger
+
+enregistrement255.wav	20.0	21.428571428571427	21.428571428571427	15.0
+travailler	et	jouer	en	équipe	nettoyer	balayer	jeux	de	société
+VERB	CCONJ	VERB	ADP	NOUN	NOUN	ADJ	NOUN	ADP	NOUN
+=	=	=	=	=	S	S	=	=	=
+VERB	CCONJ	VERB	ADP	NOUN	ADJ	ADJ	NOUN	ADP	NOUN
+travailler	et	jouer	en	équipe	nettoye	balayé	jeux	de	société
+
+enregistrement274.wav	6.67	30.0	18.75	10.0
+je	n	irai	pas	à	l	école	demain	mais	mes	maitresses	pensent	toujours	à	moi
+PRON	PRON	VERB	ADV	ADP	DET	NOUN	ADJ	CCONJ	DET	NOUN	VERB	ADV	ADP	PRON
+=	=	=	=	=	=	=	=	=	=	S	=	=	=	=
+PRON	PRON	VERB	ADV	ADP	DET	NOUN	ADJ	CCONJ	DET	NOUN	VERB	ADV	ADP	PRON
+je	n	irai	pas	à	l	école	demain	mais	mes	maîtresses	pensent	toujours	à	moi
+
+enregistrement88.wav	63.64	100.0	93.33333333333333	71.66666666666667
+si	je	me	sens	mal	je	peux	aussi	manger	un	bonbon	<eps>
+SCONJ	PRON	PRON	VERB	ADV	PRON	ADV	ADV	VERB	DET	NOUN	<eps>
+D	=	D	D	D	D	=	=	=	=	S	I
+<eps>	PRON	<eps>	<eps>	<eps>	<eps>	VERB	ADV	VERB	DET	ADJ	NOUN
+<eps>	je	<eps>	<eps>	<eps>	<eps>	peux	aussi	manger	un	bon	bon
+
+enregistrement113.wav	7.14	21.428571428571427	18.75	10.714285714285714
+le	roi	triste	et	en	larmes	embrassa	la	princesse	et	lui	dit	au	revoir
+DET	NOUN	ADJ	CCONJ	ADP	NOUN	VERB	DET	NOUN	CCONJ	PRON	VERB	DET	NOUN
+=	=	=	=	=	S	=	=	=	=	=	=	=	=
+DET	NOUN	ADJ	CCONJ	ADP	NOUN	VERB	DET	NOUN	CCONJ	PRON	VERB	DET	NOUN
+le	roi	triste	et	en	lames	embrassa	la	princesse	et	lui	dit	au	revoir
+
+enregistrement335.wav	7.69	0	0	7.6923076923076925
+ils	mettent	un	appareil	sur	mon	doigt	pour	voir	si	je	respire	correctement
+PRON	VERB	DET	NOUN	ADP	DET	NOUN	ADP	VERB	SCONJ	PRON	VERB	NOUN
+=	=	S	=	=	=	=	=	=	=	=	=	=
+PRON	VERB	ADP	NOUN	ADP	DET	NOUN	ADP	VERB	SCONJ	PRON	VERB	NOUN
+ils	mettent	en	appareil	sur	mon	doigt	pour	voir	si	je	respire	correctement
+
+enregistrement188.wav	14.29	25.0	16.666666666666664	10.714285714285714
+le	monsieur	du	magasin	ne	les	a	pas	acceptées	il	en	voulait	des	neufs
+DET	NOUN	DET	NOUN	ADV	PRON	AUX	ADV	VERB	PRON	PRON	VERB	DET	NOUN
+=	=	=	=	=	=	=	=	S	=	=	=	=	S
+DET	NOUN	DET	NOUN	ADV	PRON	AUX	ADV	VERB	PRON	PRON	VERB	DET	NUM
+le	monsieur	du	magasin	ne	les	a	pas	accepté	il	en	voulait	des	9
+
+enregistrement329.wav	7.14	25.0	18.75	10.714285714285714
+nous	attendons	que	l	infirmière	nous	appelle	et	entrons	dans	la	salle	de	consultation
+PRON	VERB	SCONJ	DET	NOUN	PRON	VERB	CCONJ	VERB	ADP	DET	NOUN	ADP	NOUN
+=	=	=	=	=	=	=	=	S	=	=	=	=	=
+PRON	VERB	SCONJ	DET	NOUN	PRON	VERB	CCONJ	VERB	ADP	DET	NOUN	ADP	NOUN
+nous	attendons	que	l	infirmière	nous	appelle	et	rentrons	dans	la	salle	de	consultation
+
+enregistrement218.wav	14.29	30.0	25.0	17.857142857142858
+un	ou	une	enfant	attrape	et	les	autres	courent	dans	la	cour	de	récréation
+DET	CCONJ	DET	NOUN	VERB	CCONJ	DET	PRON	VERB	ADP	DET	NOUN	ADP	NOUN
+=	=	=	=	=	D	=	=	S	=	=	=	=	=
+DET	NOUN	DET	NOUN	VERB	<eps>	DET	ADJ	NOUN	ADP	DET	NOUN	ADP	NOUN
+un	ou	une	enfant	attrape	<eps>	les	autres	cours	dans	la	cour	de	récréation
+
+enregistrement191.wav	13.33	25.0	18.75	16.666666666666664
+maintenant	quand	elles	font	les	courses	elles	mettent	les	affaires	dans	leur	panier	sans	sac
+ADV	SCONJ	PRON	VERB	DET	NOUN	PRON	VERB	DET	NOUN	ADP	DET	NOUN	ADP	NOUN
+=	=	=	=	=	=	=	S	S	=	=	=	=	=	=
+ADV	SCONJ	PRON	VERB	DET	NOUN	PRON	VERB	DET	NOUN	ADP	DET	NOUN	ADP	NOUN
+maintenant	quand	elles	font	les	courses	elles	metthent	des	affaires	dans	leur	panier	sans	sac
+
+enregistrement63.wav	33.33	50.0	42.857142857142854	35.714285714285715
+olentzero	<eps>	<eps>	nous	a	quitté	vers	la	montagne	pour	travailler	faire	du	charbon
+NOUN	<eps>	<eps>	PRON	AUX	VERB	ADP	DET	NOUN	ADP	VERB	ADV	DET	NOUN
+S	I	I	=	=	=	=	=	=	=	=	=	=	S
+NOUN	PRON	PRON	PRON	AUX	VERB	ADP	DET	NOUN	ADP	VERB	ADV	DET	NOUN
+hollend	ze	ro	nous	a	quitté	vers	la	montagne	pour	travailler	faire	du	jarbon
+
+enregistrement183.wav	14.29	18.75	16.666666666666664	10.714285714285714
+ana	pensait	que	quelque	chose	devait	être	fait	elle	ne	trouvait	pas	sa	poupée
+NOUN	VERB	SCONJ	DET	NOUN	VERB	AUX	VERB	PRON	ADV	VERB	ADV	DET	NOUN
+S	S	=	=	=	=	=	=	=	=	=	=	=	=
+NOUN	VERB	SCONJ	DET	NOUN	VERB	AUX	VERB	PRON	ADV	VERB	ADV	DET	NOUN
+anna	pensé	que	quelque	chose	devait	être	fait	elle	ne	trouvait	pas	sa	poupée
+
+enregistrement332.wav	23.08	25.0	25.0	23.333333333333332
+l	infirmière	prépare	l	aérosol	<eps>	<eps>	avec	de	la	solution	saline	et	le	médicament
+DET	NOUN	VERB	DET	NOUN	<eps>	<eps>	ADP	ADP	DET	NOUN	ADJ	CCONJ	DET	NOUN
+=	=	=	=	S	I	I	=	=	=	=	=	=	=	=
+DET	NOUN	VERB	DET	NOUN	CCONJ	NOUN	ADP	ADP	DET	NOUN	ADJ	CCONJ	DET	NOUN
+l	infirmière	prépare	l	aer	ou	sol	avec	de	la	solution	saline	et	le	médicament
+
+enregistrement76.wav	54.55	50.0	50.0	38.46153846153847
+prenez	le	pouls	pour	trouver	la	veine	et	placez	le	cathéter	<eps>	<eps>
+VERB	DET	NOUN	ADP	VERB	DET	NOUN	CCONJ	VERB	DET	NOUN	<eps>	<eps>
+=	=	S	=	=	=	=	=	S	S	S	I	I
+VERB	DET	NOUN	ADP	VERB	DET	NOUN	CCONJ	VERB	DET	NOUN	CCONJ	NOUN
+prenez	le	pou	pour	trouver	la	veine	et	placer	la	câte	et	terre
+
+enregistrement98.wav	5.88	18.75	18.75	8.823529411764707
+nos	bras	font	des	mouvements	de	crawl	en	posant	nos	mains	sur	le	bord	de	la	piscine
+DET	NOUN	VERB	DET	NOUN	ADP	NOUN	ADP	VERB	DET	NOUN	ADP	DET	NOUN	ADP	DET	NOUN
+=	=	=	=	=	=	S	=	=	=	=	=	=	=	=	=	=
+DET	NOUN	VERB	DET	NOUN	ADP	NOUN	ADP	VERB	DET	NOUN	ADP	DET	NOUN	ADP	DET	NOUN
+nos	bras	font	des	mouvements	de	crôles	en	posant	nos	mains	sur	le	bord	de	la	piscine
+
+enregistrement82.wav	15.38	0	0	15.384615384615385
+le	diabète	c	est	quand	mon	pancréas	arrête	de	produire	de	l	insuline
+DET	NOUN	PRON	VERB	SCONJ	DET	NOUN	VERB	ADP	VERB	ADP	DET	NOUN
+=	=	=	=	S	D	=	=	=	=	=	=	=
+DET	NOUN	PRON	AUX	ADP	<eps>	NOUN	VERB	ADP	VERB	ADP	DET	NOUN
+le	diabète	c	est	comme	<eps>	pancréas	arrête	de	produire	de	l	insuline
+
+enregistrement304.wav	72.73	75.0	60.0	71.42857142857143
+le	caneton	coin	coin	coin	le	fermier	hallelujah	et	<eps>	<eps>	<eps>	vive	noël
+PRON	NOUN	VERB	ADJ	NOUN	PRON	VERB	NOUN	DET	<eps>	<eps>	<eps>	ADJ	NOUN
+=	=	S	S	S	=	=	S	S	I	I	I	=	=
+PRON	NOUN	VERB	ADP	PRON	PRON	VERB	PRON	PRON	PRON	PRON	ADP	VERB	NOUN
+le	caneton	qoiqu	en	coi	le	fermier	alle	lo	il	y	a	vive	noël
+
+enregistrement271.wav	6.25	0	0	0.0
+ce	virus	est	dans	l	air	et	peut	pénétrer	dans	notre	corps	et	nous	rendre	malades
+DET	NOUN	AUX	ADP	DET	NOUN	CCONJ	VERB	VERB	ADP	DET	NOUN	CCONJ	PRON	VERB	NOUN
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	S
+DET	NOUN	AUX	ADP	DET	NOUN	CCONJ	VERB	VERB	ADP	DET	NOUN	CCONJ	PRON	VERB	NOUN
+ce	virus	est	dans	l	air	et	peut	pénétrer	dans	notre	corps	et	nous	rendre	malade
+
+enregistrement277.wav	16.67	0	0	7.6923076923076925
+dans	ma	maison	je	peux	jouer	sauter	regarder	<eps>	la	télévision	et	dessiner
+ADP	DET	NOUN	PRON	VERB	VERB	ADV	VERB	<eps>	DET	NOUN	CCONJ	VERB
+=	=	=	=	=	=	=	=	I	=	=	=	S
+ADP	DET	NOUN	PRON	VERB	VERB	ADV	VERB	ADP	DET	NOUN	CCONJ	NOUN
+dans	ma	maison	je	peux	jouer	sauter	regarder	à	la	télévision	et	dessiné
+
+enregistrement286.wav	29.41	42.857142857142854	37.5	23.52941176470588
+ils	collent	des	électrodes	sur	la	tête	avec	du	gel	ou	mettent	un	bonnet	sur	ma	tête
+PRON	VERB	DET	NOUN	ADP	DET	NOUN	ADP	DET	NOUN	CCONJ	VERB	DET	NOUN	ADP	DET	NOUN
+S	S	=	S	=	=	=	=	=	=	=	S	S	=	=	=	=
+PRON	VERB	DET	NOUN	ADP	DET	NOUN	ADP	DET	NOUN	CCONJ	NOUN	DET	NOUN	ADP	DET	NOUN
+il	colle	des	électrotes	sur	la	tête	avec	du	gel	ou	met	an	bonnet	sur	ma	tête
+
+enregistrement262.wav	10.53	18.75	15.0	13.157894736842104
+tous	ses	collègues	n	arrêtaient	pas	de	rire	et	notre	bon	ami	ne	pouvait	pas	s	arrêter	de	pleurer
+DET	DET	NOUN	PRON	VERB	ADV	ADP	VERB	CCONJ	DET	ADJ	NOUN	ADV	VERB	ADV	PRON	VERB	ADP	VERB
+=	S	=	=	=	=	=	=	=	=	=	S	=	=	=	=	=	=	=
+DET	DET	NOUN	PRON	VERB	ADV	ADP	NOUN	CCONJ	DET	ADJ	NOUN	ADV	VERB	ADV	PRON	VERB	ADP	VERB
+tous	ces	collègues	n	arrêtaient	pas	de	rire	et	notre	bon	amie	ne	pouvait	pas	s	arrêter	de	pleurer
+
+enregistrement65.wav	21.43	50.0	37.5	26.666666666666668
+voilà	notre	olentzero	<eps>	celui	qui	a	la	pipe	dans	les	dents	et	est	assis
+ADV	DET	NOUN	<eps>	PRON	PRON	VERB	DET	NOUN	ADP	DET	NOUN	CCONJ	AUX	NOUN
+=	=	S	I	=	=	=	=	=	=	=	=	=	=	S
+ADV	DET	NOUN	VERB	PRON	PRON	VERB	DET	NOUN	ADP	DET	NOUN	CCONJ	AUX	ADJ
+voilà	notre	holène	séro	celui	qui	a	la	pipe	dans	les	dents	et	est	assi
+
+enregistrement177.wav	35.71	21.428571428571427	18.75	30.0
+chaque	produit	alimentaire	qu	ils	achètent	leur	<eps>	est	remis	dans	un	sac	11	sacs
+DET	NOUN	ADJ	SCONJ	PRON	VERB	DET	<eps>	NOUN	VERB	ADP	DET	NOUN	NUM	NOUN
+=	=	=	=	=	=	S	I	=	S	=	=	=	S	S
+DET	NOUN	ADJ	SCONJ	PRON	VERB	DET	NOUN	AUX	ADJ	ADP	DET	NOUN	NUM	NOUN
+chaque	produit	alimentaire	qu	ils	achètent	l	eur	est	rumis	dans	un	sac	onze	sac
+
+enregistrement190.wav	41.67	50.0	62.22222222222222	46.666666666666664
+ils	les	briseraient	les	dissoudraient	et	fabriqueraient	de	nouveaux	sacs	en	plastique
+PRON	PRON	VERB	PRON	VERB	CCONJ	VERB	DET	ADJ	NOUN	ADP	NOUN
+D	=	S	D	D	=	S	=	=	=	=	=
+<eps>	PRON	VERB	<eps>	<eps>	CCONJ	VERB	DET	ADJ	NOUN	ADP	NOUN
+<eps>	les	dissoudrait	<eps>	<eps>	et	fabriquerait	de	nouveaux	sacs	en	plastique
+
+enregistrement100.wav	10.53	42.857142857142854	30.0	15.789473684210526
+on	s	appuie	sur	le	bord	de	la	piscine	et	on	bouge	les	pieds	rapidement	en	faisant	du	crawl
+PRON	PRON	VERB	ADP	DET	NOUN	ADP	DET	NOUN	CCONJ	PRON	VERB	DET	NOUN	ADV	ADP	VERB	DET	NOUN
+=	=	=	=	=	=	=	=	=	=	=	=	=	S	=	=	=	=	S
+PRON	PRON	VERB	ADP	DET	NOUN	ADP	DET	NOUN	CCONJ	PRON	VERB	DET	NOUN	ADV	ADP	VERB	DET	NOUN
+on	s	appuie	sur	le	bord	de	la	piscine	et	on	bouge	les	pierres	rapidement	en	faisant	du	crole
+
+enregistrement64.wav	17.65	0	0	15.789473684210526
+quand	il	a	entendu	que	jésus	était	né	il	est	venu	en	courant	<eps>	<eps>	donner	la	bonne	nouvelle
+SCONJ	PRON	AUX	VERB	SCONJ	PRON	AUX	VERB	PRON	AUX	VERB	ADP	NOUN	<eps>	<eps>	VERB	DET	ADJ	NOUN
+=	=	=	=	=	=	=	=	=	=	=	S	=	I	I	=	=	=	=
+SCONJ	PRON	AUX	VERB	SCONJ	PRON	AUX	VERB	PRON	AUX	VERB	DET	NOUN	DET	NOUN	VERB	DET	ADJ	NOUN
+quand	il	a	entendu	que	jésus	était	né	il	est	venu	au	courant	au	courant	donner	la	bonne	nouvelle
+
+enregistrement77.wav	25.0	21.428571428571427	21.428571428571427	15.625
+connectez	le	cathéter	de	la	clé	à	3	étapes	et	le	système	et	appliquez	le	sparadrap
+VERB	DET	NOUN	ADP	DET	NOUN	ADP	NUM	NOUN	CCONJ	DET	NOUN	CCONJ	VERB	DET	NOUN
+S	=	S	=	=	=	=	S	=	=	=	=	=	S	=	=
+VERB	DET	NOUN	ADP	DET	NOUN	ADP	NUM	NOUN	CCONJ	DET	NOUN	CCONJ	VERB	DET	NOUN
+connecter	le	câtetare	de	la	clé	à	trois	étapes	et	le	système	et	appliquer	le	sparadrap
+
+enregistrement261.wav	26.67	56.25	56.25	36.666666666666664
+rudolph	était	un	renne	au	nez	rouge	comme	le	grenat	et	d	une	singulière	luminosité
+PROPN	AUX	DET	NOUN	DET	NOUN	ADJ	ADP	DET	NOUN	CCONJ	ADP	DET	NOUN	ADJ
+S	=	S	S	=	S	=	=	=	=	=	=	=	=	=
+PROPN	AUX	ADP	NOUN	DET	NOUN	ADJ	ADP	DET	NOUN	CCONJ	ADP	DET	NOUN	ADJ
+rudolf	était	en	reine	au	neyt	rouge	comme	le	grenat	et	d	une	singulière	luminosité
+
+enregistrement306.wav	23.53	75.0	66.66666666666666	35.294117647058826
+et	c	est	ainsi	que	fut	formé	le	choeur	de	chant	de	la	ferme	de	junaito	piruli
+CCONJ	PRON	AUX	ADV	SCONJ	AUX	VERB	DET	NOUN	ADP	NOUN	ADP	DET	NOUN	ADP	NOUN	NOUN
+=	=	=	=	=	=	=	=	S	=	S	=	=	=	=	S	S
+CCONJ	PRON	AUX	ADV	SCONJ	AUX	VERB	DET	NOUN	ADP	NOUN	ADP	DET	NOUN	ADP	NOUN	NOUN
+et	c	est	ainsi	que	fut	formé	le	coeur	de	champ	de	la	ferme	de	juanto	pioli
+
+enregistrement317.wav	21.05	45.0	45.0	27.500000000000004
+les	enfants	font	le	tour	des	maisons	en	jouant	et	en	criant	trick	or	treaters	pour	obtenir	des	bonbons	<eps>
+DET	NOUN	VERB	DET	NOUN	DET	NOUN	ADP	VERB	CCONJ	ADP	NOUN	NOUN	CCONJ	ADJ	ADP	VERB	DET	NOUN	<eps>
+=	=	=	=	=	=	=	=	=	=	=	=	S	=	S	=	=	=	S	I
+DET	NOUN	VERB	DET	NOUN	DET	NOUN	ADP	VERB	CCONJ	ADP	VERB	NOUN	CCONJ	ADJ	ADP	VERB	DET	ADJ	NOUN
+les	enfants	font	le	tour	des	maisons	en	jouant	et	en	criant	chek	or	treters	pour	obtenir	des	bons	bons
+
+enregistrement263.wav	16.67	23.076923076923077	23.076923076923077	21.052631578947366
+mais	<eps>	noël	est	arrivé	le	père	noël	est	descendu	et	rudolph	a	été	choisi	pour	son	nez	unique
+CCONJ	<eps>	NOUN	AUX	VERB	DET	NOUN	ADJ	AUX	VERB	CCONJ	ADJ	AUX	AUX	VERB	ADP	DET	NOUN	ADJ
+=	I	=	=	S	=	=	=	=	=	=	S	=	=	=	=	=	=	=
+CCONJ	DET	NOUN	AUX	VERB	DET	NOUN	ADJ	AUX	VERB	CCONJ	ADJ	AUX	AUX	VERB	ADP	DET	NOUN	ADJ
+mais	le	noël	est	arrivée	le	père	noël	est	descendu	et	rudolf	a	été	choisi	pour	son	nez	unique
+
+enregistrement303.wav	76.92	109.09090909090908	101.17647058823529	93.07692307692308
+dans	la	ferme	de	juanito	piruli	la	poule	personne	ne	sait	où	elle	est	on	l	a	cherchée	par	ici	on	l	a	cherchée	par	là
+ADP	DET	NOUN	ADP	NOUN	ADJ	DET	NOUN	PRON	ADV	VERB	ADV	PRON	AUX	PRON	PRON	AUX	VERB	ADP	ADV	PRON	PRON	AUX	VERB	ADP	NOUN
+S	=	S	S	D	D	D	D	D	D	D	D	D	D	=	=	=	S	=	D	D	D	D	D	D	=
+PRON	PRON	VERB	VERB	<eps>	<eps>	<eps>	<eps>	<eps>	<eps>	<eps>	<eps>	<eps>	<eps>	PRON	PRON	AUX	VERB	ADP	<eps>	<eps>	<eps>	<eps>	<eps>	<eps>	NOUN
+on	la	cherchait	parisi	<eps>	<eps>	<eps>	<eps>	<eps>	<eps>	<eps>	<eps>	<eps>	<eps>	on	l	a	cherché	par	<eps>	<eps>	<eps>	<eps>	<eps>	<eps>	là
+
+enregistrement305.wav	26.92	54.54545454545454	50.588235294117645	36.92307692307692
+dans	la	ferme	de	juanito	piruli	le	mouton	personne	ne	sait	où	il	est	on	l	a	cherché	par	ici	on	l	a	cherché	par	là
+ADP	DET	NOUN	ADP	NOUN	ADJ	DET	NOUN	PRON	ADV	VERB	ADV	PRON	AUX	PRON	PRON	AUX	VERB	ADP	ADV	PRON	PRON	AUX	VERB	ADP	NOUN
+=	=	=	=	=	S	=	=	=	=	=	=	=	=	=	S	S	S	D	=	=	S	D	=	=	=
+ADP	DET	NOUN	ADP	NOUN	ADJ	DET	NOUN	PRON	ADV	VERB	ADV	PRON	AUX	PRON	PRON	VERB	ADV	<eps>	ADV	PRON	PRON	<eps>	VERB	ADP	NOUN
+dans	la	ferme	de	juanito	perili	le	mouton	personne	ne	sait	où	il	est	on	la	cherchéi	pas	<eps>	ici	on	la	<eps>	cherché	par	là
+
+enregistrement298.wav	3.85	13.636363636363635	8.823529411764707	5.769230769230769
+dans	la	ferme	de	juanito	piruli	le	fermier	personne	ne	sait	où	il	est	on	l	a	cherché	par	ici	on	l	a	cherché	par	là
+ADP	DET	NOUN	ADP	NOUN	ADJ	DET	NOUN	PRON	ADV	VERB	ADV	PRON	AUX	PRON	PRON	AUX	VERB	ADP	ADV	PRON	PRON	AUX	VERB	ADP	NOUN
+=	=	=	=	=	S	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+ADP	DET	NOUN	ADP	NOUN	VERB	DET	NOUN	PRON	ADV	VERB	ADV	PRON	AUX	PRON	PRON	AUX	VERB	ADP	ADV	PRON	PRON	AUX	VERB	ADP	NOUN
+dans	la	ferme	de	juanito	peru	le	fermier	personne	ne	sait	où	il	est	on	l	a	cherché	par	ici	on	l	a	cherché	par	là
+
+enregistrement302.wav	26.92	68.18181818181817	51.76470588235295	36.2962962962963
+dans	la	ferme	de	juanito	piruli	le	caneton	<eps>	personne	ne	sait	où	il	est	on	l	a	cherché	par	ici	on	l	a	cherché	par	là
+ADP	DET	NOUN	ADP	NOUN	ADJ	DET	NOUN	<eps>	PRON	ADV	VERB	ADV	PRON	AUX	PRON	PRON	AUX	VERB	ADP	ADV	PRON	PRON	AUX	VERB	ADP	NOUN
+=	=	=	=	S	S	=	S	I	=	=	=	=	=	=	=	S	S	D	=	=	=	=	=	=	=	=
+ADP	DET	NOUN	ADP	NOUN	VERB	DET	NOUN	ADJ	PRON	ADV	VERB	ADV	PRON	AUX	PRON	PRON	VERB	<eps>	ADP	ADV	PRON	PRON	AUX	VERB	ADP	NOUN
+dans	la	ferme	de	grwagnito	perely	le	cane	tombe	personne	ne	sait	où	il	est	on	la	cherchat	<eps>	par	ici	on	l	a	cherché	par	là
+
+enregistrement293.wav	45.45	69.23076923076923	73.57142857142858	60.45454545454546
+pinocchio	est	allé	pêcher	dans	le	fleuve	guadalquivir	il	a	laissé	tomber	sa	canne	à	pêche	et	a	péché	avec	son	nez
+NOUN	AUX	ADV	VERB	ADP	DET	NOUN	ADJ	PRON	AUX	VERB	VERB	DET	NOUN	ADP	NOUN	CCONJ	AUX	VERB	ADP	DET	NOUN
+S	S	S	D	D	D	D	D	D	=	=	=	=	=	=	=	=	=	=	=	=	S
+CCONJ	ADV	PRON	<eps>	<eps>	<eps>	<eps>	<eps>	<eps>	AUX	VERB	VERB	DET	NOUN	ADP	NOUN	CCONJ	AUX	VERB	ADP	DET	NOUN
+n	leleue	l	<eps>	<eps>	<eps>	<eps>	<eps>	<eps>	a	laissé	tomber	sa	canne	à	pêche	et	a	péché	avec	son	ez
+
+enregistrement292.wav	26.92	52.94117647058824	52.94117647058824	34.61538461538461
+les	pictogrammes	utilisés	par	arasaac	font	partie	d	une	oeuvre	collective	propriété	de	la	diputacion	general	de	aragon	et	ont	été	créés	sous	licence	creative	commons
+DET	NOUN	VERB	ADP	PROPN	VERB	NOUN	ADP	DET	NOUN	ADJ	NOUN	ADP	DET	NOUN	ADJ	ADP	NOUN	CCONJ	AUX	AUX	VERB	ADP	NOUN	ADJ	ADJ
+=	S	=	=	S	=	=	=	=	=	=	=	=	=	S	S	=	=	=	=	=	S	=	=	S	S
+DET	NOUN	VERB	ADP	NOUN	VERB	NOUN	ADP	DET	NOUN	ADJ	NOUN	ADP	DET	NOUN	ADJ	ADP	NOUN	CCONJ	AUX	AUX	VERB	ADP	NOUN	ADJ	NOUN
+les	pitogrammes	utilisés	par	arassag	font	partie	d	une	oeuvre	collective	propriété	de	la	députation	générale	de	aragon	et	ont	été	créées	sous	licence	cuitive	comens
+
